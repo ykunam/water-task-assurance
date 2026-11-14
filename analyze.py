@@ -10,7 +10,24 @@ from assurance import ROOT, OUT, SEED, FORECAST, CATALOGUES
 
 GATES = ["Scope", "Storage rule", "Hold RF", "Whole RF", "Calibrated whole RF",
          "Nominal hold", "Nominal task", "Robust hold", "Robust whole",
-         "Robust task no validity", "Robust task", "Learned robust task", "Deny all"]
+         "Robust task no validity", "Robust task", "Learned robust task", "Residual task", "Deny all"]
+
+
+def severity(evaluation):
+    if "error" in evaluation:
+        return float("inf")
+    coordinates = [evaluation["hold_unmet_delta"]/.01,
+                   evaluation["hold_tank_hours_delta"],
+                   evaluation["whole_unmet_delta"]/.01,
+                   evaluation["whole_tank_hours_delta"],
+                   evaluation["terminal_unmet_delta"]/.001,
+                   evaluation["terminal_storage_deficit"]/.05]
+    return max(0., *coordinates)
+
+
+def residual_order_statistic(values):
+    rank = int(np.ceil((len(values) + 1)*.9))
+    return None if rank > len(values) else float(sorted(values)[rank-1])
 
 
 def predicted_allow(evaluation, horizon="whole", recovery=True, validity=True):
@@ -37,6 +54,12 @@ def decide(gate, view, threshold):
     if gate == "Learned robust task" and view["whole_score"] >= threshold:
         return False, 0
     forecasts = view["forecasts"]
+    if gate == "Residual task":
+        margin = view["residual_margin"]
+        valid = all("error" not in x and x["assessable"] and x["realized"] == 1
+                    for x in forecasts)
+        maximum = max(severity(x) for x in forecasts)
+        return bool(valid and margin is not None and maximum + margin < 1), 3
     if gate.startswith("Nominal"):
         return predicted_allow(forecasts[1], horizon="hold" if gate == "Nominal hold" else "whole",
                                recovery=gate == "Nominal task"), 1
@@ -125,6 +148,16 @@ def fit_network(a):
                 calibration_indeterminate_excluded=int(((a.split == "calibration") & ~a.assessable).sum()),
                 calibration_failures=int(failed.sum()), threshold=best[1],
                 calibration_failure_acceptance=best[2], calibration_acceptable_retention=best[0])
+    residuals = []
+    for _, group in a[a.split == "calibration"].groupby("task_id"):
+        if group.assessable.all() and all(all("error" not in x for x in row)
+                                          for row in group.forecasts):
+            residuals.append(max(0., max(severity(r.actual) - max(severity(x) for x in r.forecasts)
+                                         for r in group.itertuples())))
+    meta["residual_margin"] = residual_order_statistic(residuals)
+    meta["residual_calibration_tasks"] = len(residuals)
+    meta["residual_order_rank"] = int(np.ceil((len(residuals)+1)*.9))
+    meta["residual_calibration_values"] = residuals
     return a, meta
 
 
@@ -166,7 +199,8 @@ def analyze(smoke=False):
         fitted.append(a)
         test = a[a.split == "test"].copy()
         views = {i: dict(hold_score=r.hold_score, whole_score=r.whole_score,
-                         forecasts=r.forecasts, storage_rule=bool(r.storage_rule))
+                         forecasts=r.forecasts, storage_rule=bool(r.storage_rule),
+                         residual_margin=meta["residual_margin"])
                  for i, r in test.iterrows()}
         for gate in GATES:
             decision = {i: decide(gate, v, meta["threshold"]) for i, v in views.items()}
@@ -207,7 +241,8 @@ def analyze(smoke=False):
     serialized.to_csv(OUT / "candidate_outcomes.csv", index=False)
     for gate in GATES:
         serialized["allow_" + gate] = [decide(gate, dict(hold_score=r.hold_score,
-            whole_score=r.whole_score, forecasts=r.forecasts, storage_rule=r.storage_rule),
+            whole_score=r.whole_score, forecasts=r.forecasts, storage_rule=r.storage_rule,
+            residual_margin=manifests[r.network]["residual_margin"]),
             manifests[r.network]["threshold"])[0] for r in fitted.itertuples()]
     serialized.to_csv(OUT / "candidate_decisions.csv", index=False)
     pd.DataFrame(candidate_stats).to_csv(OUT / "candidate_metrics.csv", index=False)
@@ -230,6 +265,19 @@ def analyze(smoke=False):
                 block_interval=block_interval(delta.to_numpy())))
     (OUT / "paired_contrasts.json").write_text(json.dumps(contrasts, indent=2))
     (OUT / "fit_manifest.json").write_text(json.dumps(manifests, indent=2))
+    containment = []
+    for network, group in fitted[fitted.split == "test"].groupby("network"):
+        margin = manifests[network]["residual_margin"]
+        for task_id, task in group.groupby("task_id"):
+            valid = bool(task.assessable.all()) and all(all("error" not in x for x in fs)
+                                                       for fs in task.forecasts)
+            actual_residual = (max(0., max(severity(r.actual) - max(severity(x) for x in r.forecasts)
+                                           for r in task.itertuples())) if valid else None)
+            containment.append(dict(network=network, task_id=task_id,
+                outside_grid=bool(task.outside_grid.iloc[0]), assessable=valid,
+                margin=margin, observed_residual=actual_residual,
+                contained=(bool(actual_residual <= margin) if valid and margin is not None else None)))
+    (OUT / "residual_containment.json").write_text(json.dumps(containment, indent=2))
     (OUT / "state_failures.json").write_text(json.dumps(errors, indent=2))
     numerical = {}
     for net, g in fitted.groupby("network"):

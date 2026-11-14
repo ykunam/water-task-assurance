@@ -3,7 +3,7 @@ import unittest
 import numpy as np
 import wntr
 import assurance as a
-from analyze import decide, agent_order, propose_until_allowed, predicted_allow
+from analyze import decide, agent_order, propose_until_allowed, predicted_allow, residual_order_statistic
 
 
 def tiny_model():
@@ -96,6 +96,18 @@ class ScientificInvariants(unittest.TestCase):
         bad.update(assessable=True, recovery_failure=True)
         self.assertFalse(predicted_allow(bad))
         self.assertTrue(predicted_allow(bad, recovery=False))
+
+    def test_taskwise_margin_small_sample_fail_closed(self):
+        self.assertIsNone(residual_order_statistic([]))
+        self.assertIsNone(residual_order_statistic([0.]*8))
+        self.assertEqual(residual_order_statistic(list(range(24))), 22.)
+
+    def test_simultaneous_bound_survives_adaptive_choice(self):
+        predicted = np.array([.1, .5, .9, 1.1])
+        margin = .2
+        actual = predicted + np.array([.1, .15, .0, -.3])
+        allowed = predicted + margin < 1
+        self.assertTrue((actual[allowed] < 1).all())
 
     def test_agents_share_attempt_budget_and_do_not_read_outcomes(self):
         assets = ["a", "b", "c", "d", "e"]
