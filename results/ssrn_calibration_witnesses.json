@@ -1,0 +1,56 @@
+[
+  {
+    "network": "C-Town",
+    "rank": 20,
+    "calibration_tasks": 21,
+    "witness": {
+      "task_id": "C-Town_calibration_10",
+      "asset": "PU7",
+      "eligible": false,
+      "actual_severity": 4.651382295175603,
+      "predicted_severity": 0.9462261199951172,
+      "residual": 3.705156175180486,
+      "forecast_status": [
+        {
+          "assessable": true,
+          "realized": 1.0
+        },
+        {
+          "assessable": true,
+          "realized": 0.4583333333333333
+        },
+        {
+          "assessable": true,
+          "realized": 0.013888888888888888
+        }
+      ]
+    }
+  },
+  {
+    "network": "Net3",
+    "rank": 23,
+    "calibration_tasks": 24,
+    "witness": {
+      "task_id": "Net3_calibration_22",
+      "asset": "240",
+      "eligible": false,
+      "actual_severity": 2.0897746382062374,
+      "predicted_severity": 1.7854750156402588,
+      "residual": 0.30429962256597864,
+      "forecast_status": [
+        {
+          "assessable": true,
+          "realized": 1.0
+        },
+        {
+          "assessable": true,
+          "realized": 1.0
+        },
+        {
+          "assessable": true,
+          "realized": 1.0
+        }
+      ]
+    }
+  }
+]

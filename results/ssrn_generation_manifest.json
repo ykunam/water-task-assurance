@@ -1,0 +1,14 @@
+{
+  "seed": 2026111503,
+  "scheduled_tasks": 48,
+  "hashes": {
+    "ssrn_validation.py": "81c269f951005d0f863b5559596ada0c2eaf09ccc490b1e905e60411dc8f6eed",
+    "admissibility_audit.py": "ea57725e12b2f9d8b6395b9e7d8ec46ec500ade530b0de92f92725f68f1a7900",
+    "ssrn_validation_protocol.md": "cb86c38cc540b842f8dff4fece12debfb3349ca02862dcb90cd5a32c7e95760f",
+    "followup_validation.py": "5236811de66dd46cb3510e3594a3ca44abd172db6fabce42c9e1c068d8c79e96",
+    "assurance.py": "48de30bd03fd783974fc222f32249b26aaa30dd35fe2d477a8495fe2798bb6e2",
+    "results/fit_manifest.json": "51cc77be15446050d48ebc902b90f6e9998646498c7f036eaafd11fec8243c43",
+    "results/ssrn_calibration.json": "2d3bbaa8446e5cdda030358ff41951926684c420335d42cefd29cce0a71704eb",
+    "results/ssrn_states.json": "3e515dca3f96d1f91e36d19da125f45a4f3c9ae6a375306bf4c1a64d44de3653"
+  }
+}

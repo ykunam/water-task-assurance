@@ -1,0 +1,17 @@
+{
+  "key": "disc",
+  "title": "Conformalized Safe Feasible Sets in Uncertain Decision Systems",
+  "authors": [
+    "Yajie Bao",
+    "Yinjie Min",
+    "Haojie Ren",
+    "Changliang Zou"
+  ],
+  "version": "arXiv:2609.24496v1",
+  "submitted": "2026-09-21",
+  "primary_url": "https://arxiv.org/abs/2609.24496v1",
+  "full_text_url": "https://arxiv.org/html/2609.24496v1",
+  "verified_on": "2026-11-15",
+  "verification": "Title, authors, version and date checked at official arXiv record and full HTML; cited explicitly as a preprint, not peer reviewed",
+  "claim_scope": "Prior general safe-set inclusion calibration; not claimed as this study's invention"
+}

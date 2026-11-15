@@ -1,0 +1,91 @@
+{
+  "passed": 17,
+  "total": 17,
+  "checks": [
+    {
+      "check": "All 48 locked prospective tasks retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Protocol and implementation hashes unchanged after freeze",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "New times and observed scales outside previous cohorts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Every new task retains matched references",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "All continuous new effects recomputed from matched references",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "All new endpoint and numerical labels independently recomputed",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "No state-level prospective simulation errors",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Original fits and original margins remain unchanged",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "New margins and all calibration scores match pre-outcome freeze",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Every contained task accepts only acceptable actions under either ranking",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exactly 576 matched prospective policy episodes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Every controller respects four attempts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Conditional gate records vacuity as abstention",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Both marginal calibration sets retain all 24 scheduled tasks",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Support diagnostic is four and seven eligible tasks",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "All-task margins zero and opportunity margins infinite",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Both original margin-defining witnesses are forecast-ineligible",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}
