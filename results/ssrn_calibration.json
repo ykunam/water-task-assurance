@@ -1,0 +1,534 @@
+{
+  "C-Town": {
+    "marginal": {
+      "alpha": 0.1,
+      "opportunity_only": false,
+      "margin": 0.0,
+      "tasks": 24,
+      "score_count": 24,
+      "order_rank": 23,
+      "opportunity_tasks": 4,
+      "eligible_candidates": 4,
+      "scores": [
+        {
+          "task_id": "C-Town_calibration_00",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_01",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_02",
+          "eligible": 1,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_03",
+          "eligible": 1,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_04",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_05",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_06",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_07",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_08",
+          "eligible": 1,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_09",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_10",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_11",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_12",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_13",
+          "eligible": 1,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_14",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_15",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_16",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_17",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_18",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_19",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_20",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_21",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_22",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_23",
+          "eligible": 0,
+          "score": 0.0
+        }
+      ]
+    },
+    "conditional": {
+      "alpha": 0.1,
+      "opportunity_only": true,
+      "margin": "infinity",
+      "tasks": 24,
+      "score_count": 4,
+      "order_rank": 5,
+      "opportunity_tasks": 4,
+      "eligible_candidates": 4,
+      "scores": [
+        {
+          "task_id": "C-Town_calibration_00",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_01",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_02",
+          "eligible": 1,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_03",
+          "eligible": 1,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_04",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_05",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_06",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_07",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_08",
+          "eligible": 1,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_09",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_10",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_11",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_12",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_13",
+          "eligible": 1,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_14",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_15",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_16",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_17",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_18",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_19",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_20",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_21",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_22",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "C-Town_calibration_23",
+          "eligible": 0,
+          "score": 0.0
+        }
+      ]
+    }
+  },
+  "Net3": {
+    "marginal": {
+      "alpha": 0.1,
+      "opportunity_only": false,
+      "margin": 0.0,
+      "tasks": 24,
+      "score_count": 24,
+      "order_rank": 23,
+      "opportunity_tasks": 7,
+      "eligible_candidates": 27,
+      "scores": [
+        {
+          "task_id": "Net3_calibration_00",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_01",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_02",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_03",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_04",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_05",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_06",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_07",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_08",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_09",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_10",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_11",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_12",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_13",
+          "eligible": 3,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_14",
+          "eligible": 4,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_15",
+          "eligible": 4,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_16",
+          "eligible": 4,
+          "score": 0.0027349581689850577
+        },
+        {
+          "task_id": "Net3_calibration_17",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_18",
+          "eligible": 4,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_19",
+          "eligible": 4,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_20",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_21",
+          "eligible": 4,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_22",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_23",
+          "eligible": 0,
+          "score": 0.0
+        }
+      ]
+    },
+    "conditional": {
+      "alpha": 0.1,
+      "opportunity_only": true,
+      "margin": "infinity",
+      "tasks": 24,
+      "score_count": 7,
+      "order_rank": 8,
+      "opportunity_tasks": 7,
+      "eligible_candidates": 27,
+      "scores": [
+        {
+          "task_id": "Net3_calibration_00",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_01",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_02",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_03",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_04",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_05",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_06",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_07",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_08",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_09",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_10",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_11",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_12",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_13",
+          "eligible": 3,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_14",
+          "eligible": 4,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_15",
+          "eligible": 4,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_16",
+          "eligible": 4,
+          "score": 0.0027349581689850577
+        },
+        {
+          "task_id": "Net3_calibration_17",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_18",
+          "eligible": 4,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_19",
+          "eligible": 4,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_20",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_21",
+          "eligible": 4,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_22",
+          "eligible": 0,
+          "score": 0.0
+        },
+        {
+          "task_id": "Net3_calibration_23",
+          "eligible": 0,
+          "score": 0.0
+        }
+      ]
+    }
+  }
+}
