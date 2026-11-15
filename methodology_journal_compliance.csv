@@ -1,0 +1,15 @@
+Item,Status,Evidence
+Article type,Verified,Regular research article. The supplied guide prefers no more than 20 double-spaced pages; Short Communications have a separate ten-page maximum. Length does not automatically change article type.
+Main document,Verified,12 rendered pages; 12-point double-spaced body; 159-word abstract; six keywords; five editable equations; two editable tables; two figures. References are readable 10.5-point text.
+Structure and scope,Verified,"Introduction, related work, methods, propositions, results, discussion/conclusion and declarations; aligned with intelligent decision support, knowledge-based rules and data-science methodology."
+Figure and table accuracy,Verified,"Two EPS/PDF artwork sets and source CSVs. All main table cells, 48 Figure 1 records and 384 Figure 2 stage records independently matched. Every bar retains 24 scheduled tasks."
+References,Verified within scope,"26 cited entries in first-use order: 22 Crossref-verified DOI records, two official technical URLs, one arXiv preprint with its assigned DOI, and one pinned dataset. All identities checked; no full-text or commercial similarity clearance is claimed."
+Reference preference,Qualified,An all-Q1 or publisher-exclusive bibliography is not certified. Essential method/data/software attribution and the closest new preprint remain cited. Quartile qualifications are retained in the reference CSV.
+Highlights,Prepared,"Four highlights, each no longer than 85 characters, supplied in a separate editable Word file."
+Funding and interests,Prepared,No specific funding and no competing interests retained from prior author instructions. The Elsevier declarations tool still needs to be completed and its generated Word file uploaded.
+Author attestations,Confirmed,"Sole author, affiliation/contact, originality/exclusive journal submission and submission rights confirmed in this conversation. The newly revised final manuscript still requires the author’s own review."
+AI declaration,Prepared,"Substantive ChatGPT Work assistance in design, code, analysis, references, plots and drafting is disclosed before the references. No false statement that final author review has already occurred is inserted."
+Data access,Out of blocker scope,Versioned evidence and accurate restricted-visibility statement retained. Reviewer-access arrangements are excluded from the blocking assessment at the author’s explicit instruction.
+Guide and template,Verified supplied sources,"The complete newly attached twenty-page official guide dated 23 October 2026 and the full supplied reference paper were examined. The reference labels itself Short Communication but renders at nineteen pages here; its layout is not evidence of current compliance. No reference-paper text, data, figures or contribution was copied."
+Guideline currency,Partially verified,The supplied guide controls formatting; current live guide requests returned HTTP 403. Any later policy or portal-specific change remains unverified.
+Graphical abstract,No mandate verified,No mandatory graphical abstract identified in the supplied guide. No extra figure is added on an assumed requirement.

@@ -35,7 +35,8 @@
       "candidates": 90,
       "assessable": 78,
       "acceptable": 23,
-      "harmful": 7
+      "harmful": 7,
+      "feasible_tasks": 14
     },
     {
       "network": "C-Town",
@@ -44,7 +45,8 @@
       "candidates": 85,
       "assessable": 77,
       "acceptable": 12,
-      "harmful": 6
+      "harmful": 6,
+      "feasible_tasks": 11
     },
     {
       "network": "C-Town",
@@ -53,7 +55,8 @@
       "candidates": 90,
       "assessable": 79,
       "acceptable": 18,
-      "harmful": 8
+      "harmful": 8,
+      "feasible_tasks": 12
     },
     {
       "network": "Net3",
@@ -62,7 +65,8 @@
       "candidates": 96,
       "assessable": 96,
       "acceptable": 17,
-      "harmful": 2
+      "harmful": 2,
+      "feasible_tasks": 10
     },
     {
       "network": "Net3",
@@ -71,7 +75,8 @@
       "candidates": 96,
       "assessable": 93,
       "acceptable": 31,
-      "harmful": 5
+      "harmful": 5,
+      "feasible_tasks": 16
     },
     {
       "network": "Net3",
@@ -80,7 +85,8 @@
       "candidates": 96,
       "assessable": 94,
       "acceptable": 25,
-      "harmful": 3
+      "harmful": 3,
+      "feasible_tasks": 12
     }
   ],
   "agent_summary": [

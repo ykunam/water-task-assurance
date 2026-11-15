@@ -1,0 +1,9 @@
+{
+  "title": "Calibration support and recovery-aware command screening in water networks",
+  "abstract": "A conservative command screen can discard useful water-network interventions while lacking calibration support when action is possible. We develop an executable audit for knowledge-based screening that connects forecast eligibility, sampled actuation, numerical validity and calibration support. Using established conformal set-inclusion principles, it retains invalid actual trajectories as infinite losses and separates marginal from opportunity-conditional calibration. In C-Town and Net3, both original margins are set by actions already excluded by forecast rules. The calibration sets contain four and seven eligible tasks; eligibility-aware marginal calibration yields zero margins, whereas the conditional version yields infinite margins at a nominal 90% level. Following two previously inspected cohorts, a frozen third cohort tests 48 later tasks with unseen scales and time-varying hidden demand. Marginal screening produces 3/24 and 8/24 acceptable catalogue completions, with 0 and 2 proxy-harmful outcomes. Conditional screening abstains throughout. The findings expose calibration scarcity and availability costs; the shifted chronological design establishes neither exchangeability nor unconditional uncertainty coverage or physical safety.",
+  "abstract_words": 159,
+  "references": 26,
+  "tables": 2,
+  "figures": 2,
+  "equations": 5
+}

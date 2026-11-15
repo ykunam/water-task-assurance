@@ -1,0 +1,50 @@
+[
+  {
+    "network": "C-Town",
+    "cohort": "Follow-up",
+    "all_contained": 23,
+    "all_tasks": 24,
+    "opportunity_contained": 5,
+    "opportunity_tasks": 6
+  },
+  {
+    "network": "C-Town",
+    "cohort": "Primary",
+    "all_contained": 21,
+    "all_tasks": 24,
+    "opportunity_contained": 1,
+    "opportunity_tasks": 4
+  },
+  {
+    "network": "C-Town",
+    "cohort": "Prospective",
+    "all_contained": 21,
+    "all_tasks": 24,
+    "opportunity_contained": 2,
+    "opportunity_tasks": 5
+  },
+  {
+    "network": "Net3",
+    "cohort": "Follow-up",
+    "all_contained": 19,
+    "all_tasks": 24,
+    "opportunity_contained": 5,
+    "opportunity_tasks": 10
+  },
+  {
+    "network": "Net3",
+    "cohort": "Primary",
+    "all_contained": 21,
+    "all_tasks": 24,
+    "opportunity_contained": 10,
+    "opportunity_tasks": 13
+  },
+  {
+    "network": "Net3",
+    "cohort": "Prospective",
+    "all_contained": 18,
+    "all_tasks": 24,
+    "opportunity_contained": 5,
+    "opportunity_tasks": 11
+  }
+]

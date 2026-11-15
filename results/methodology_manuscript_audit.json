@@ -1,0 +1,96 @@
+{
+  "passed": 18,
+  "total": 18,
+  "checks": [
+    {
+      "check": "Exactly two figures and two editable research tables",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Five editable equations with consecutive numbering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "26 references cited completely in first-use order",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "New nearest prior work cited as an unreviewed preprint",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Substantive AI disclosure precedes references",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Journal affiliation/contact present without preprint labeling",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Statistical assumptions and retrospective chronology explicit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Scientific abstract within 250 words",
+      "passed": true,
+      "detail": "159"
+    },
+    {
+      "check": "Every Table 1 calibration-support cell matches frozen results",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Every Table 2 outcome cell matches prospective outputs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Every Figure 1 source value independently reconstructed",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Every Figure 2 stage matched and every bar retains 24 tasks",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "22 selected DOI identities retain verified records",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Additional arXiv source verified against primary record",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Finite-pool opportunity ceilings independently matched",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Both figures and both tables cited in main prose",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Preprint DOI and affiliation superscripts retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Marginal and opportunity containment denominators reconstructed",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

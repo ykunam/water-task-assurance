@@ -91,7 +91,7 @@ def run():
                     episodes.append(rec)
                     if gate=='Eligible marginal' and ts['score']<=marginal['margin'] and selected is not None:set_containment &= rec['acceptable']
         for cohort,data in fitted[fitted.split=='test'].groupby('cohort'):
-            support.append(dict(network=net,cohort=cohort,tasks=int(data.task_id.nunique()),candidates=len(data),assessable=int(data.assessable.sum()),acceptable=int(data.acceptable.sum()),harmful=int((data.assessable&data.whole_harm).sum())))
+            support.append(dict(network=net,cohort=cohort,tasks=int(data.task_id.nunique()),candidates=len(data),assessable=int(data.assessable.sum()),acceptable=int(data.acceptable.sum()),harmful=int((data.assessable&data.whole_harm).sum()),feasible_tasks=int(data.groupby('task_id').acceptable.any().sum())))
     check('Original fits and original margins remain unchanged',fit_ok)
     check('New margins and all calibration scores match pre-outcome freeze',cal_ok)
     check('Every contained task accepts only acceptable actions under either ranking',set_containment)
@@ -107,8 +107,15 @@ def run():
     for keys,g in ep.groupby(['network','cohort','gate','controller'],sort=False):summaries.append(dict(zip(['network','cohort','gate','controller'],keys),n=len(g),**{k:int(g[k].sum()) for k in ['acceptable','harmful','indeterminate','completed','recovery_failure','abstained']}))
     ep.to_csv(OUT/'ssrn_agent_episodes.csv',index=False);pd.DataFrame(candidates).to_csv(OUT/'ssrn_candidate_decisions.csv',index=False)
     pd.DataFrame(task_scores).to_csv(OUT/'ssrn_task_scores.csv',index=False)
+    containment=[]
+    for (net,cohort),g in pd.DataFrame(task_scores).groupby(['network','cohort']):
+        e=g[g.eligible>0]
+        containment.append(dict(network=net,cohort=cohort,all_contained=int(g.contained.sum()),all_tasks=len(g),opportunity_contained=int(e.contained.sum()),opportunity_tasks=len(e)))
+    (OUT/'methodology_containment_summary.json').write_text(json.dumps(containment,indent=2)+'\n')
     result=dict(prospective_tasks=48,candidates=pairs,action_solver_evaluations=pairs*5,prospective_policy_episodes=len(prospective),cross_solver_harm_disagreements=cross_harm,cross_solver_acceptable_disagreements=cross_acceptable,calibration=calibration,support=support,agent_summary=summaries)
     (OUT/'ssrn_summary.json').write_text(json.dumps(json_safe(result),indent=2)+'\n')
+    opportunity=[{k:r[k] for k in ['network','cohort','tasks','candidates','feasible_tasks']} for r in support]
+    (OUT/'methodology_opportunity_summary.json').write_text(json.dumps(opportunity,indent=2)+'\n')
     (OUT/'ssrn_calibration_witnesses.json').write_text(json.dumps(json_safe(witnesses),indent=2)+'\n')
     audit=dict(passed=sum(x['passed'] for x in checks),total=len(checks),checks=checks)
     (OUT/'ssrn_evidence_audit.json').write_text(json.dumps(audit,indent=2)+'\n')

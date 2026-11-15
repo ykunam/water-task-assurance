@@ -1,6 +1,6 @@
 # Water command screening results for C-Town and Net3
 
-Creator: Yeshwanth Reddy Kunam. Version: 15 November 2026 follow-up release.
+Creator: Yeshwanth Reddy Kunam. Version: 15 November 2026 methodological revision.
 
 The dataset contains simulator-derived command consequences, matched no-action
 summaries, calibrated screen decisions and counterfactual software-controller
@@ -33,3 +33,8 @@ attach it as Supplementary Material S2. A public archival deposit and identifier
 have not been created. Whether the journal accepts this private versioned
 deposit at initial submission must be confirmed; no unsupported confidentiality
 restriction is asserted.
+
+
+## Third-cohort methodology revision
+
+A new 48-task cohort adds 186 candidate interventions, 930 action-solver evaluations and 576 matched counterfactual policy episodes. Its method, states and calibration manifest were frozen at 8d6c41cd81e97dcd110f191522eced3c17ccff65 before outcomes. The generated evidence and analysis are pinned at fb9b53e2523346d50347d749f3e41fbc91397384. Original fits, endpoints and historical margins are unchanged. Earlier cohorts are retrospective for this extension. The historical ssrn_* filenames were retained after the author corrected the target to Knowledge-Based Systems; this was a submission-destination change, not a scientific-protocol change.

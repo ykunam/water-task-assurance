@@ -1,0 +1,44 @@
+[
+  {
+    "network": "C-Town",
+    "cohort": "Follow-up",
+    "tasks": 24,
+    "candidates": 90,
+    "feasible_tasks": 14
+  },
+  {
+    "network": "C-Town",
+    "cohort": "Primary",
+    "tasks": 24,
+    "candidates": 85,
+    "feasible_tasks": 11
+  },
+  {
+    "network": "C-Town",
+    "cohort": "Prospective",
+    "tasks": 24,
+    "candidates": 90,
+    "feasible_tasks": 12
+  },
+  {
+    "network": "Net3",
+    "cohort": "Follow-up",
+    "tasks": 24,
+    "candidates": 96,
+    "feasible_tasks": 10
+  },
+  {
+    "network": "Net3",
+    "cohort": "Primary",
+    "tasks": 24,
+    "candidates": 96,
+    "feasible_tasks": 16
+  },
+  {
+    "network": "Net3",
+    "cohort": "Prospective",
+    "tasks": 24,
+    "candidates": 96,
+    "feasible_tasks": 12
+  }
+]

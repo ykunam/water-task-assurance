@@ -1,0 +1,4 @@
+- An admissibility audit connects screening rules to calibration evidence.
+- Invalid hydraulics and failed command realization remain explicit losses.
+- Only four and seven calibration tasks support eligible interventions.
+- A frozen 48-task cohort tests availability and uncertainty tradeoffs.

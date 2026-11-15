@@ -1,0 +1,385 @@
+network,gate,controller,task_id,stage
+C-Town,Scenario task,catalogue,C-Town_ssrn_00,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_00,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_00,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_00,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_00,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_00,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_00,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_00,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_01,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_01,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_01,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_01,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_01,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_01,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_01,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_01,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_02,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_02,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_02,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_02,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_02,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_02,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_02,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_02,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_03,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_03,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_03,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_03,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_03,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_03,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_03,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_03,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_04,Recovery failure
+C-Town,Scenario task,learned ranking,C-Town_ssrn_04,Recovery failure
+C-Town,Original residual,catalogue,C-Town_ssrn_04,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_04,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_04,Recovery failure
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_04,Recovery failure
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_04,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_04,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_05,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_05,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_05,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_05,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_05,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_05,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_05,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_05,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_06,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_06,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_06,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_06,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_06,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_06,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_06,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_06,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_07,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_07,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_07,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_07,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_07,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_07,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_07,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_07,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_08,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_08,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_08,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_08,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_08,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_08,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_08,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_08,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_09,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_09,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_09,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_09,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_09,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_09,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_09,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_09,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_10,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_10,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_10,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_10,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_10,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_10,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_10,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_10,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_11,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_11,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_11,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_11,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_11,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_11,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_11,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_11,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_12,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_12,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_12,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_12,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_12,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_12,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_12,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_12,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_13,Indeterminate
+C-Town,Scenario task,learned ranking,C-Town_ssrn_13,Indeterminate
+C-Town,Original residual,catalogue,C-Town_ssrn_13,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_13,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_13,Indeterminate
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_13,Indeterminate
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_13,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_13,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_14,Acceptable
+C-Town,Scenario task,learned ranking,C-Town_ssrn_14,Acceptable
+C-Town,Original residual,catalogue,C-Town_ssrn_14,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_14,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_14,Acceptable
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_14,Acceptable
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_14,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_14,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_15,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_15,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_15,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_15,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_15,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_15,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_15,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_15,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_16,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_16,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_16,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_16,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_16,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_16,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_16,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_16,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_17,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_17,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_17,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_17,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_17,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_17,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_17,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_17,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_18,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_18,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_18,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_18,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_18,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_18,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_18,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_18,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_19,Acceptable
+C-Town,Scenario task,learned ranking,C-Town_ssrn_19,Acceptable
+C-Town,Original residual,catalogue,C-Town_ssrn_19,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_19,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_19,Acceptable
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_19,Acceptable
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_19,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_19,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_20,Acceptable
+C-Town,Scenario task,learned ranking,C-Town_ssrn_20,Acceptable
+C-Town,Original residual,catalogue,C-Town_ssrn_20,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_20,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_20,Acceptable
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_20,Acceptable
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_20,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_20,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_21,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_21,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_21,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_21,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_21,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_21,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_21,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_21,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_22,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_22,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_22,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_22,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_22,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_22,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_22,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_22,Abstained
+C-Town,Scenario task,catalogue,C-Town_ssrn_23,Abstained
+C-Town,Scenario task,learned ranking,C-Town_ssrn_23,Abstained
+C-Town,Original residual,catalogue,C-Town_ssrn_23,Abstained
+C-Town,Original residual,learned ranking,C-Town_ssrn_23,Abstained
+C-Town,Eligible marginal,catalogue,C-Town_ssrn_23,Abstained
+C-Town,Eligible marginal,learned ranking,C-Town_ssrn_23,Abstained
+C-Town,Eligible conditional,catalogue,C-Town_ssrn_23,Abstained
+C-Town,Eligible conditional,learned ranking,C-Town_ssrn_23,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_00,Abstained
+Net3,Scenario task,learned ranking,Net3_ssrn_00,Abstained
+Net3,Original residual,catalogue,Net3_ssrn_00,Abstained
+Net3,Original residual,learned ranking,Net3_ssrn_00,Abstained
+Net3,Eligible marginal,catalogue,Net3_ssrn_00,Abstained
+Net3,Eligible marginal,learned ranking,Net3_ssrn_00,Abstained
+Net3,Eligible conditional,catalogue,Net3_ssrn_00,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_00,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_01,Abstained
+Net3,Scenario task,learned ranking,Net3_ssrn_01,Abstained
+Net3,Original residual,catalogue,Net3_ssrn_01,Abstained
+Net3,Original residual,learned ranking,Net3_ssrn_01,Abstained
+Net3,Eligible marginal,catalogue,Net3_ssrn_01,Abstained
+Net3,Eligible marginal,learned ranking,Net3_ssrn_01,Abstained
+Net3,Eligible conditional,catalogue,Net3_ssrn_01,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_01,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_02,Acceptable
+Net3,Scenario task,learned ranking,Net3_ssrn_02,Acceptable
+Net3,Original residual,catalogue,Net3_ssrn_02,Acceptable
+Net3,Original residual,learned ranking,Net3_ssrn_02,Acceptable
+Net3,Eligible marginal,catalogue,Net3_ssrn_02,Acceptable
+Net3,Eligible marginal,learned ranking,Net3_ssrn_02,Acceptable
+Net3,Eligible conditional,catalogue,Net3_ssrn_02,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_02,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_03,Acceptable
+Net3,Scenario task,learned ranking,Net3_ssrn_03,Acceptable
+Net3,Original residual,catalogue,Net3_ssrn_03,Acceptable
+Net3,Original residual,learned ranking,Net3_ssrn_03,Acceptable
+Net3,Eligible marginal,catalogue,Net3_ssrn_03,Acceptable
+Net3,Eligible marginal,learned ranking,Net3_ssrn_03,Acceptable
+Net3,Eligible conditional,catalogue,Net3_ssrn_03,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_03,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_04,Recovery failure
+Net3,Scenario task,learned ranking,Net3_ssrn_04,Recovery failure
+Net3,Original residual,catalogue,Net3_ssrn_04,Recovery failure
+Net3,Original residual,learned ranking,Net3_ssrn_04,Recovery failure
+Net3,Eligible marginal,catalogue,Net3_ssrn_04,Recovery failure
+Net3,Eligible marginal,learned ranking,Net3_ssrn_04,Recovery failure
+Net3,Eligible conditional,catalogue,Net3_ssrn_04,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_04,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_05,Abstained
+Net3,Scenario task,learned ranking,Net3_ssrn_05,Abstained
+Net3,Original residual,catalogue,Net3_ssrn_05,Abstained
+Net3,Original residual,learned ranking,Net3_ssrn_05,Abstained
+Net3,Eligible marginal,catalogue,Net3_ssrn_05,Abstained
+Net3,Eligible marginal,learned ranking,Net3_ssrn_05,Abstained
+Net3,Eligible conditional,catalogue,Net3_ssrn_05,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_05,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_06,Acceptable
+Net3,Scenario task,learned ranking,Net3_ssrn_06,Acceptable
+Net3,Original residual,catalogue,Net3_ssrn_06,Abstained
+Net3,Original residual,learned ranking,Net3_ssrn_06,Abstained
+Net3,Eligible marginal,catalogue,Net3_ssrn_06,Acceptable
+Net3,Eligible marginal,learned ranking,Net3_ssrn_06,Acceptable
+Net3,Eligible conditional,catalogue,Net3_ssrn_06,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_06,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_07,Abstained
+Net3,Scenario task,learned ranking,Net3_ssrn_07,Abstained
+Net3,Original residual,catalogue,Net3_ssrn_07,Abstained
+Net3,Original residual,learned ranking,Net3_ssrn_07,Abstained
+Net3,Eligible marginal,catalogue,Net3_ssrn_07,Abstained
+Net3,Eligible marginal,learned ranking,Net3_ssrn_07,Abstained
+Net3,Eligible conditional,catalogue,Net3_ssrn_07,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_07,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_08,Abstained
+Net3,Scenario task,learned ranking,Net3_ssrn_08,Abstained
+Net3,Original residual,catalogue,Net3_ssrn_08,Abstained
+Net3,Original residual,learned ranking,Net3_ssrn_08,Abstained
+Net3,Eligible marginal,catalogue,Net3_ssrn_08,Abstained
+Net3,Eligible marginal,learned ranking,Net3_ssrn_08,Abstained
+Net3,Eligible conditional,catalogue,Net3_ssrn_08,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_08,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_09,Abstained
+Net3,Scenario task,learned ranking,Net3_ssrn_09,Abstained
+Net3,Original residual,catalogue,Net3_ssrn_09,Abstained
+Net3,Original residual,learned ranking,Net3_ssrn_09,Abstained
+Net3,Eligible marginal,catalogue,Net3_ssrn_09,Abstained
+Net3,Eligible marginal,learned ranking,Net3_ssrn_09,Abstained
+Net3,Eligible conditional,catalogue,Net3_ssrn_09,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_09,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_10,Acceptable
+Net3,Scenario task,learned ranking,Net3_ssrn_10,Acceptable
+Net3,Original residual,catalogue,Net3_ssrn_10,Acceptable
+Net3,Original residual,learned ranking,Net3_ssrn_10,Acceptable
+Net3,Eligible marginal,catalogue,Net3_ssrn_10,Acceptable
+Net3,Eligible marginal,learned ranking,Net3_ssrn_10,Acceptable
+Net3,Eligible conditional,catalogue,Net3_ssrn_10,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_10,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_11,Harm
+Net3,Scenario task,learned ranking,Net3_ssrn_11,Harm
+Net3,Original residual,catalogue,Net3_ssrn_11,Harm
+Net3,Original residual,learned ranking,Net3_ssrn_11,Harm
+Net3,Eligible marginal,catalogue,Net3_ssrn_11,Harm
+Net3,Eligible marginal,learned ranking,Net3_ssrn_11,Harm
+Net3,Eligible conditional,catalogue,Net3_ssrn_11,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_11,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_12,Acceptable
+Net3,Scenario task,learned ranking,Net3_ssrn_12,Acceptable
+Net3,Original residual,catalogue,Net3_ssrn_12,Acceptable
+Net3,Original residual,learned ranking,Net3_ssrn_12,Acceptable
+Net3,Eligible marginal,catalogue,Net3_ssrn_12,Acceptable
+Net3,Eligible marginal,learned ranking,Net3_ssrn_12,Acceptable
+Net3,Eligible conditional,catalogue,Net3_ssrn_12,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_12,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_13,Abstained
+Net3,Scenario task,learned ranking,Net3_ssrn_13,Abstained
+Net3,Original residual,catalogue,Net3_ssrn_13,Abstained
+Net3,Original residual,learned ranking,Net3_ssrn_13,Abstained
+Net3,Eligible marginal,catalogue,Net3_ssrn_13,Abstained
+Net3,Eligible marginal,learned ranking,Net3_ssrn_13,Abstained
+Net3,Eligible conditional,catalogue,Net3_ssrn_13,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_13,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_14,Acceptable
+Net3,Scenario task,learned ranking,Net3_ssrn_14,Acceptable
+Net3,Original residual,catalogue,Net3_ssrn_14,Acceptable
+Net3,Original residual,learned ranking,Net3_ssrn_14,Acceptable
+Net3,Eligible marginal,catalogue,Net3_ssrn_14,Acceptable
+Net3,Eligible marginal,learned ranking,Net3_ssrn_14,Acceptable
+Net3,Eligible conditional,catalogue,Net3_ssrn_14,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_14,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_15,Abstained
+Net3,Scenario task,learned ranking,Net3_ssrn_15,Abstained
+Net3,Original residual,catalogue,Net3_ssrn_15,Abstained
+Net3,Original residual,learned ranking,Net3_ssrn_15,Abstained
+Net3,Eligible marginal,catalogue,Net3_ssrn_15,Abstained
+Net3,Eligible marginal,learned ranking,Net3_ssrn_15,Abstained
+Net3,Eligible conditional,catalogue,Net3_ssrn_15,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_15,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_16,Abstained
+Net3,Scenario task,learned ranking,Net3_ssrn_16,Abstained
+Net3,Original residual,catalogue,Net3_ssrn_16,Abstained
+Net3,Original residual,learned ranking,Net3_ssrn_16,Abstained
+Net3,Eligible marginal,catalogue,Net3_ssrn_16,Abstained
+Net3,Eligible marginal,learned ranking,Net3_ssrn_16,Abstained
+Net3,Eligible conditional,catalogue,Net3_ssrn_16,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_16,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_17,Abstained
+Net3,Scenario task,learned ranking,Net3_ssrn_17,Abstained
+Net3,Original residual,catalogue,Net3_ssrn_17,Abstained
+Net3,Original residual,learned ranking,Net3_ssrn_17,Abstained
+Net3,Eligible marginal,catalogue,Net3_ssrn_17,Abstained
+Net3,Eligible marginal,learned ranking,Net3_ssrn_17,Abstained
+Net3,Eligible conditional,catalogue,Net3_ssrn_17,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_17,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_18,Abstained
+Net3,Scenario task,learned ranking,Net3_ssrn_18,Abstained
+Net3,Original residual,catalogue,Net3_ssrn_18,Abstained
+Net3,Original residual,learned ranking,Net3_ssrn_18,Abstained
+Net3,Eligible marginal,catalogue,Net3_ssrn_18,Abstained
+Net3,Eligible marginal,learned ranking,Net3_ssrn_18,Abstained
+Net3,Eligible conditional,catalogue,Net3_ssrn_18,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_18,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_19,Acceptable
+Net3,Scenario task,learned ranking,Net3_ssrn_19,Acceptable
+Net3,Original residual,catalogue,Net3_ssrn_19,Acceptable
+Net3,Original residual,learned ranking,Net3_ssrn_19,Acceptable
+Net3,Eligible marginal,catalogue,Net3_ssrn_19,Acceptable
+Net3,Eligible marginal,learned ranking,Net3_ssrn_19,Acceptable
+Net3,Eligible conditional,catalogue,Net3_ssrn_19,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_19,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_20,Harm
+Net3,Scenario task,learned ranking,Net3_ssrn_20,Harm
+Net3,Original residual,catalogue,Net3_ssrn_20,Harm
+Net3,Original residual,learned ranking,Net3_ssrn_20,Harm
+Net3,Eligible marginal,catalogue,Net3_ssrn_20,Harm
+Net3,Eligible marginal,learned ranking,Net3_ssrn_20,Harm
+Net3,Eligible conditional,catalogue,Net3_ssrn_20,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_20,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_21,Abstained
+Net3,Scenario task,learned ranking,Net3_ssrn_21,Abstained
+Net3,Original residual,catalogue,Net3_ssrn_21,Abstained
+Net3,Original residual,learned ranking,Net3_ssrn_21,Abstained
+Net3,Eligible marginal,catalogue,Net3_ssrn_21,Abstained
+Net3,Eligible marginal,learned ranking,Net3_ssrn_21,Abstained
+Net3,Eligible conditional,catalogue,Net3_ssrn_21,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_21,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_22,Acceptable
+Net3,Scenario task,learned ranking,Net3_ssrn_22,Acceptable
+Net3,Original residual,catalogue,Net3_ssrn_22,Acceptable
+Net3,Original residual,learned ranking,Net3_ssrn_22,Acceptable
+Net3,Eligible marginal,catalogue,Net3_ssrn_22,Acceptable
+Net3,Eligible marginal,learned ranking,Net3_ssrn_22,Acceptable
+Net3,Eligible conditional,catalogue,Net3_ssrn_22,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_22,Abstained
+Net3,Scenario task,catalogue,Net3_ssrn_23,Abstained
+Net3,Scenario task,learned ranking,Net3_ssrn_23,Abstained
+Net3,Original residual,catalogue,Net3_ssrn_23,Abstained
+Net3,Original residual,learned ranking,Net3_ssrn_23,Abstained
+Net3,Eligible marginal,catalogue,Net3_ssrn_23,Abstained
+Net3,Eligible marginal,learned ranking,Net3_ssrn_23,Abstained
+Net3,Eligible conditional,catalogue,Net3_ssrn_23,Abstained
+Net3,Eligible conditional,learned ranking,Net3_ssrn_23,Abstained
