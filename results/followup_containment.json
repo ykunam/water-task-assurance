@@ -1,0 +1,338 @@
+[
+  {
+    "task_id": "C-Town_followup_00",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 0.48662973005491494,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_01",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_02",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 6.438005585131257e-17,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_03",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_04",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 3.499999999999999,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_05",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 4.884981308350689e-14,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_06",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 0.18986224962382225,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_07",
+    "network": "C-Town",
+    "assessable": false,
+    "residual": null,
+    "contained": null
+  },
+  {
+    "task_id": "C-Town_followup_08",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_09",
+    "network": "C-Town",
+    "assessable": false,
+    "residual": null,
+    "contained": null
+  },
+  {
+    "task_id": "C-Town_followup_10",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 3.284512737566017e-16,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_11",
+    "network": "C-Town",
+    "assessable": false,
+    "residual": null,
+    "contained": null
+  },
+  {
+    "task_id": "C-Town_followup_12",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 0.12772548979853404,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_13",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 0.08941007037824811,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_14",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_15",
+    "network": "C-Town",
+    "assessable": false,
+    "residual": null,
+    "contained": null
+  },
+  {
+    "task_id": "C-Town_followup_16",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 0.4966281481461007,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_17",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_18",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_19",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_20",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_21",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 0.5620108233354126,
+    "contained": true
+  },
+  {
+    "task_id": "C-Town_followup_22",
+    "network": "C-Town",
+    "assessable": false,
+    "residual": null,
+    "contained": null
+  },
+  {
+    "task_id": "C-Town_followup_23",
+    "network": "C-Town",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_00",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_01",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_02",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_03",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.7608166275234027,
+    "contained": false
+  },
+  {
+    "task_id": "Net3_followup_04",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.5452641896136452,
+    "contained": false
+  },
+  {
+    "task_id": "Net3_followup_05",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_06",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.21840882373636905,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_07",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_08",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_09",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_10",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 1.0,
+    "contained": false
+  },
+  {
+    "task_id": "Net3_followup_11",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_12",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.9199167887369792,
+    "contained": false
+  },
+  {
+    "task_id": "Net3_followup_13",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_14",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_15",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_16",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_17",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.020487616922928886,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_18",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.14008261610546802,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_19",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_20",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.05432024678774017,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_21",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_22",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.2320205599657399,
+    "contained": true
+  },
+  {
+    "task_id": "Net3_followup_23",
+    "network": "Net3",
+    "assessable": true,
+    "residual": 0.0,
+    "contained": true
+  }
+]

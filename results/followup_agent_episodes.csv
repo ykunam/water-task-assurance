@@ -1,0 +1,1441 @@
+network,task_id,gate,controller,selected,attempts,forecast_simulations,acceptable,harmful,indeterminate,recovery_failure,completed,abstained
+C-Town,C-Town_followup_00,Scope,catalogue,PU1,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_00,Scope,learned ranking,PU7,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_00,Storage rule,catalogue,PU1,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_00,Storage rule,learned ranking,PU2,3,0,False,False,False,True,False,False
+C-Town,C-Town_followup_00,Hold RF,catalogue,PU1,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_00,Hold RF,learned ranking,PU7,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_00,Whole RF,catalogue,PU4,3,0,False,False,False,True,False,False
+C-Town,C-Town_followup_00,Whole RF,learned ranking,PU7,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_00,Calibrated whole RF,catalogue,PU4,3,0,False,False,False,True,False,False
+C-Town,C-Town_followup_00,Calibrated whole RF,learned ranking,PU7,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_00,Nominal hold,catalogue,PU4,3,3,False,False,False,True,False,False
+C-Town,C-Town_followup_00,Nominal hold,learned ranking,PU7,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_00,Nominal task,catalogue,PU7,4,4,True,False,False,False,True,False
+C-Town,C-Town_followup_00,Nominal task,learned ranking,PU7,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_00,Robust hold,catalogue,PU7,4,12,True,False,False,False,True,False
+C-Town,C-Town_followup_00,Robust hold,learned ranking,PU7,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_00,Robust whole,catalogue,PU7,4,12,True,False,False,False,True,False
+C-Town,C-Town_followup_00,Robust whole,learned ranking,PU7,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_00,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_00,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_00,Robust task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_00,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_00,Learned robust task,catalogue,,4,6,False,False,False,False,False,True
+C-Town,C-Town_followup_00,Learned robust task,learned ranking,,4,6,False,False,False,False,False,True
+C-Town,C-Town_followup_00,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_00,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_00,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_00,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_00,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_00,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Scope,catalogue,PU2,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_01,Scope,learned ranking,PU7,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_01,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Hold RF,catalogue,PU2,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_01,Hold RF,learned ranking,PU7,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_01,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Nominal hold,catalogue,PU2,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_01,Nominal hold,learned ranking,PU7,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_01,Nominal task,catalogue,PU2,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_01,Nominal task,learned ranking,PU7,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_01,Robust hold,catalogue,PU2,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_01,Robust hold,learned ranking,PU7,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_01,Robust whole,catalogue,PU7,2,6,True,False,False,False,True,False
+C-Town,C-Town_followup_01,Robust whole,learned ranking,PU7,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_01,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Robust task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_01,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Scope,catalogue,PU10,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_02,Scope,learned ranking,PU10,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_02,Storage rule,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Storage rule,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Hold RF,catalogue,PU10,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_02,Hold RF,learned ranking,PU10,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_02,Whole RF,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Whole RF,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Calibrated whole RF,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Calibrated whole RF,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Nominal hold,catalogue,PU10,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_02,Nominal hold,learned ranking,PU10,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_02,Nominal task,catalogue,PU10,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_02,Nominal task,learned ranking,PU10,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_02,Robust hold,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Robust hold,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Robust whole,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Robust whole,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Robust task no validity,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Robust task no validity,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Robust task,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Robust task,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Learned robust task,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Learned robust task,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Unbuffered joint,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Unbuffered joint,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Residual task,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Residual task,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Deny all,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_02,Deny all,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Scope,catalogue,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_03,Scope,learned ranking,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_03,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Hold RF,catalogue,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_03,Hold RF,learned ranking,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_03,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Nominal hold,catalogue,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_03,Nominal hold,learned ranking,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_03,Nominal task,catalogue,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_03,Nominal task,learned ranking,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_03,Robust hold,catalogue,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_03,Robust hold,learned ranking,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_03,Robust whole,catalogue,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_03,Robust whole,learned ranking,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_03,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Robust task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_03,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_04,Scope,catalogue,PU10,1,0,False,True,False,False,False,False
+C-Town,C-Town_followup_04,Scope,learned ranking,PU4,1,0,False,False,False,True,True,False
+C-Town,C-Town_followup_04,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_04,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_04,Hold RF,catalogue,PU10,1,0,False,True,False,False,False,False
+C-Town,C-Town_followup_04,Hold RF,learned ranking,PU4,1,0,False,False,False,True,True,False
+C-Town,C-Town_followup_04,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_04,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_04,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_04,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_04,Nominal hold,catalogue,PU2,3,3,True,False,False,False,True,False
+C-Town,C-Town_followup_04,Nominal hold,learned ranking,PU4,1,1,False,False,False,True,True,False
+C-Town,C-Town_followup_04,Nominal task,catalogue,PU2,3,3,True,False,False,False,True,False
+C-Town,C-Town_followup_04,Nominal task,learned ranking,PU2,3,3,True,False,False,False,True,False
+C-Town,C-Town_followup_04,Robust hold,catalogue,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_04,Robust hold,learned ranking,PU4,1,3,False,False,False,True,True,False
+C-Town,C-Town_followup_04,Robust whole,catalogue,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_04,Robust whole,learned ranking,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_04,Robust task no validity,catalogue,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_04,Robust task no validity,learned ranking,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_04,Robust task,catalogue,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_04,Robust task,learned ranking,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_04,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_04,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_04,Unbuffered joint,catalogue,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_04,Unbuffered joint,learned ranking,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_04,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_04,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_04,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_04,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Scope,catalogue,PU7,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_05,Scope,learned ranking,PU8,1,0,False,False,False,True,True,False
+C-Town,C-Town_followup_05,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Hold RF,catalogue,PU7,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_05,Hold RF,learned ranking,PU8,1,0,False,False,False,True,True,False
+C-Town,C-Town_followup_05,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Nominal hold,catalogue,PU8,2,2,False,False,False,True,True,False
+C-Town,C-Town_followup_05,Nominal hold,learned ranking,PU8,1,1,False,False,False,True,True,False
+C-Town,C-Town_followup_05,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Robust hold,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Robust hold,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Robust whole,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Robust whole,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Robust task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_05,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_06,Scope,catalogue,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Scope,learned ranking,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_06,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_06,Hold RF,catalogue,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Hold RF,learned ranking,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Whole RF,catalogue,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Whole RF,learned ranking,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Calibrated whole RF,catalogue,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Calibrated whole RF,learned ranking,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Nominal hold,catalogue,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Nominal hold,learned ranking,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Nominal task,catalogue,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Nominal task,learned ranking,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Robust hold,catalogue,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Robust hold,learned ranking,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Robust whole,catalogue,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Robust whole,learned ranking,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Robust task no validity,catalogue,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Robust task no validity,learned ranking,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Robust task,catalogue,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Robust task,learned ranking,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Learned robust task,catalogue,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Learned robust task,learned ranking,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Unbuffered joint,catalogue,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Unbuffered joint,learned ranking,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_06,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_06,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_06,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_06,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_07,Scope,catalogue,PU2,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_07,Scope,learned ranking,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_07,Storage rule,catalogue,PU2,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_07,Storage rule,learned ranking,PU2,4,0,False,False,False,False,False,False
+C-Town,C-Town_followup_07,Hold RF,catalogue,PU2,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_07,Hold RF,learned ranking,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_07,Whole RF,catalogue,PU4,2,0,False,False,False,True,True,False
+C-Town,C-Town_followup_07,Whole RF,learned ranking,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_07,Calibrated whole RF,catalogue,PU4,2,0,False,False,False,True,True,False
+C-Town,C-Town_followup_07,Calibrated whole RF,learned ranking,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_07,Nominal hold,catalogue,PU4,2,2,False,False,False,True,True,False
+C-Town,C-Town_followup_07,Nominal hold,learned ranking,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_07,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_07,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_07,Robust hold,catalogue,PU4,2,6,False,False,False,True,True,False
+C-Town,C-Town_followup_07,Robust hold,learned ranking,PU4,2,6,False,False,False,True,True,False
+C-Town,C-Town_followup_07,Robust whole,catalogue,PU4,2,6,False,False,False,True,True,False
+C-Town,C-Town_followup_07,Robust whole,learned ranking,PU4,2,6,False,False,False,True,True,False
+C-Town,C-Town_followup_07,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_07,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_07,Robust task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_07,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_07,Learned robust task,catalogue,,4,9,False,False,False,False,False,True
+C-Town,C-Town_followup_07,Learned robust task,learned ranking,,4,9,False,False,False,False,False,True
+C-Town,C-Town_followup_07,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_07,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_07,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_07,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_07,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_07,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Scope,catalogue,PU7,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_08,Scope,learned ranking,PU7,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_08,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Hold RF,catalogue,PU7,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_08,Hold RF,learned ranking,PU7,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_08,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Nominal hold,catalogue,PU7,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_08,Nominal hold,learned ranking,PU7,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_08,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Robust hold,catalogue,PU7,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_08,Robust hold,learned ranking,PU7,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_08,Robust whole,catalogue,PU7,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_08,Robust whole,learned ranking,PU7,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_08,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Robust task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_08,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Scope,catalogue,PU2,1,0,False,False,True,False,False,False
+C-Town,C-Town_followup_09,Scope,learned ranking,PU2,1,0,False,False,True,False,False,False
+C-Town,C-Town_followup_09,Storage rule,catalogue,,2,0,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Storage rule,learned ranking,,2,0,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Hold RF,catalogue,PU2,1,0,False,False,True,False,False,False
+C-Town,C-Town_followup_09,Hold RF,learned ranking,PU2,1,0,False,False,True,False,False,False
+C-Town,C-Town_followup_09,Whole RF,catalogue,,2,0,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Whole RF,learned ranking,,2,0,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Calibrated whole RF,catalogue,,2,0,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Calibrated whole RF,learned ranking,,2,0,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Nominal hold,catalogue,,2,2,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Nominal hold,learned ranking,,2,2,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Nominal task,catalogue,,2,2,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Nominal task,learned ranking,,2,2,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Robust hold,catalogue,,2,6,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Robust hold,learned ranking,,2,6,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Robust whole,catalogue,,2,6,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Robust whole,learned ranking,,2,6,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Robust task no validity,catalogue,,2,6,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Robust task no validity,learned ranking,,2,6,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Robust task,catalogue,,2,6,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Robust task,learned ranking,,2,6,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Learned robust task,catalogue,,2,0,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Learned robust task,learned ranking,,2,0,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Unbuffered joint,catalogue,,2,6,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Unbuffered joint,learned ranking,,2,6,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Residual task,catalogue,,2,6,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Residual task,learned ranking,,2,6,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Deny all,catalogue,,2,0,False,False,False,False,False,True
+C-Town,C-Town_followup_09,Deny all,learned ranking,,2,0,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Scope,catalogue,PU2,1,0,False,False,False,True,False,False
+C-Town,C-Town_followup_10,Scope,learned ranking,PU7,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_10,Storage rule,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Storage rule,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Hold RF,catalogue,PU2,1,0,False,False,False,True,False,False
+C-Town,C-Town_followup_10,Hold RF,learned ranking,PU7,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_10,Whole RF,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Whole RF,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Calibrated whole RF,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Calibrated whole RF,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Nominal hold,catalogue,,3,3,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Nominal hold,learned ranking,,3,3,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Nominal task,catalogue,,3,3,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Nominal task,learned ranking,,3,3,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Robust hold,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Robust hold,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Robust whole,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Robust whole,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Robust task no validity,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Robust task no validity,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Robust task,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Robust task,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Learned robust task,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Learned robust task,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Unbuffered joint,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Unbuffered joint,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Residual task,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Residual task,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Deny all,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_10,Deny all,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_11,Scope,catalogue,PU10,1,0,False,False,True,False,False,False
+C-Town,C-Town_followup_11,Scope,learned ranking,PU4,1,0,False,False,True,False,True,False
+C-Town,C-Town_followup_11,Storage rule,catalogue,PU1,2,0,False,False,True,False,False,False
+C-Town,C-Town_followup_11,Storage rule,learned ranking,PU2,3,0,False,False,True,False,False,False
+C-Town,C-Town_followup_11,Hold RF,catalogue,PU10,1,0,False,False,True,False,False,False
+C-Town,C-Town_followup_11,Hold RF,learned ranking,PU4,1,0,False,False,True,False,True,False
+C-Town,C-Town_followup_11,Whole RF,catalogue,PU4,4,0,False,False,True,False,True,False
+C-Town,C-Town_followup_11,Whole RF,learned ranking,PU4,1,0,False,False,True,False,True,False
+C-Town,C-Town_followup_11,Calibrated whole RF,catalogue,PU4,4,0,False,False,True,False,True,False
+C-Town,C-Town_followup_11,Calibrated whole RF,learned ranking,PU4,1,0,False,False,True,False,True,False
+C-Town,C-Town_followup_11,Nominal hold,catalogue,PU4,4,4,False,False,True,False,True,False
+C-Town,C-Town_followup_11,Nominal hold,learned ranking,PU4,1,1,False,False,True,False,True,False
+C-Town,C-Town_followup_11,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_11,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_11,Robust hold,catalogue,PU4,4,12,False,False,True,False,True,False
+C-Town,C-Town_followup_11,Robust hold,learned ranking,PU4,1,3,False,False,True,False,True,False
+C-Town,C-Town_followup_11,Robust whole,catalogue,PU4,4,12,False,False,True,False,True,False
+C-Town,C-Town_followup_11,Robust whole,learned ranking,PU4,1,3,False,False,True,False,True,False
+C-Town,C-Town_followup_11,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_11,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_11,Robust task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_11,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_11,Learned robust task,catalogue,,4,3,False,False,False,False,False,True
+C-Town,C-Town_followup_11,Learned robust task,learned ranking,,4,3,False,False,False,False,False,True
+C-Town,C-Town_followup_11,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_11,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_11,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_11,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_11,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_11,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Scope,catalogue,PU1,1,0,False,False,False,True,False,False
+C-Town,C-Town_followup_12,Scope,learned ranking,PU7,1,0,False,False,False,True,True,False
+C-Town,C-Town_followup_12,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Hold RF,catalogue,PU1,1,0,False,False,False,True,False,False
+C-Town,C-Town_followup_12,Hold RF,learned ranking,PU7,1,0,False,False,False,True,True,False
+C-Town,C-Town_followup_12,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Nominal hold,catalogue,PU2,2,2,False,False,False,True,True,False
+C-Town,C-Town_followup_12,Nominal hold,learned ranking,PU7,1,1,False,False,False,True,True,False
+C-Town,C-Town_followup_12,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Robust hold,catalogue,PU2,2,6,False,False,False,True,True,False
+C-Town,C-Town_followup_12,Robust hold,learned ranking,PU4,2,6,False,False,False,True,True,False
+C-Town,C-Town_followup_12,Robust whole,catalogue,PU2,2,6,False,False,False,True,True,False
+C-Town,C-Town_followup_12,Robust whole,learned ranking,PU4,2,6,False,False,False,True,True,False
+C-Town,C-Town_followup_12,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Robust task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_12,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Scope,catalogue,PU8,1,0,False,False,False,True,True,False
+C-Town,C-Town_followup_13,Scope,learned ranking,PU8,1,0,False,False,False,True,True,False
+C-Town,C-Town_followup_13,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Hold RF,catalogue,PU8,1,0,False,False,False,True,True,False
+C-Town,C-Town_followup_13,Hold RF,learned ranking,PU8,1,0,False,False,False,True,True,False
+C-Town,C-Town_followup_13,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Nominal hold,catalogue,PU8,1,1,False,False,False,True,True,False
+C-Town,C-Town_followup_13,Nominal hold,learned ranking,PU8,1,1,False,False,False,True,True,False
+C-Town,C-Town_followup_13,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Robust hold,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Robust hold,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Robust whole,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Robust whole,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Robust task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_13,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Scope,catalogue,PU10,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_14,Scope,learned ranking,PU7,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_14,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Hold RF,catalogue,PU10,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_14,Hold RF,learned ranking,PU7,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_14,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Nominal hold,catalogue,PU2,3,3,False,False,False,True,True,False
+C-Town,C-Town_followup_14,Nominal hold,learned ranking,PU2,3,3,False,False,False,True,True,False
+C-Town,C-Town_followup_14,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Robust hold,catalogue,PU2,3,9,False,False,False,True,True,False
+C-Town,C-Town_followup_14,Robust hold,learned ranking,PU2,3,9,False,False,False,True,True,False
+C-Town,C-Town_followup_14,Robust whole,catalogue,PU2,3,9,False,False,False,True,True,False
+C-Town,C-Town_followup_14,Robust whole,learned ranking,PU2,3,9,False,False,False,True,True,False
+C-Town,C-Town_followup_14,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Robust task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_14,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Scope,catalogue,PU1,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_15,Scope,learned ranking,PU4,1,0,False,False,False,True,True,False
+C-Town,C-Town_followup_15,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Hold RF,catalogue,PU1,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_15,Hold RF,learned ranking,PU4,1,0,False,False,False,True,True,False
+C-Town,C-Town_followup_15,Whole RF,catalogue,PU4,3,0,False,False,False,True,True,False
+C-Town,C-Town_followup_15,Whole RF,learned ranking,PU4,1,0,False,False,False,True,True,False
+C-Town,C-Town_followup_15,Calibrated whole RF,catalogue,PU4,3,0,False,False,False,True,True,False
+C-Town,C-Town_followup_15,Calibrated whole RF,learned ranking,PU4,1,0,False,False,False,True,True,False
+C-Town,C-Town_followup_15,Nominal hold,catalogue,PU4,3,3,False,False,False,True,True,False
+C-Town,C-Town_followup_15,Nominal hold,learned ranking,PU4,1,1,False,False,False,True,True,False
+C-Town,C-Town_followup_15,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Robust hold,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Robust hold,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Robust whole,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Robust whole,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Robust task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Learned robust task,catalogue,,4,6,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Learned robust task,learned ranking,,4,6,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_15,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_16,Scope,catalogue,PU1,1,0,False,False,False,True,False,False
+C-Town,C-Town_followup_16,Scope,learned ranking,PU7,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_16,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_16,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_16,Hold RF,catalogue,PU1,1,0,False,False,False,True,False,False
+C-Town,C-Town_followup_16,Hold RF,learned ranking,PU7,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_16,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_16,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_16,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_16,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_16,Nominal hold,catalogue,PU2,2,2,True,False,False,False,True,False
+C-Town,C-Town_followup_16,Nominal hold,learned ranking,PU7,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_16,Nominal task,catalogue,PU4,3,3,True,False,False,False,True,False
+C-Town,C-Town_followup_16,Nominal task,learned ranking,PU7,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_16,Robust hold,catalogue,PU2,2,6,True,False,False,False,True,False
+C-Town,C-Town_followup_16,Robust hold,learned ranking,PU7,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_16,Robust whole,catalogue,PU2,2,6,True,False,False,False,True,False
+C-Town,C-Town_followup_16,Robust whole,learned ranking,PU7,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_16,Robust task no validity,catalogue,PU4,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_16,Robust task no validity,learned ranking,PU7,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_16,Robust task,catalogue,PU4,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_16,Robust task,learned ranking,PU7,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_16,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_16,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_16,Unbuffered joint,catalogue,PU4,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_16,Unbuffered joint,learned ranking,PU7,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_16,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_16,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_16,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_16,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_17,Scope,catalogue,PU2,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_17,Scope,learned ranking,PU7,1,0,False,True,False,False,True,False
+C-Town,C-Town_followup_17,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_17,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_17,Hold RF,catalogue,PU2,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_17,Hold RF,learned ranking,PU7,1,0,False,True,False,False,True,False
+C-Town,C-Town_followup_17,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_17,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_17,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_17,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_17,Nominal hold,catalogue,PU2,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_17,Nominal hold,learned ranking,PU10,2,2,True,False,False,False,True,False
+C-Town,C-Town_followup_17,Nominal task,catalogue,PU2,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_17,Nominal task,learned ranking,PU2,3,3,True,False,False,False,True,False
+C-Town,C-Town_followup_17,Robust hold,catalogue,PU2,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_17,Robust hold,learned ranking,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_17,Robust whole,catalogue,PU2,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_17,Robust whole,learned ranking,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_17,Robust task no validity,catalogue,PU2,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_17,Robust task no validity,learned ranking,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_17,Robust task,catalogue,PU2,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_17,Robust task,learned ranking,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_17,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_17,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_17,Unbuffered joint,catalogue,PU2,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_17,Unbuffered joint,learned ranking,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_17,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_17,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_17,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_17,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_18,Scope,catalogue,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Scope,learned ranking,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_18,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_18,Hold RF,catalogue,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Hold RF,learned ranking,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_18,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_18,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_18,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_18,Nominal hold,catalogue,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Nominal hold,learned ranking,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Nominal task,catalogue,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Nominal task,learned ranking,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Robust hold,catalogue,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Robust hold,learned ranking,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Robust whole,catalogue,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Robust whole,learned ranking,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Robust task no validity,catalogue,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Robust task no validity,learned ranking,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Robust task,catalogue,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Robust task,learned ranking,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_18,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_18,Unbuffered joint,catalogue,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Unbuffered joint,learned ranking,PU8,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_18,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_18,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_18,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_18,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Scope,catalogue,PU10,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_19,Scope,learned ranking,PU7,1,0,False,False,False,True,False,False
+C-Town,C-Town_followup_19,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Hold RF,catalogue,PU10,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_19,Hold RF,learned ranking,PU7,1,0,False,False,False,True,False,False
+C-Town,C-Town_followup_19,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Nominal hold,catalogue,PU4,3,3,False,False,False,True,True,False
+C-Town,C-Town_followup_19,Nominal hold,learned ranking,PU4,2,2,False,False,False,True,True,False
+C-Town,C-Town_followup_19,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Robust hold,catalogue,PU4,3,9,False,False,False,True,True,False
+C-Town,C-Town_followup_19,Robust hold,learned ranking,PU4,2,6,False,False,False,True,True,False
+C-Town,C-Town_followup_19,Robust whole,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Robust whole,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Robust task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_19,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_20,Scope,catalogue,PU10,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_20,Scope,learned ranking,PU4,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_20,Storage rule,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_20,Storage rule,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_20,Hold RF,catalogue,PU10,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_20,Hold RF,learned ranking,PU4,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_20,Whole RF,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_20,Whole RF,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_20,Calibrated whole RF,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_20,Calibrated whole RF,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_20,Nominal hold,catalogue,PU4,3,3,True,False,False,False,True,False
+C-Town,C-Town_followup_20,Nominal hold,learned ranking,PU4,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_20,Nominal task,catalogue,PU4,3,3,True,False,False,False,True,False
+C-Town,C-Town_followup_20,Nominal task,learned ranking,PU4,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_20,Robust hold,catalogue,PU4,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_20,Robust hold,learned ranking,PU4,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_20,Robust whole,catalogue,PU4,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_20,Robust whole,learned ranking,PU4,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_20,Robust task no validity,catalogue,PU4,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_20,Robust task no validity,learned ranking,PU4,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_20,Robust task,catalogue,PU4,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_20,Robust task,learned ranking,PU4,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_20,Learned robust task,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_20,Learned robust task,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_20,Unbuffered joint,catalogue,PU4,3,9,True,False,False,False,True,False
+C-Town,C-Town_followup_20,Unbuffered joint,learned ranking,PU4,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_20,Residual task,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_20,Residual task,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_20,Deny all,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_20,Deny all,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Scope,catalogue,PU1,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_21,Scope,learned ranking,PU7,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_21,Storage rule,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Storage rule,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Hold RF,catalogue,PU1,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_21,Hold RF,learned ranking,PU7,1,0,False,False,False,False,False,False
+C-Town,C-Town_followup_21,Whole RF,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Whole RF,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Calibrated whole RF,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Calibrated whole RF,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Nominal hold,catalogue,,3,3,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Nominal hold,learned ranking,,3,3,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Nominal task,catalogue,,3,3,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Nominal task,learned ranking,,3,3,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Robust hold,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Robust hold,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Robust whole,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Robust whole,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Robust task no validity,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Robust task no validity,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Robust task,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Robust task,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Learned robust task,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Learned robust task,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Unbuffered joint,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Unbuffered joint,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Residual task,catalogue,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Residual task,learned ranking,,3,9,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Deny all,catalogue,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_21,Deny all,learned ranking,,3,0,False,False,False,False,False,True
+C-Town,C-Town_followup_22,Scope,catalogue,PU8,1,0,False,False,True,False,True,False
+C-Town,C-Town_followup_22,Scope,learned ranking,PU8,1,0,False,False,True,False,True,False
+C-Town,C-Town_followup_22,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_22,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_22,Hold RF,catalogue,PU8,1,0,False,False,True,False,True,False
+C-Town,C-Town_followup_22,Hold RF,learned ranking,PU8,1,0,False,False,True,False,True,False
+C-Town,C-Town_followup_22,Whole RF,catalogue,PU8,1,0,False,False,True,False,True,False
+C-Town,C-Town_followup_22,Whole RF,learned ranking,PU8,1,0,False,False,True,False,True,False
+C-Town,C-Town_followup_22,Calibrated whole RF,catalogue,PU8,1,0,False,False,True,False,True,False
+C-Town,C-Town_followup_22,Calibrated whole RF,learned ranking,PU8,1,0,False,False,True,False,True,False
+C-Town,C-Town_followup_22,Nominal hold,catalogue,PU8,1,1,False,False,True,False,True,False
+C-Town,C-Town_followup_22,Nominal hold,learned ranking,PU8,1,1,False,False,True,False,True,False
+C-Town,C-Town_followup_22,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_22,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+C-Town,C-Town_followup_22,Robust hold,catalogue,PU8,1,3,False,False,True,False,True,False
+C-Town,C-Town_followup_22,Robust hold,learned ranking,PU8,1,3,False,False,True,False,True,False
+C-Town,C-Town_followup_22,Robust whole,catalogue,PU8,1,3,False,False,True,False,True,False
+C-Town,C-Town_followup_22,Robust whole,learned ranking,PU8,1,3,False,False,True,False,True,False
+C-Town,C-Town_followup_22,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_22,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_22,Robust task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_22,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_22,Learned robust task,catalogue,,4,3,False,False,False,False,False,True
+C-Town,C-Town_followup_22,Learned robust task,learned ranking,,4,3,False,False,False,False,False,True
+C-Town,C-Town_followup_22,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_22,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_22,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_22,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_22,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_22,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_23,Scope,catalogue,PU10,1,0,False,True,False,False,True,False
+C-Town,C-Town_followup_23,Scope,learned ranking,PU4,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_23,Storage rule,catalogue,PU1,2,0,False,False,False,False,False,False
+C-Town,C-Town_followup_23,Storage rule,learned ranking,PU2,3,0,False,False,False,False,False,False
+C-Town,C-Town_followup_23,Hold RF,catalogue,PU10,1,0,False,True,False,False,True,False
+C-Town,C-Town_followup_23,Hold RF,learned ranking,PU4,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_23,Whole RF,catalogue,PU10,1,0,False,True,False,False,True,False
+C-Town,C-Town_followup_23,Whole RF,learned ranking,PU4,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_23,Calibrated whole RF,catalogue,PU10,1,0,False,True,False,False,True,False
+C-Town,C-Town_followup_23,Calibrated whole RF,learned ranking,PU4,1,0,True,False,False,False,True,False
+C-Town,C-Town_followup_23,Nominal hold,catalogue,PU4,4,4,True,False,False,False,True,False
+C-Town,C-Town_followup_23,Nominal hold,learned ranking,PU4,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_23,Nominal task,catalogue,PU4,4,4,True,False,False,False,True,False
+C-Town,C-Town_followup_23,Nominal task,learned ranking,PU4,1,1,True,False,False,False,True,False
+C-Town,C-Town_followup_23,Robust hold,catalogue,PU4,4,12,True,False,False,False,True,False
+C-Town,C-Town_followup_23,Robust hold,learned ranking,PU4,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_23,Robust whole,catalogue,PU4,4,12,True,False,False,False,True,False
+C-Town,C-Town_followup_23,Robust whole,learned ranking,PU4,1,3,True,False,False,False,True,False
+C-Town,C-Town_followup_23,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_23,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_23,Robust task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_23,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_23,Learned robust task,catalogue,,4,6,False,False,False,False,False,True
+C-Town,C-Town_followup_23,Learned robust task,learned ranking,,4,6,False,False,False,False,False,True
+C-Town,C-Town_followup_23,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_23,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_23,Residual task,catalogue,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_23,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+C-Town,C-Town_followup_23,Deny all,catalogue,,4,0,False,False,False,False,False,True
+C-Town,C-Town_followup_23,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_00,Scope,catalogue,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_00,Scope,learned ranking,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_00,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_00,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_00,Hold RF,catalogue,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_00,Hold RF,learned ranking,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_00,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_00,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_00,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_00,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_00,Nominal hold,catalogue,238,2,2,False,False,False,True,True,False
+Net3,Net3_followup_00,Nominal hold,learned ranking,240,2,2,False,False,False,True,True,False
+Net3,Net3_followup_00,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_00,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_00,Robust hold,catalogue,238,2,6,False,False,False,True,True,False
+Net3,Net3_followup_00,Robust hold,learned ranking,240,2,6,False,False,False,True,True,False
+Net3,Net3_followup_00,Robust whole,catalogue,238,2,6,False,False,False,True,True,False
+Net3,Net3_followup_00,Robust whole,learned ranking,240,2,6,False,False,False,True,True,False
+Net3,Net3_followup_00,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_00,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_00,Robust task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_00,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_00,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_00,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_00,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_00,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_00,Residual task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_00,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_00,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_00,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_01,Scope,catalogue,238,1,0,False,False,False,True,True,False
+Net3,Net3_followup_01,Scope,learned ranking,243,1,0,False,False,False,True,True,False
+Net3,Net3_followup_01,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_01,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_01,Hold RF,catalogue,238,1,0,False,False,False,True,True,False
+Net3,Net3_followup_01,Hold RF,learned ranking,243,1,0,False,False,False,True,True,False
+Net3,Net3_followup_01,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_01,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_01,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_01,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_01,Nominal hold,catalogue,238,1,1,False,False,False,True,True,False
+Net3,Net3_followup_01,Nominal hold,learned ranking,243,1,1,False,False,False,True,True,False
+Net3,Net3_followup_01,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_01,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_01,Robust hold,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_01,Robust hold,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_01,Robust whole,catalogue,238,1,3,False,False,False,True,True,False
+Net3,Net3_followup_01,Robust whole,learned ranking,243,1,3,False,False,False,True,True,False
+Net3,Net3_followup_01,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_01,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_01,Robust task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_01,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_01,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_01,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_01,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_01,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_01,Residual task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_01,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_01,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_01,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_02,Scope,catalogue,241,1,0,True,False,False,False,True,False
+Net3,Net3_followup_02,Scope,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_02,Storage rule,catalogue,60,3,0,False,False,False,True,True,False
+Net3,Net3_followup_02,Storage rule,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_02,Hold RF,catalogue,241,1,0,True,False,False,False,True,False
+Net3,Net3_followup_02,Hold RF,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_02,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_02,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_02,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_02,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_02,Nominal hold,catalogue,241,1,1,True,False,False,False,True,False
+Net3,Net3_followup_02,Nominal hold,learned ranking,60,1,1,False,False,False,True,True,False
+Net3,Net3_followup_02,Nominal task,catalogue,20,4,4,True,False,False,False,True,False
+Net3,Net3_followup_02,Nominal task,learned ranking,20,4,4,True,False,False,False,True,False
+Net3,Net3_followup_02,Robust hold,catalogue,241,1,3,True,False,False,False,True,False
+Net3,Net3_followup_02,Robust hold,learned ranking,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_02,Robust whole,catalogue,241,1,3,True,False,False,False,True,False
+Net3,Net3_followup_02,Robust whole,learned ranking,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_02,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_02,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_02,Robust task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_02,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_02,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_02,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_02,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_02,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_02,Residual task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_02,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_02,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_02,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_03,Scope,catalogue,243,1,0,False,False,False,True,True,False
+Net3,Net3_followup_03,Scope,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_03,Storage rule,catalogue,20,3,0,True,False,False,False,True,False
+Net3,Net3_followup_03,Storage rule,learned ranking,20,3,0,True,False,False,False,True,False
+Net3,Net3_followup_03,Hold RF,catalogue,243,1,0,False,False,False,True,True,False
+Net3,Net3_followup_03,Hold RF,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_03,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_03,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_03,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_03,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_03,Nominal hold,catalogue,243,1,1,False,False,False,True,True,False
+Net3,Net3_followup_03,Nominal hold,learned ranking,60,1,1,False,False,False,True,True,False
+Net3,Net3_followup_03,Nominal task,catalogue,20,3,3,True,False,False,False,True,False
+Net3,Net3_followup_03,Nominal task,learned ranking,20,3,3,True,False,False,False,True,False
+Net3,Net3_followup_03,Robust hold,catalogue,243,1,3,False,False,False,True,True,False
+Net3,Net3_followup_03,Robust hold,learned ranking,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_03,Robust whole,catalogue,243,1,3,False,False,False,True,True,False
+Net3,Net3_followup_03,Robust whole,learned ranking,238,2,6,False,False,False,True,True,False
+Net3,Net3_followup_03,Robust task no validity,catalogue,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_03,Robust task no validity,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_03,Robust task,catalogue,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_03,Robust task,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_03,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_03,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_03,Unbuffered joint,catalogue,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_03,Unbuffered joint,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_03,Residual task,catalogue,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_03,Residual task,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_03,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_03,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_04,Scope,catalogue,243,1,0,True,False,False,False,True,False
+Net3,Net3_followup_04,Scope,learned ranking,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_04,Storage rule,catalogue,20,3,0,True,False,False,False,True,False
+Net3,Net3_followup_04,Storage rule,learned ranking,20,3,0,True,False,False,False,True,False
+Net3,Net3_followup_04,Hold RF,catalogue,243,1,0,True,False,False,False,True,False
+Net3,Net3_followup_04,Hold RF,learned ranking,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_04,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_04,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_04,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_04,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_04,Nominal hold,catalogue,243,1,1,True,False,False,False,True,False
+Net3,Net3_followup_04,Nominal hold,learned ranking,335,1,1,False,False,False,False,False,False
+Net3,Net3_followup_04,Nominal task,catalogue,20,3,3,True,False,False,False,True,False
+Net3,Net3_followup_04,Nominal task,learned ranking,335,1,1,False,False,False,False,False,False
+Net3,Net3_followup_04,Robust hold,catalogue,243,1,3,True,False,False,False,True,False
+Net3,Net3_followup_04,Robust hold,learned ranking,60,2,6,False,False,False,True,True,False
+Net3,Net3_followup_04,Robust whole,catalogue,243,1,3,True,False,False,False,True,False
+Net3,Net3_followup_04,Robust whole,learned ranking,60,2,6,False,False,False,True,True,False
+Net3,Net3_followup_04,Robust task no validity,catalogue,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_04,Robust task no validity,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_04,Robust task,catalogue,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_04,Robust task,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_04,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_04,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_04,Unbuffered joint,catalogue,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_04,Unbuffered joint,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_04,Residual task,catalogue,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_04,Residual task,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_04,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_04,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_05,Scope,catalogue,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_05,Scope,learned ranking,335,1,0,True,False,False,False,True,False
+Net3,Net3_followup_05,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_05,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_05,Hold RF,catalogue,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_05,Hold RF,learned ranking,335,1,0,True,False,False,False,True,False
+Net3,Net3_followup_05,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_05,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_05,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_05,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_05,Nominal hold,catalogue,60,1,1,False,False,False,True,True,False
+Net3,Net3_followup_05,Nominal hold,learned ranking,335,1,1,True,False,False,False,True,False
+Net3,Net3_followup_05,Nominal task,catalogue,335,2,2,True,False,False,False,True,False
+Net3,Net3_followup_05,Nominal task,learned ranking,335,1,1,True,False,False,False,True,False
+Net3,Net3_followup_05,Robust hold,catalogue,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_05,Robust hold,learned ranking,60,2,6,False,False,False,True,True,False
+Net3,Net3_followup_05,Robust whole,catalogue,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_05,Robust whole,learned ranking,60,2,6,False,False,False,True,True,False
+Net3,Net3_followup_05,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_05,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_05,Robust task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_05,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_05,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_05,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_05,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_05,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_05,Residual task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_05,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_05,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_05,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_06,Scope,catalogue,238,1,0,False,False,False,True,True,False
+Net3,Net3_followup_06,Scope,learned ranking,240,1,0,False,False,False,True,True,False
+Net3,Net3_followup_06,Storage rule,catalogue,238,1,0,False,False,False,True,True,False
+Net3,Net3_followup_06,Storage rule,learned ranking,240,1,0,False,False,False,True,True,False
+Net3,Net3_followup_06,Hold RF,catalogue,238,1,0,False,False,False,True,True,False
+Net3,Net3_followup_06,Hold RF,learned ranking,240,1,0,False,False,False,True,True,False
+Net3,Net3_followup_06,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_06,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_06,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_06,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_06,Nominal hold,catalogue,238,1,1,False,False,False,True,True,False
+Net3,Net3_followup_06,Nominal hold,learned ranking,240,1,1,False,False,False,True,True,False
+Net3,Net3_followup_06,Nominal task,catalogue,238,1,1,False,False,False,True,True,False
+Net3,Net3_followup_06,Nominal task,learned ranking,240,1,1,False,False,False,True,True,False
+Net3,Net3_followup_06,Robust hold,catalogue,238,1,3,False,False,False,True,True,False
+Net3,Net3_followup_06,Robust hold,learned ranking,240,1,3,False,False,False,True,True,False
+Net3,Net3_followup_06,Robust whole,catalogue,238,1,3,False,False,False,True,True,False
+Net3,Net3_followup_06,Robust whole,learned ranking,240,1,3,False,False,False,True,True,False
+Net3,Net3_followup_06,Robust task no validity,catalogue,238,1,3,False,False,False,True,True,False
+Net3,Net3_followup_06,Robust task no validity,learned ranking,240,1,3,False,False,False,True,True,False
+Net3,Net3_followup_06,Robust task,catalogue,238,1,3,False,False,False,True,True,False
+Net3,Net3_followup_06,Robust task,learned ranking,240,1,3,False,False,False,True,True,False
+Net3,Net3_followup_06,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_06,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_06,Unbuffered joint,catalogue,238,1,3,False,False,False,True,True,False
+Net3,Net3_followup_06,Unbuffered joint,learned ranking,240,1,3,False,False,False,True,True,False
+Net3,Net3_followup_06,Residual task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_06,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_06,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_06,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_07,Scope,catalogue,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_07,Scope,learned ranking,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_07,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_07,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_07,Hold RF,catalogue,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_07,Hold RF,learned ranking,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_07,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_07,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_07,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_07,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_07,Nominal hold,catalogue,238,2,2,False,False,False,True,True,False
+Net3,Net3_followup_07,Nominal hold,learned ranking,238,2,2,False,False,False,True,True,False
+Net3,Net3_followup_07,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_07,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_07,Robust hold,catalogue,238,2,6,False,False,False,True,True,False
+Net3,Net3_followup_07,Robust hold,learned ranking,238,2,6,False,False,False,True,True,False
+Net3,Net3_followup_07,Robust whole,catalogue,238,2,6,False,False,False,True,True,False
+Net3,Net3_followup_07,Robust whole,learned ranking,238,2,6,False,False,False,True,True,False
+Net3,Net3_followup_07,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_07,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_07,Robust task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_07,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_07,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_07,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_07,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_07,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_07,Residual task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_07,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_07,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_07,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_08,Scope,catalogue,238,1,0,False,False,False,True,True,False
+Net3,Net3_followup_08,Scope,learned ranking,243,1,0,False,False,False,True,True,False
+Net3,Net3_followup_08,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_08,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_08,Hold RF,catalogue,238,1,0,False,False,False,True,True,False
+Net3,Net3_followup_08,Hold RF,learned ranking,243,1,0,False,False,False,True,True,False
+Net3,Net3_followup_08,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_08,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_08,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_08,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_08,Nominal hold,catalogue,238,1,1,False,False,False,True,True,False
+Net3,Net3_followup_08,Nominal hold,learned ranking,243,1,1,False,False,False,True,True,False
+Net3,Net3_followup_08,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_08,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_08,Robust hold,catalogue,238,1,3,False,False,False,True,True,False
+Net3,Net3_followup_08,Robust hold,learned ranking,243,1,3,False,False,False,True,True,False
+Net3,Net3_followup_08,Robust whole,catalogue,238,1,3,False,False,False,True,True,False
+Net3,Net3_followup_08,Robust whole,learned ranking,243,1,3,False,False,False,True,True,False
+Net3,Net3_followup_08,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_08,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_08,Robust task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_08,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_08,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_08,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_08,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_08,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_08,Residual task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_08,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_08,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_08,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_09,Scope,catalogue,240,1,0,False,False,False,True,True,False
+Net3,Net3_followup_09,Scope,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_09,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_09,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_09,Hold RF,catalogue,240,1,0,False,False,False,True,True,False
+Net3,Net3_followup_09,Hold RF,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_09,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_09,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_09,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_09,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_09,Nominal hold,catalogue,240,1,1,False,False,False,True,True,False
+Net3,Net3_followup_09,Nominal hold,learned ranking,60,1,1,False,False,False,True,True,False
+Net3,Net3_followup_09,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_09,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_09,Robust hold,catalogue,240,1,3,False,False,False,True,True,False
+Net3,Net3_followup_09,Robust hold,learned ranking,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_09,Robust whole,catalogue,240,1,3,False,False,False,True,True,False
+Net3,Net3_followup_09,Robust whole,learned ranking,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_09,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_09,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_09,Robust task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_09,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_09,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_09,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_09,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_09,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_09,Residual task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_09,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_09,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_09,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_10,Scope,catalogue,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_10,Scope,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_10,Storage rule,catalogue,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_10,Storage rule,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_10,Hold RF,catalogue,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_10,Hold RF,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_10,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_10,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_10,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_10,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_10,Nominal hold,catalogue,60,1,1,False,False,False,True,True,False
+Net3,Net3_followup_10,Nominal hold,learned ranking,60,1,1,False,False,False,True,True,False
+Net3,Net3_followup_10,Nominal task,catalogue,20,2,2,False,True,False,False,True,False
+Net3,Net3_followup_10,Nominal task,learned ranking,20,4,4,False,True,False,False,True,False
+Net3,Net3_followup_10,Robust hold,catalogue,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_10,Robust hold,learned ranking,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_10,Robust whole,catalogue,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_10,Robust whole,learned ranking,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_10,Robust task no validity,catalogue,20,2,6,False,True,False,False,True,False
+Net3,Net3_followup_10,Robust task no validity,learned ranking,20,4,12,False,True,False,False,True,False
+Net3,Net3_followup_10,Robust task,catalogue,20,2,6,False,True,False,False,True,False
+Net3,Net3_followup_10,Robust task,learned ranking,20,4,12,False,True,False,False,True,False
+Net3,Net3_followup_10,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_10,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_10,Unbuffered joint,catalogue,20,2,6,False,True,False,False,True,False
+Net3,Net3_followup_10,Unbuffered joint,learned ranking,20,4,12,False,True,False,False,True,False
+Net3,Net3_followup_10,Residual task,catalogue,20,2,6,False,True,False,False,True,False
+Net3,Net3_followup_10,Residual task,learned ranking,20,4,12,False,True,False,False,True,False
+Net3,Net3_followup_10,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_10,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_11,Scope,catalogue,243,1,0,False,False,False,True,True,False
+Net3,Net3_followup_11,Scope,learned ranking,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_11,Storage rule,catalogue,20,3,0,True,False,False,False,True,False
+Net3,Net3_followup_11,Storage rule,learned ranking,20,3,0,True,False,False,False,True,False
+Net3,Net3_followup_11,Hold RF,catalogue,243,1,0,False,False,False,True,True,False
+Net3,Net3_followup_11,Hold RF,learned ranking,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_11,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_11,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_11,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_11,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_11,Nominal hold,catalogue,243,1,1,False,False,False,True,True,False
+Net3,Net3_followup_11,Nominal hold,learned ranking,60,2,2,False,False,False,True,True,False
+Net3,Net3_followup_11,Nominal task,catalogue,20,3,3,True,False,False,False,True,False
+Net3,Net3_followup_11,Nominal task,learned ranking,20,3,3,True,False,False,False,True,False
+Net3,Net3_followup_11,Robust hold,catalogue,243,1,3,False,False,False,True,True,False
+Net3,Net3_followup_11,Robust hold,learned ranking,60,2,6,False,False,False,True,True,False
+Net3,Net3_followup_11,Robust whole,catalogue,243,1,3,False,False,False,True,True,False
+Net3,Net3_followup_11,Robust whole,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_11,Robust task no validity,catalogue,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_11,Robust task no validity,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_11,Robust task,catalogue,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_11,Robust task,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_11,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_11,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_11,Unbuffered joint,catalogue,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_11,Unbuffered joint,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_11,Residual task,catalogue,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_11,Residual task,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_11,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_11,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_12,Scope,catalogue,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_12,Scope,learned ranking,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_12,Storage rule,catalogue,20,2,0,False,True,False,False,True,False
+Net3,Net3_followup_12,Storage rule,learned ranking,20,3,0,False,True,False,False,True,False
+Net3,Net3_followup_12,Hold RF,catalogue,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_12,Hold RF,learned ranking,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_12,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_12,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_12,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_12,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_12,Nominal hold,catalogue,60,1,1,False,False,False,True,True,False
+Net3,Net3_followup_12,Nominal hold,learned ranking,335,1,1,False,False,False,False,False,False
+Net3,Net3_followup_12,Nominal task,catalogue,20,2,2,False,True,False,False,True,False
+Net3,Net3_followup_12,Nominal task,learned ranking,335,1,1,False,False,False,False,False,False
+Net3,Net3_followup_12,Robust hold,catalogue,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_12,Robust hold,learned ranking,60,2,6,False,False,False,True,True,False
+Net3,Net3_followup_12,Robust whole,catalogue,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_12,Robust whole,learned ranking,60,2,6,False,False,False,True,True,False
+Net3,Net3_followup_12,Robust task no validity,catalogue,20,2,6,False,True,False,False,True,False
+Net3,Net3_followup_12,Robust task no validity,learned ranking,20,3,9,False,True,False,False,True,False
+Net3,Net3_followup_12,Robust task,catalogue,20,2,6,False,True,False,False,True,False
+Net3,Net3_followup_12,Robust task,learned ranking,20,3,9,False,True,False,False,True,False
+Net3,Net3_followup_12,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_12,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_12,Unbuffered joint,catalogue,20,2,6,False,True,False,False,True,False
+Net3,Net3_followup_12,Unbuffered joint,learned ranking,20,3,9,False,True,False,False,True,False
+Net3,Net3_followup_12,Residual task,catalogue,20,2,6,False,True,False,False,True,False
+Net3,Net3_followup_12,Residual task,learned ranking,20,3,9,False,True,False,False,True,False
+Net3,Net3_followup_12,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_12,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_13,Scope,catalogue,240,1,0,False,False,False,True,True,False
+Net3,Net3_followup_13,Scope,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_13,Storage rule,catalogue,240,1,0,False,False,False,True,True,False
+Net3,Net3_followup_13,Storage rule,learned ranking,241,2,0,False,False,False,True,True,False
+Net3,Net3_followup_13,Hold RF,catalogue,240,1,0,False,False,False,True,True,False
+Net3,Net3_followup_13,Hold RF,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_13,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_13,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_13,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_13,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_13,Nominal hold,catalogue,240,1,1,False,False,False,True,True,False
+Net3,Net3_followup_13,Nominal hold,learned ranking,60,1,1,False,False,False,True,True,False
+Net3,Net3_followup_13,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_13,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_13,Robust hold,catalogue,240,1,3,False,False,False,True,True,False
+Net3,Net3_followup_13,Robust hold,learned ranking,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_13,Robust whole,catalogue,240,1,3,False,False,False,True,True,False
+Net3,Net3_followup_13,Robust whole,learned ranking,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_13,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_13,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_13,Robust task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_13,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_13,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_13,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_13,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_13,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_13,Residual task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_13,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_13,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_13,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_14,Scope,catalogue,241,1,0,True,False,False,False,True,False
+Net3,Net3_followup_14,Scope,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_14,Storage rule,catalogue,241,1,0,True,False,False,False,True,False
+Net3,Net3_followup_14,Storage rule,learned ranking,241,2,0,True,False,False,False,True,False
+Net3,Net3_followup_14,Hold RF,catalogue,241,1,0,True,False,False,False,True,False
+Net3,Net3_followup_14,Hold RF,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_14,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_14,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_14,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_14,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_14,Nominal hold,catalogue,241,1,1,True,False,False,False,True,False
+Net3,Net3_followup_14,Nominal hold,learned ranking,60,1,1,False,False,False,True,True,False
+Net3,Net3_followup_14,Nominal task,catalogue,241,1,1,True,False,False,False,True,False
+Net3,Net3_followup_14,Nominal task,learned ranking,241,2,2,True,False,False,False,True,False
+Net3,Net3_followup_14,Robust hold,catalogue,241,1,3,True,False,False,False,True,False
+Net3,Net3_followup_14,Robust hold,learned ranking,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_14,Robust whole,catalogue,241,1,3,True,False,False,False,True,False
+Net3,Net3_followup_14,Robust whole,learned ranking,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_14,Robust task no validity,catalogue,241,1,3,True,False,False,False,True,False
+Net3,Net3_followup_14,Robust task no validity,learned ranking,241,2,6,True,False,False,False,True,False
+Net3,Net3_followup_14,Robust task,catalogue,241,1,3,True,False,False,False,True,False
+Net3,Net3_followup_14,Robust task,learned ranking,241,2,6,True,False,False,False,True,False
+Net3,Net3_followup_14,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_14,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_14,Unbuffered joint,catalogue,241,1,3,True,False,False,False,True,False
+Net3,Net3_followup_14,Unbuffered joint,learned ranking,241,2,6,True,False,False,False,True,False
+Net3,Net3_followup_14,Residual task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_14,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_14,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_14,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_15,Scope,catalogue,238,1,0,False,False,False,True,True,False
+Net3,Net3_followup_15,Scope,learned ranking,243,1,0,False,False,False,True,True,False
+Net3,Net3_followup_15,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_15,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_15,Hold RF,catalogue,238,1,0,False,False,False,True,True,False
+Net3,Net3_followup_15,Hold RF,learned ranking,243,1,0,False,False,False,True,True,False
+Net3,Net3_followup_15,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_15,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_15,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_15,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_15,Nominal hold,catalogue,238,1,1,False,False,False,True,True,False
+Net3,Net3_followup_15,Nominal hold,learned ranking,243,1,1,False,False,False,True,True,False
+Net3,Net3_followup_15,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_15,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_15,Robust hold,catalogue,238,1,3,False,False,False,True,True,False
+Net3,Net3_followup_15,Robust hold,learned ranking,243,1,3,False,False,False,True,True,False
+Net3,Net3_followup_15,Robust whole,catalogue,238,1,3,False,False,False,True,True,False
+Net3,Net3_followup_15,Robust whole,learned ranking,243,1,3,False,False,False,True,True,False
+Net3,Net3_followup_15,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_15,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_15,Robust task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_15,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_15,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_15,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_15,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_15,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_15,Residual task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_15,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_15,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_15,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_16,Scope,catalogue,240,1,0,False,False,False,True,True,False
+Net3,Net3_followup_16,Scope,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_16,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_16,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_16,Hold RF,catalogue,240,1,0,False,False,False,True,True,False
+Net3,Net3_followup_16,Hold RF,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_16,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_16,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_16,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_16,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_16,Nominal hold,catalogue,240,1,1,False,False,False,True,True,False
+Net3,Net3_followup_16,Nominal hold,learned ranking,60,1,1,False,False,False,True,True,False
+Net3,Net3_followup_16,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_16,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_16,Robust hold,catalogue,240,1,3,False,False,False,True,True,False
+Net3,Net3_followup_16,Robust hold,learned ranking,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_16,Robust whole,catalogue,240,1,3,False,False,False,True,True,False
+Net3,Net3_followup_16,Robust whole,learned ranking,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_16,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_16,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_16,Robust task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_16,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_16,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_16,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_16,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_16,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_16,Residual task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_16,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_16,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_16,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_17,Scope,catalogue,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_17,Scope,learned ranking,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_17,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_17,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_17,Hold RF,catalogue,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_17,Hold RF,learned ranking,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_17,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_17,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_17,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_17,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_17,Nominal hold,catalogue,60,1,1,False,False,False,True,True,False
+Net3,Net3_followup_17,Nominal hold,learned ranking,335,1,1,False,False,False,False,False,False
+Net3,Net3_followup_17,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_17,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_17,Robust hold,catalogue,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_17,Robust hold,learned ranking,60,2,6,False,False,False,True,True,False
+Net3,Net3_followup_17,Robust whole,catalogue,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_17,Robust whole,learned ranking,60,2,6,False,False,False,True,True,False
+Net3,Net3_followup_17,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_17,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_17,Robust task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_17,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_17,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_17,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_17,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_17,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_17,Residual task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_17,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_17,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_17,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_18,Scope,catalogue,238,1,0,False,False,False,True,True,False
+Net3,Net3_followup_18,Scope,learned ranking,238,1,0,False,False,False,True,True,False
+Net3,Net3_followup_18,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_18,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_18,Hold RF,catalogue,238,1,0,False,False,False,True,True,False
+Net3,Net3_followup_18,Hold RF,learned ranking,238,1,0,False,False,False,True,True,False
+Net3,Net3_followup_18,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_18,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_18,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_18,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_18,Nominal hold,catalogue,238,1,1,False,False,False,True,True,False
+Net3,Net3_followup_18,Nominal hold,learned ranking,238,1,1,False,False,False,True,True,False
+Net3,Net3_followup_18,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_18,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_18,Robust hold,catalogue,238,1,3,False,False,False,True,True,False
+Net3,Net3_followup_18,Robust hold,learned ranking,238,1,3,False,False,False,True,True,False
+Net3,Net3_followup_18,Robust whole,catalogue,238,1,3,False,False,False,True,True,False
+Net3,Net3_followup_18,Robust whole,learned ranking,238,1,3,False,False,False,True,True,False
+Net3,Net3_followup_18,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_18,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_18,Robust task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_18,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_18,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_18,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_18,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_18,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_18,Residual task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_18,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_18,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_18,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_19,Scope,catalogue,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_19,Scope,learned ranking,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_19,Storage rule,catalogue,20,2,0,True,False,False,False,True,False
+Net3,Net3_followup_19,Storage rule,learned ranking,20,3,0,True,False,False,False,True,False
+Net3,Net3_followup_19,Hold RF,catalogue,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_19,Hold RF,learned ranking,335,1,0,False,False,False,False,False,False
+Net3,Net3_followup_19,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_19,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_19,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_19,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_19,Nominal hold,catalogue,60,1,1,False,False,False,True,True,False
+Net3,Net3_followup_19,Nominal hold,learned ranking,60,2,2,False,False,False,True,True,False
+Net3,Net3_followup_19,Nominal task,catalogue,20,2,2,True,False,False,False,True,False
+Net3,Net3_followup_19,Nominal task,learned ranking,20,3,3,True,False,False,False,True,False
+Net3,Net3_followup_19,Robust hold,catalogue,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_19,Robust hold,learned ranking,60,2,6,False,False,False,True,True,False
+Net3,Net3_followup_19,Robust whole,catalogue,20,2,6,True,False,False,False,True,False
+Net3,Net3_followup_19,Robust whole,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_19,Robust task no validity,catalogue,20,2,6,True,False,False,False,True,False
+Net3,Net3_followup_19,Robust task no validity,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_19,Robust task,catalogue,20,2,6,True,False,False,False,True,False
+Net3,Net3_followup_19,Robust task,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_19,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_19,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_19,Unbuffered joint,catalogue,20,2,6,True,False,False,False,True,False
+Net3,Net3_followup_19,Unbuffered joint,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_19,Residual task,catalogue,20,2,6,True,False,False,False,True,False
+Net3,Net3_followup_19,Residual task,learned ranking,20,3,9,True,False,False,False,True,False
+Net3,Net3_followup_19,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_19,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_20,Scope,catalogue,20,1,0,True,False,False,False,True,False
+Net3,Net3_followup_20,Scope,learned ranking,335,1,0,False,False,False,True,True,False
+Net3,Net3_followup_20,Storage rule,catalogue,20,1,0,True,False,False,False,True,False
+Net3,Net3_followup_20,Storage rule,learned ranking,20,2,0,True,False,False,False,True,False
+Net3,Net3_followup_20,Hold RF,catalogue,20,1,0,True,False,False,False,True,False
+Net3,Net3_followup_20,Hold RF,learned ranking,335,1,0,False,False,False,True,True,False
+Net3,Net3_followup_20,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_20,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_20,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_20,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_20,Nominal hold,catalogue,20,1,1,True,False,False,False,True,False
+Net3,Net3_followup_20,Nominal hold,learned ranking,335,1,1,False,False,False,True,True,False
+Net3,Net3_followup_20,Nominal task,catalogue,20,1,1,True,False,False,False,True,False
+Net3,Net3_followup_20,Nominal task,learned ranking,335,1,1,False,False,False,True,True,False
+Net3,Net3_followup_20,Robust hold,catalogue,20,1,3,True,False,False,False,True,False
+Net3,Net3_followup_20,Robust hold,learned ranking,20,2,6,True,False,False,False,True,False
+Net3,Net3_followup_20,Robust whole,catalogue,20,1,3,True,False,False,False,True,False
+Net3,Net3_followup_20,Robust whole,learned ranking,20,2,6,True,False,False,False,True,False
+Net3,Net3_followup_20,Robust task no validity,catalogue,20,1,3,True,False,False,False,True,False
+Net3,Net3_followup_20,Robust task no validity,learned ranking,20,2,6,True,False,False,False,True,False
+Net3,Net3_followup_20,Robust task,catalogue,20,1,3,True,False,False,False,True,False
+Net3,Net3_followup_20,Robust task,learned ranking,20,2,6,True,False,False,False,True,False
+Net3,Net3_followup_20,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_20,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_20,Unbuffered joint,catalogue,20,1,3,True,False,False,False,True,False
+Net3,Net3_followup_20,Unbuffered joint,learned ranking,20,2,6,True,False,False,False,True,False
+Net3,Net3_followup_20,Residual task,catalogue,20,1,3,True,False,False,False,True,False
+Net3,Net3_followup_20,Residual task,learned ranking,20,2,6,True,False,False,False,True,False
+Net3,Net3_followup_20,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_20,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_21,Scope,catalogue,243,1,0,True,False,False,False,True,False
+Net3,Net3_followup_21,Scope,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_21,Storage rule,catalogue,243,1,0,True,False,False,False,True,False
+Net3,Net3_followup_21,Storage rule,learned ranking,238,2,0,True,False,False,False,True,False
+Net3,Net3_followup_21,Hold RF,catalogue,243,1,0,True,False,False,False,True,False
+Net3,Net3_followup_21,Hold RF,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_21,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_21,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_21,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_21,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_21,Nominal hold,catalogue,243,1,1,True,False,False,False,True,False
+Net3,Net3_followup_21,Nominal hold,learned ranking,60,1,1,False,False,False,True,True,False
+Net3,Net3_followup_21,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_21,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_21,Robust hold,catalogue,243,1,3,True,False,False,False,True,False
+Net3,Net3_followup_21,Robust hold,learned ranking,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_21,Robust whole,catalogue,243,1,3,True,False,False,False,True,False
+Net3,Net3_followup_21,Robust whole,learned ranking,238,2,6,True,False,False,False,True,False
+Net3,Net3_followup_21,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_21,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_21,Robust task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_21,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_21,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_21,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_21,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_21,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_21,Residual task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_21,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_21,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_21,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_22,Scope,catalogue,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_22,Scope,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_22,Storage rule,catalogue,20,2,0,True,False,False,False,True,False
+Net3,Net3_followup_22,Storage rule,learned ranking,240,2,0,False,False,False,True,True,False
+Net3,Net3_followup_22,Hold RF,catalogue,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_22,Hold RF,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_22,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_22,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_22,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_22,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_22,Nominal hold,catalogue,60,1,1,False,False,False,True,True,False
+Net3,Net3_followup_22,Nominal hold,learned ranking,60,1,1,False,False,False,True,True,False
+Net3,Net3_followup_22,Nominal task,catalogue,20,2,2,True,False,False,False,True,False
+Net3,Net3_followup_22,Nominal task,learned ranking,240,2,2,False,False,False,True,True,False
+Net3,Net3_followup_22,Robust hold,catalogue,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_22,Robust hold,learned ranking,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_22,Robust whole,catalogue,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_22,Robust whole,learned ranking,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_22,Robust task no validity,catalogue,20,2,6,True,False,False,False,True,False
+Net3,Net3_followup_22,Robust task no validity,learned ranking,240,2,6,False,False,False,True,True,False
+Net3,Net3_followup_22,Robust task,catalogue,20,2,6,True,False,False,False,True,False
+Net3,Net3_followup_22,Robust task,learned ranking,240,2,6,False,False,False,True,True,False
+Net3,Net3_followup_22,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_22,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_22,Unbuffered joint,catalogue,20,2,6,True,False,False,False,True,False
+Net3,Net3_followup_22,Unbuffered joint,learned ranking,240,2,6,False,False,False,True,True,False
+Net3,Net3_followup_22,Residual task,catalogue,20,2,6,True,False,False,False,True,False
+Net3,Net3_followup_22,Residual task,learned ranking,20,4,12,True,False,False,False,True,False
+Net3,Net3_followup_22,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_22,Deny all,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_23,Scope,catalogue,240,1,0,False,False,False,True,True,False
+Net3,Net3_followup_23,Scope,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_23,Storage rule,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_23,Storage rule,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_23,Hold RF,catalogue,240,1,0,False,False,False,True,True,False
+Net3,Net3_followup_23,Hold RF,learned ranking,60,1,0,False,False,False,True,True,False
+Net3,Net3_followup_23,Whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_23,Whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_23,Calibrated whole RF,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_23,Calibrated whole RF,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_23,Nominal hold,catalogue,240,1,1,False,False,False,True,True,False
+Net3,Net3_followup_23,Nominal hold,learned ranking,60,1,1,False,False,False,True,True,False
+Net3,Net3_followup_23,Nominal task,catalogue,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_23,Nominal task,learned ranking,,4,4,False,False,False,False,False,True
+Net3,Net3_followup_23,Robust hold,catalogue,240,1,3,False,False,False,True,True,False
+Net3,Net3_followup_23,Robust hold,learned ranking,60,1,3,False,False,False,True,True,False
+Net3,Net3_followup_23,Robust whole,catalogue,240,1,3,False,False,False,True,True,False
+Net3,Net3_followup_23,Robust whole,learned ranking,243,2,6,False,False,False,True,True,False
+Net3,Net3_followup_23,Robust task no validity,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_23,Robust task no validity,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_23,Robust task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_23,Robust task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_23,Learned robust task,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_23,Learned robust task,learned ranking,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_23,Unbuffered joint,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_23,Unbuffered joint,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_23,Residual task,catalogue,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_23,Residual task,learned ranking,,4,12,False,False,False,False,False,True
+Net3,Net3_followup_23,Deny all,catalogue,,4,0,False,False,False,False,False,True
+Net3,Net3_followup_23,Deny all,learned ranking,,4,0,False,False,False,False,False,True

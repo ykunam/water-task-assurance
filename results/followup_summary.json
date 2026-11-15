@@ -1,0 +1,37 @@
+{
+  "scheduled_tasks": 48,
+  "completed_task_records": 48,
+  "state_errors": [],
+  "candidates": 186,
+  "policy_episodes": 1440,
+  "networks": [
+    {
+      "network": "C-Town",
+      "tasks": 24,
+      "candidates": 90,
+      "assessable": 78,
+      "acceptable": 23,
+      "harmful": 7,
+      "feasible_tasks": 14
+    },
+    {
+      "network": "Net3",
+      "tasks": 24,
+      "candidates": 96,
+      "assessable": 96,
+      "acceptable": 17,
+      "harmful": 2,
+      "feasible_tasks": 10
+    }
+  ],
+  "containment": {
+    "C-Town": {
+      "assessable": 19,
+      "contained": 19
+    },
+    "Net3": {
+      "assessable": 24,
+      "contained": 20
+    }
+  }
+}
