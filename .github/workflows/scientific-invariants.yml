@@ -17,3 +17,20 @@ jobs:
       - run: python -m pip install -r requirements.txt
       - run: python -m unittest -v test_assurance
       - run: python audit_evidence.py
+
+  portable-evidence:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Export existing binary evidence for UTF-8 connector recovery
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import base64, hashlib
+          for name in ['results/receipts.json.gz','results/references.json.gz','artwork/Figure_1.pdf','artwork/Figure_2.pdf']:
+              data=Path(name).read_bytes()
+              print('EVIDENCE_BEGIN '+name+' '+hashlib.sha256(data).hexdigest())
+              encoded=base64.b64encode(data).decode()
+              for i in range(0,len(encoded),24000): print('EVIDENCE_CHUNK '+encoded[i:i+24000])
+              print('EVIDENCE_END '+name)
+          PY
