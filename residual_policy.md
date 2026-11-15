@@ -38,3 +38,13 @@ and all violations rather than asserting 90% coverage.
 Report this gate beside the original predeclared comparisons, including cases
 where the margin suppresses useful work. Do not tune its confidence level, feature
 set, thresholds or task aggregation after observing the test results.
+
+Before test analysis, add a zero-margin ablation named Unbuffered joint, with
+the identical six-coordinate predicates and numerical/realization conditions.
+This separates the margin's effect from the stricter joint endpoint definition.
+It is a secondary ablation, not part of the original protocol. After selection,
+freshly execute the chosen actions for Hold RF, Nominal task and Residual task
+under both controllers on all 48 test tasks; compare these execution receipts
+with the cached counterfactual environment without changing choices or labels.
+These 288 attempted rollouts include abstentions. They are software-agent runs,
+not independent new states or a controlled LLM comparison.

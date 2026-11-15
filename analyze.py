@@ -10,7 +10,7 @@ from assurance import ROOT, OUT, SEED, FORECAST, CATALOGUES
 
 GATES = ["Scope", "Storage rule", "Hold RF", "Whole RF", "Calibrated whole RF",
          "Nominal hold", "Nominal task", "Robust hold", "Robust whole",
-         "Robust task no validity", "Robust task", "Learned robust task", "Residual task", "Deny all"]
+         "Robust task no validity", "Robust task", "Learned robust task", "Unbuffered joint", "Residual task", "Deny all"]
 
 
 def severity(evaluation):
@@ -54,8 +54,8 @@ def decide(gate, view, threshold):
     if gate == "Learned robust task" and view["whole_score"] >= threshold:
         return False, 0
     forecasts = view["forecasts"]
-    if gate == "Residual task":
-        margin = view["residual_margin"]
+    if gate in ("Residual task", "Unbuffered joint"):
+        margin = view["residual_margin"] if gate == "Residual task" else 0.
         valid = all("error" not in x and x["assessable"] and x["realized"] == 1
                     for x in forecasts)
         maximum = max(severity(x) for x in forecasts)
