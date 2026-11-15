@@ -1,0 +1,1291 @@
+{
+  "fit_manifest": {
+    "C-Town": {
+      "features": [
+        "x_hour_sin",
+        "x_hour_cos",
+        "x_scale",
+        "x_hold_h",
+        "x_tank_min",
+        "x_tank_mean",
+        "x_tank_max",
+        "x_is_pump",
+        "x_source_adjacent",
+        "x_tank_adjacent",
+        "x_minimum_pressure",
+        "x_asset_PU1",
+        "x_status_PU1",
+        "x_asset_PU2",
+        "x_status_PU2",
+        "x_asset_PU3",
+        "x_status_PU3",
+        "x_asset_PU4",
+        "x_status_PU4",
+        "x_asset_PU5",
+        "x_status_PU5",
+        "x_asset_PU6",
+        "x_status_PU6",
+        "x_asset_PU7",
+        "x_status_PU7",
+        "x_asset_PU8",
+        "x_status_PU8",
+        "x_asset_PU9",
+        "x_status_PU9",
+        "x_asset_PU10",
+        "x_status_PU10",
+        "x_asset_PU11",
+        "x_status_PU11",
+        "x_asset_10",
+        "x_status_10",
+        "x_asset_335",
+        "x_status_335",
+        "x_asset_238",
+        "x_status_238",
+        "x_asset_240",
+        "x_status_240",
+        "x_asset_241",
+        "x_status_241",
+        "x_asset_243",
+        "x_status_243",
+        "x_asset_60",
+        "x_status_60",
+        "x_asset_20",
+        "x_status_20"
+      ],
+      "training_rows": 74,
+      "calibration_rows": 72,
+      "training_indeterminate_excluded": 3,
+      "calibration_indeterminate_excluded": 8,
+      "calibration_failures": 51,
+      "threshold": 0.5,
+      "calibration_failure_acceptance": 0.0196078431372549,
+      "calibration_acceptable_retention": 0.3333333333333333,
+      "residual_margin": 3.705156175180486,
+      "residual_calibration_tasks": 21,
+      "residual_order_rank": 20,
+      "residual_calibration_values": [
+        0.0,
+        0.0,
+        3.1618362066800894e-17,
+        0.0,
+        3.819433071412421,
+        5.3290705182007514e-14,
+        0.0,
+        0.0,
+        0.0,
+        3.705156175180486,
+        0.0075419847212288005,
+        0.0,
+        0.06935628255208348,
+        0.15728313776680114,
+        0.0,
+        0.0,
+        0.0,
+        3.8424436888193846e-17,
+        0.061726102739104505,
+        3.5394250641816664e-16,
+        0.42173253758934326
+      ]
+    },
+    "Net3": {
+      "features": [
+        "x_hour_sin",
+        "x_hour_cos",
+        "x_scale",
+        "x_hold_h",
+        "x_tank_min",
+        "x_tank_mean",
+        "x_tank_max",
+        "x_is_pump",
+        "x_source_adjacent",
+        "x_tank_adjacent",
+        "x_minimum_pressure",
+        "x_asset_PU1",
+        "x_status_PU1",
+        "x_asset_PU2",
+        "x_status_PU2",
+        "x_asset_PU3",
+        "x_status_PU3",
+        "x_asset_PU4",
+        "x_status_PU4",
+        "x_asset_PU5",
+        "x_status_PU5",
+        "x_asset_PU6",
+        "x_status_PU6",
+        "x_asset_PU7",
+        "x_status_PU7",
+        "x_asset_PU8",
+        "x_status_PU8",
+        "x_asset_PU9",
+        "x_status_PU9",
+        "x_asset_PU10",
+        "x_status_PU10",
+        "x_asset_PU11",
+        "x_status_PU11",
+        "x_asset_10",
+        "x_status_10",
+        "x_asset_335",
+        "x_status_335",
+        "x_asset_238",
+        "x_status_238",
+        "x_asset_240",
+        "x_status_240",
+        "x_asset_241",
+        "x_status_241",
+        "x_asset_243",
+        "x_status_243",
+        "x_asset_60",
+        "x_status_60",
+        "x_asset_20",
+        "x_status_20"
+      ],
+      "training_rows": 95,
+      "calibration_rows": 96,
+      "training_indeterminate_excluded": 1,
+      "calibration_indeterminate_excluded": 0,
+      "calibration_failures": 55,
+      "threshold": 0.26,
+      "calibration_failure_acceptance": 0.01818181818181818,
+      "calibration_acceptable_retention": 0.4146341463414634,
+      "residual_margin": 0.30429962256597864,
+      "residual_calibration_tasks": 24,
+      "residual_order_rank": 23,
+      "residual_calibration_values": [
+        0.0,
+        0.0,
+        0.7909715175628671,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.019137047014365915,
+        0.03619946749734981,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0027349581689850577,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.30429962256597864,
+        0.17286356290181448
+      ]
+    }
+  },
+  "agent_summary": [
+    {
+      "network": "C-Town",
+      "controller": "catalogue",
+      "gate": "Scope",
+      "n": 24,
+      "completed": 10,
+      "harmful": 2,
+      "indeterminate": 2,
+      "recovery_failure": 13,
+      "acceptable": 1,
+      "abstained": 0,
+      "attempts": 24,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.125
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "learned ranking",
+      "gate": "Scope",
+      "n": 24,
+      "completed": 18,
+      "harmful": 2,
+      "indeterminate": 2,
+      "recovery_failure": 12,
+      "acceptable": 7,
+      "abstained": 0,
+      "attempts": 24,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.08333333333333333,
+        0.5
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "catalogue",
+      "gate": "Storage rule",
+      "n": 24,
+      "completed": 1,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 1,
+      "acceptable": 0,
+      "abstained": 20,
+      "attempts": 78,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "learned ranking",
+      "gate": "Storage rule",
+      "n": 24,
+      "completed": 1,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 1,
+      "acceptable": 0,
+      "abstained": 20,
+      "attempts": 81,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "catalogue",
+      "gate": "Hold RF",
+      "n": 24,
+      "completed": 10,
+      "harmful": 2,
+      "indeterminate": 2,
+      "recovery_failure": 13,
+      "acceptable": 1,
+      "abstained": 0,
+      "attempts": 24,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.125
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "learned ranking",
+      "gate": "Hold RF",
+      "n": 24,
+      "completed": 18,
+      "harmful": 2,
+      "indeterminate": 2,
+      "recovery_failure": 12,
+      "acceptable": 7,
+      "abstained": 0,
+      "attempts": 24,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.08333333333333333,
+        0.5
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "catalogue",
+      "gate": "Whole RF",
+      "n": 24,
+      "completed": 5,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 6,
+      "acceptable": 0,
+      "abstained": 18,
+      "attempts": 71,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "learned ranking",
+      "gate": "Whole RF",
+      "n": 24,
+      "completed": 6,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 4,
+      "acceptable": 2,
+      "abstained": 18,
+      "attempts": 67,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.20833333333333334
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "catalogue",
+      "gate": "Calibrated whole RF",
+      "n": 24,
+      "completed": 5,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 6,
+      "acceptable": 0,
+      "abstained": 18,
+      "attempts": 71,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "learned ranking",
+      "gate": "Calibrated whole RF",
+      "n": 24,
+      "completed": 6,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 4,
+      "acceptable": 2,
+      "abstained": 18,
+      "attempts": 67,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.20833333333333334
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "catalogue",
+      "gate": "Nominal hold",
+      "n": 24,
+      "completed": 17,
+      "harmful": 1,
+      "indeterminate": 2,
+      "recovery_failure": 9,
+      "acceptable": 7,
+      "abstained": 6,
+      "attempts": 53,
+      "forecast_simulations": 53,
+      "acceptable_ci": [
+        0.16666666666666666,
+        0.4166666666666667
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "learned ranking",
+      "gate": "Nominal hold",
+      "n": 24,
+      "completed": 18,
+      "harmful": 1,
+      "indeterminate": 1,
+      "recovery_failure": 10,
+      "acceptable": 7,
+      "abstained": 6,
+      "attempts": 42,
+      "forecast_simulations": 42,
+      "acceptable_ci": [
+        0.16666666666666666,
+        0.4166666666666667
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "catalogue",
+      "gate": "Nominal task",
+      "n": 24,
+      "completed": 10,
+      "harmful": 0,
+      "indeterminate": 1,
+      "recovery_failure": 3,
+      "acceptable": 6,
+      "abstained": 14,
+      "attempts": 69,
+      "forecast_simulations": 69,
+      "acceptable_ci": [
+        0.08333333333333333,
+        0.4166666666666667
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "learned ranking",
+      "gate": "Nominal task",
+      "n": 24,
+      "completed": 10,
+      "harmful": 0,
+      "indeterminate": 1,
+      "recovery_failure": 3,
+      "acceptable": 6,
+      "abstained": 14,
+      "attempts": 67,
+      "forecast_simulations": 67,
+      "acceptable_ci": [
+        0.08333333333333333,
+        0.4166666666666667
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "catalogue",
+      "gate": "Robust hold",
+      "n": 24,
+      "completed": 15,
+      "harmful": 2,
+      "indeterminate": 1,
+      "recovery_failure": 10,
+      "acceptable": 4,
+      "abstained": 9,
+      "attempts": 62,
+      "forecast_simulations": 186,
+      "acceptable_ci": [
+        0.041666666666666664,
+        0.2916666666666667
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "learned ranking",
+      "gate": "Robust hold",
+      "n": 24,
+      "completed": 15,
+      "harmful": 1,
+      "indeterminate": 1,
+      "recovery_failure": 9,
+      "acceptable": 5,
+      "abstained": 9,
+      "attempts": 50,
+      "forecast_simulations": 150,
+      "acceptable_ci": [
+        0.08333333333333333,
+        0.3333333333333333
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "catalogue",
+      "gate": "Robust whole",
+      "n": 24,
+      "completed": 15,
+      "harmful": 2,
+      "indeterminate": 1,
+      "recovery_failure": 10,
+      "acceptable": 4,
+      "abstained": 9,
+      "attempts": 62,
+      "forecast_simulations": 186,
+      "acceptable_ci": [
+        0.041666666666666664,
+        0.2916666666666667
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "learned ranking",
+      "gate": "Robust whole",
+      "n": 24,
+      "completed": 15,
+      "harmful": 1,
+      "indeterminate": 1,
+      "recovery_failure": 9,
+      "acceptable": 5,
+      "abstained": 9,
+      "attempts": 50,
+      "forecast_simulations": 150,
+      "acceptable_ci": [
+        0.08333333333333333,
+        0.3333333333333333
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "catalogue",
+      "gate": "Robust task no validity",
+      "n": 24,
+      "completed": 4,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 2,
+      "acceptable": 2,
+      "abstained": 20,
+      "attempts": 82,
+      "forecast_simulations": 246,
+      "acceptable_ci": [
+        0.0,
+        0.20833333333333334
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "learned ranking",
+      "gate": "Robust task no validity",
+      "n": 24,
+      "completed": 4,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 2,
+      "acceptable": 2,
+      "abstained": 20,
+      "attempts": 79,
+      "forecast_simulations": 237,
+      "acceptable_ci": [
+        0.0,
+        0.20833333333333334
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "catalogue",
+      "gate": "Robust task",
+      "n": 24,
+      "completed": 4,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 2,
+      "acceptable": 2,
+      "abstained": 20,
+      "attempts": 82,
+      "forecast_simulations": 246,
+      "acceptable_ci": [
+        0.0,
+        0.20833333333333334
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "learned ranking",
+      "gate": "Robust task",
+      "n": 24,
+      "completed": 4,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 2,
+      "acceptable": 2,
+      "abstained": 20,
+      "attempts": 79,
+      "forecast_simulations": 237,
+      "acceptable_ci": [
+        0.0,
+        0.20833333333333334
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "catalogue",
+      "gate": "Learned robust task",
+      "n": 24,
+      "completed": 1,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 1,
+      "acceptable": 0,
+      "abstained": 23,
+      "attempts": 83,
+      "forecast_simulations": 24,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "learned ranking",
+      "gate": "Learned robust task",
+      "n": 24,
+      "completed": 1,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 1,
+      "acceptable": 0,
+      "abstained": 23,
+      "attempts": 85,
+      "forecast_simulations": 30,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "catalogue",
+      "gate": "Unbuffered joint",
+      "n": 24,
+      "completed": 4,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 2,
+      "acceptable": 2,
+      "abstained": 20,
+      "attempts": 82,
+      "forecast_simulations": 246,
+      "acceptable_ci": [
+        0.0,
+        0.20833333333333334
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "learned ranking",
+      "gate": "Unbuffered joint",
+      "n": 24,
+      "completed": 4,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 2,
+      "acceptable": 2,
+      "abstained": 20,
+      "attempts": 79,
+      "forecast_simulations": 237,
+      "acceptable_ci": [
+        0.0,
+        0.20833333333333334
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "catalogue",
+      "gate": "Residual task",
+      "n": 24,
+      "completed": 0,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 0,
+      "abstained": 24,
+      "attempts": 85,
+      "forecast_simulations": 255,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "learned ranking",
+      "gate": "Residual task",
+      "n": 24,
+      "completed": 0,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 0,
+      "abstained": 24,
+      "attempts": 85,
+      "forecast_simulations": 255,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "catalogue",
+      "gate": "Deny all",
+      "n": 24,
+      "completed": 0,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 0,
+      "abstained": 24,
+      "attempts": 85,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "network": "C-Town",
+      "controller": "learned ranking",
+      "gate": "Deny all",
+      "n": 24,
+      "completed": 0,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 0,
+      "abstained": 24,
+      "attempts": 85,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "catalogue",
+      "gate": "Scope",
+      "n": 24,
+      "completed": 22,
+      "harmful": 1,
+      "indeterminate": 1,
+      "recovery_failure": 12,
+      "acceptable": 8,
+      "abstained": 0,
+      "attempts": 24,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.16666666666666666,
+        0.5
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "learned ranking",
+      "gate": "Scope",
+      "n": 24,
+      "completed": 19,
+      "harmful": 1,
+      "indeterminate": 0,
+      "recovery_failure": 10,
+      "acceptable": 8,
+      "abstained": 0,
+      "attempts": 24,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.16666666666666666,
+        0.5
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "catalogue",
+      "gate": "Storage rule",
+      "n": 24,
+      "completed": 16,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 4,
+      "acceptable": 12,
+      "abstained": 8,
+      "attempts": 60,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.25,
+        0.75
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "learned ranking",
+      "gate": "Storage rule",
+      "n": 24,
+      "completed": 16,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 4,
+      "acceptable": 12,
+      "abstained": 8,
+      "attempts": 75,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.25,
+        0.75
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "catalogue",
+      "gate": "Hold RF",
+      "n": 24,
+      "completed": 22,
+      "harmful": 1,
+      "indeterminate": 1,
+      "recovery_failure": 12,
+      "acceptable": 8,
+      "abstained": 0,
+      "attempts": 24,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.16666666666666666,
+        0.5
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "learned ranking",
+      "gate": "Hold RF",
+      "n": 24,
+      "completed": 19,
+      "harmful": 1,
+      "indeterminate": 0,
+      "recovery_failure": 10,
+      "acceptable": 8,
+      "abstained": 0,
+      "attempts": 24,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.16666666666666666,
+        0.5
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "catalogue",
+      "gate": "Whole RF",
+      "n": 24,
+      "completed": 0,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 0,
+      "abstained": 24,
+      "attempts": 96,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "learned ranking",
+      "gate": "Whole RF",
+      "n": 24,
+      "completed": 0,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 0,
+      "abstained": 24,
+      "attempts": 96,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "catalogue",
+      "gate": "Calibrated whole RF",
+      "n": 24,
+      "completed": 0,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 0,
+      "abstained": 24,
+      "attempts": 96,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "learned ranking",
+      "gate": "Calibrated whole RF",
+      "n": 24,
+      "completed": 0,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 0,
+      "abstained": 24,
+      "attempts": 96,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "catalogue",
+      "gate": "Nominal hold",
+      "n": 24,
+      "completed": 24,
+      "harmful": 1,
+      "indeterminate": 1,
+      "recovery_failure": 14,
+      "acceptable": 8,
+      "abstained": 0,
+      "attempts": 26,
+      "forecast_simulations": 26,
+      "acceptable_ci": [
+        0.16666666666666666,
+        0.5
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "learned ranking",
+      "gate": "Nominal hold",
+      "n": 24,
+      "completed": 24,
+      "harmful": 1,
+      "indeterminate": 1,
+      "recovery_failure": 14,
+      "acceptable": 8,
+      "abstained": 0,
+      "attempts": 30,
+      "forecast_simulations": 30,
+      "acceptable_ci": [
+        0.16666666666666666,
+        0.5
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "catalogue",
+      "gate": "Nominal task",
+      "n": 24,
+      "completed": 15,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 1,
+      "acceptable": 14,
+      "abstained": 9,
+      "attempts": 61,
+      "forecast_simulations": 61,
+      "acceptable_ci": [
+        0.3333333333333333,
+        0.7916666666666666
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "learned ranking",
+      "gate": "Nominal task",
+      "n": 24,
+      "completed": 15,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 1,
+      "acceptable": 14,
+      "abstained": 9,
+      "attempts": 75,
+      "forecast_simulations": 75,
+      "acceptable_ci": [
+        0.3333333333333333,
+        0.7916666666666666
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "catalogue",
+      "gate": "Robust hold",
+      "n": 24,
+      "completed": 24,
+      "harmful": 1,
+      "indeterminate": 1,
+      "recovery_failure": 15,
+      "acceptable": 7,
+      "abstained": 0,
+      "attempts": 27,
+      "forecast_simulations": 81,
+      "acceptable_ci": [
+        0.125,
+        0.4166666666666667
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "learned ranking",
+      "gate": "Robust hold",
+      "n": 24,
+      "completed": 24,
+      "harmful": 1,
+      "indeterminate": 1,
+      "recovery_failure": 16,
+      "acceptable": 6,
+      "abstained": 0,
+      "attempts": 33,
+      "forecast_simulations": 99,
+      "acceptable_ci": [
+        0.08333333333333333,
+        0.4166666666666667
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "catalogue",
+      "gate": "Robust whole",
+      "n": 24,
+      "completed": 24,
+      "harmful": 1,
+      "indeterminate": 0,
+      "recovery_failure": 14,
+      "acceptable": 9,
+      "abstained": 0,
+      "attempts": 29,
+      "forecast_simulations": 87,
+      "acceptable_ci": [
+        0.20833333333333334,
+        0.5416666666666666
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "learned ranking",
+      "gate": "Robust whole",
+      "n": 24,
+      "completed": 24,
+      "harmful": 1,
+      "indeterminate": 0,
+      "recovery_failure": 16,
+      "acceptable": 7,
+      "abstained": 0,
+      "attempts": 34,
+      "forecast_simulations": 102,
+      "acceptable_ci": [
+        0.125,
+        0.4583333333333333
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "catalogue",
+      "gate": "Robust task no validity",
+      "n": 24,
+      "completed": 13,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 13,
+      "abstained": 11,
+      "attempts": 71,
+      "forecast_simulations": 213,
+      "acceptable_ci": [
+        0.2916666666666667,
+        0.75
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "learned ranking",
+      "gate": "Robust task no validity",
+      "n": 24,
+      "completed": 13,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 13,
+      "abstained": 11,
+      "attempts": 89,
+      "forecast_simulations": 267,
+      "acceptable_ci": [
+        0.2916666666666667,
+        0.75
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "catalogue",
+      "gate": "Robust task",
+      "n": 24,
+      "completed": 13,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 13,
+      "abstained": 11,
+      "attempts": 71,
+      "forecast_simulations": 213,
+      "acceptable_ci": [
+        0.2916666666666667,
+        0.75
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "learned ranking",
+      "gate": "Robust task",
+      "n": 24,
+      "completed": 13,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 13,
+      "abstained": 11,
+      "attempts": 89,
+      "forecast_simulations": 267,
+      "acceptable_ci": [
+        0.2916666666666667,
+        0.75
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "catalogue",
+      "gate": "Learned robust task",
+      "n": 24,
+      "completed": 0,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 0,
+      "abstained": 24,
+      "attempts": 96,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "learned ranking",
+      "gate": "Learned robust task",
+      "n": 24,
+      "completed": 0,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 0,
+      "abstained": 24,
+      "attempts": 96,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "catalogue",
+      "gate": "Unbuffered joint",
+      "n": 24,
+      "completed": 13,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 13,
+      "abstained": 11,
+      "attempts": 71,
+      "forecast_simulations": 213,
+      "acceptable_ci": [
+        0.2916666666666667,
+        0.75
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "learned ranking",
+      "gate": "Unbuffered joint",
+      "n": 24,
+      "completed": 13,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 13,
+      "abstained": 11,
+      "attempts": 89,
+      "forecast_simulations": 267,
+      "acceptable_ci": [
+        0.2916666666666667,
+        0.75
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "catalogue",
+      "gate": "Residual task",
+      "n": 24,
+      "completed": 12,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 12,
+      "abstained": 12,
+      "attempts": 78,
+      "forecast_simulations": 234,
+      "acceptable_ci": [
+        0.25,
+        0.75
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "learned ranking",
+      "gate": "Residual task",
+      "n": 24,
+      "completed": 12,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 12,
+      "abstained": 12,
+      "attempts": 95,
+      "forecast_simulations": 285,
+      "acceptable_ci": [
+        0.25,
+        0.75
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "catalogue",
+      "gate": "Deny all",
+      "n": 24,
+      "completed": 0,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 0,
+      "abstained": 24,
+      "attempts": 96,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "network": "Net3",
+      "controller": "learned ranking",
+      "gate": "Deny all",
+      "n": 24,
+      "completed": 0,
+      "harmful": 0,
+      "indeterminate": 0,
+      "recovery_failure": 0,
+      "acceptable": 0,
+      "abstained": 24,
+      "attempts": 96,
+      "forecast_simulations": 0,
+      "acceptable_ci": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "numerical_summary": {
+    "C-Town": {
+      "candidates": 242,
+      "wntr_assessable": 223,
+      "simulation_errors": 0,
+      "cross_solver_pairs": 242,
+      "cross_solver_harm_disagreements": 0,
+      "cross_solver_acceptable_disagreements": 6,
+      "max_unmet_delta_disagreement": 3.3157646822583634e-05,
+      "max_tank_hour_delta_disagreement": 0.2499999999999991,
+      "max_wntr_pdd_residual": 2.576627789641246e-07,
+      "max_wntr_continuity_residual": 5.551115123125783e-17
+    },
+    "Net3": {
+      "candidates": 288,
+      "wntr_assessable": 284,
+      "simulation_errors": 0,
+      "cross_solver_pairs": 288,
+      "cross_solver_harm_disagreements": 0,
+      "cross_solver_acceptable_disagreements": 0,
+      "max_unmet_delta_disagreement": 0.0011965785146782829,
+      "max_tank_hour_delta_disagreement": 1.083333333333333,
+      "max_wntr_pdd_residual": 7.841160946028825e-06,
+      "max_wntr_continuity_residual": 2.8449465006019636e-16
+    }
+  },
+  "reason": "Combined dataframe contained all-missing feature columns belonging only to the other network. Remove those columns in each network fit; preserve this initial analysis.",
+  "analysis_code_sha256": "f649ce479cbb4e92f92108dcc928c982f09e71091520d950459525f38702603c"
+}

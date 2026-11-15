@@ -1,0 +1,434 @@
+[
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_00",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 0.0,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_01",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 0.6021055646612661,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_02",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 5.773159728050814e-14,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_03",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 0.0,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_04",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 0.0,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_05",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 5.6621374255882984e-14,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_06",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 3.944227766002961,
+    "contained": false
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_07",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 0.0,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_08",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 0.5833333333333339,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_09",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 0.0,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_10",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 0.5227379711888558,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_11",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 0.0,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_12",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 0.17621907143008597,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_13",
+    "outside_grid": true,
+    "assessable": false,
+    "margin": 3.705156175180486,
+    "observed_residual": null,
+    "contained": null
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_14",
+    "outside_grid": true,
+    "assessable": false,
+    "margin": 3.705156175180486,
+    "observed_residual": null,
+    "contained": null
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_15",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 0.0,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_16",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 1.0720594637396252,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_17",
+    "outside_grid": true,
+    "assessable": false,
+    "margin": 3.705156175180486,
+    "observed_residual": null,
+    "contained": null
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_18",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 0.19817771329244893,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_19",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 0.04608970967771908,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_20",
+    "outside_grid": true,
+    "assessable": false,
+    "margin": 3.705156175180486,
+    "observed_residual": null,
+    "contained": null
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_21",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 0.0,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_22",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 0.25,
+    "contained": true
+  },
+  {
+    "network": "C-Town",
+    "task_id": "C-Town_test_23",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 3.705156175180486,
+    "observed_residual": 1.5863369959721063,
+    "contained": true
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_00",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.011219203895573848,
+    "contained": true
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_01",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.0,
+    "contained": true
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_02",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.05410605627129339,
+    "contained": true
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_03",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.0,
+    "contained": true
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_04",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.033845728985089085,
+    "contained": true
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_05",
+    "outside_grid": false,
+    "assessable": false,
+    "margin": 0.30429962256597864,
+    "observed_residual": null,
+    "contained": null
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_06",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.0,
+    "contained": true
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_07",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.0,
+    "contained": true
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_08",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.0,
+    "contained": true
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_09",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.0,
+    "contained": true
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_10",
+    "outside_grid": false,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.6804475747805605,
+    "contained": false
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_11",
+    "outside_grid": false,
+    "assessable": false,
+    "margin": 0.30429962256597864,
+    "observed_residual": null,
+    "contained": null
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_12",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.4702314319315093,
+    "contained": false
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_13",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.0,
+    "contained": true
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_14",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.26834925227561035,
+    "contained": true
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_15",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.5629403216084778,
+    "contained": false
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_16",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.0,
+    "contained": true
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_17",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 6.4411286513010655,
+    "contained": false
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_18",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.542005336245257,
+    "contained": false
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_19",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.47834299689384796,
+    "contained": false
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_20",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.02072713790442604,
+    "contained": true
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_21",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.43579582598770994,
+    "contained": false
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_22",
+    "outside_grid": true,
+    "assessable": true,
+    "margin": 0.30429962256597864,
+    "observed_residual": 0.5023013693988454,
+    "contained": false
+  },
+  {
+    "network": "Net3",
+    "task_id": "Net3_test_23",
+    "outside_grid": true,
+    "assessable": false,
+    "margin": 0.30429962256597864,
+    "observed_residual": null,
+    "contained": null
+  }
+]

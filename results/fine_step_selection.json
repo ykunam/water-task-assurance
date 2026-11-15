@@ -1,0 +1,338 @@
+[
+  {
+    "state": {
+      "task_id": "C-Town_test_00",
+      "network": "C-Town",
+      "split": "test",
+      "order": 0,
+      "hour": 192,
+      "scale": 0.9,
+      "hold_h": 6,
+      "hidden_factor": 0.9,
+      "outside_grid": false
+    },
+    "asset": "PU1"
+  },
+  {
+    "state": {
+      "task_id": "C-Town_test_02",
+      "network": "C-Town",
+      "split": "test",
+      "order": 2,
+      "hour": 196,
+      "scale": 1.1,
+      "hold_h": 6,
+      "hidden_factor": 0.9,
+      "outside_grid": false
+    },
+    "asset": "PU1"
+  },
+  {
+    "state": {
+      "task_id": "C-Town_test_04",
+      "network": "C-Town",
+      "split": "test",
+      "order": 4,
+      "hour": 200,
+      "scale": 1.0,
+      "hold_h": 6,
+      "hidden_factor": 0.9,
+      "outside_grid": false
+    },
+    "asset": "PU10"
+  },
+  {
+    "state": {
+      "task_id": "C-Town_test_06",
+      "network": "C-Town",
+      "split": "test",
+      "order": 6,
+      "hour": 205,
+      "scale": 0.9,
+      "hold_h": 6,
+      "hidden_factor": 0.9,
+      "outside_grid": false
+    },
+    "asset": "PU8"
+  },
+  {
+    "state": {
+      "task_id": "C-Town_test_08",
+      "network": "C-Town",
+      "split": "test",
+      "order": 8,
+      "hour": 209,
+      "scale": 1.1,
+      "hold_h": 6,
+      "hidden_factor": 0.9,
+      "outside_grid": false
+    },
+    "asset": "PU1"
+  },
+  {
+    "state": {
+      "task_id": "C-Town_test_10",
+      "network": "C-Town",
+      "split": "test",
+      "order": 10,
+      "hour": 213,
+      "scale": 1.0,
+      "hold_h": 6,
+      "hidden_factor": 0.9,
+      "outside_grid": false
+    },
+    "asset": "PU7"
+  },
+  {
+    "state": {
+      "task_id": "C-Town_test_12",
+      "network": "C-Town",
+      "split": "test",
+      "order": 12,
+      "hour": 217,
+      "scale": 0.9,
+      "hold_h": 6,
+      "hidden_factor": 0.75,
+      "outside_grid": true
+    },
+    "asset": "PU4"
+  },
+  {
+    "state": {
+      "task_id": "C-Town_test_14",
+      "network": "C-Town",
+      "split": "test",
+      "order": 14,
+      "hour": 221,
+      "scale": 1.1,
+      "hold_h": 6,
+      "hidden_factor": 0.75,
+      "outside_grid": true
+    },
+    "asset": "PU1"
+  },
+  {
+    "state": {
+      "task_id": "C-Town_test_16",
+      "network": "C-Town",
+      "split": "test",
+      "order": 16,
+      "hour": 225,
+      "scale": 1.0,
+      "hold_h": 6,
+      "hidden_factor": 0.75,
+      "outside_grid": true
+    },
+    "asset": "PU2"
+  },
+  {
+    "state": {
+      "task_id": "C-Town_test_18",
+      "network": "C-Town",
+      "split": "test",
+      "order": 18,
+      "hour": 230,
+      "scale": 0.9,
+      "hold_h": 6,
+      "hidden_factor": 0.75,
+      "outside_grid": true
+    },
+    "asset": "PU7"
+  },
+  {
+    "state": {
+      "task_id": "C-Town_test_20",
+      "network": "C-Town",
+      "split": "test",
+      "order": 20,
+      "hour": 234,
+      "scale": 1.1,
+      "hold_h": 6,
+      "hidden_factor": 0.75,
+      "outside_grid": true
+    },
+    "asset": "PU1"
+  },
+  {
+    "state": {
+      "task_id": "C-Town_test_22",
+      "network": "C-Town",
+      "split": "test",
+      "order": 22,
+      "hour": 238,
+      "scale": 1.0,
+      "hold_h": 6,
+      "hidden_factor": 0.75,
+      "outside_grid": true
+    },
+    "asset": "PU8"
+  },
+  {
+    "state": {
+      "task_id": "Net3_test_00",
+      "network": "Net3",
+      "split": "test",
+      "order": 0,
+      "hour": 192,
+      "scale": 0.9,
+      "hold_h": 3,
+      "hidden_factor": 0.9,
+      "outside_grid": false
+    },
+    "asset": "335"
+  },
+  {
+    "state": {
+      "task_id": "Net3_test_02",
+      "network": "Net3",
+      "split": "test",
+      "order": 2,
+      "hour": 196,
+      "scale": 1.1,
+      "hold_h": 3,
+      "hidden_factor": 0.9,
+      "outside_grid": false
+    },
+    "asset": "240"
+  },
+  {
+    "state": {
+      "task_id": "Net3_test_04",
+      "network": "Net3",
+      "split": "test",
+      "order": 4,
+      "hour": 200,
+      "scale": 1.0,
+      "hold_h": 3,
+      "hidden_factor": 0.9,
+      "outside_grid": false
+    },
+    "asset": "60"
+  },
+  {
+    "state": {
+      "task_id": "Net3_test_06",
+      "network": "Net3",
+      "split": "test",
+      "order": 6,
+      "hour": 205,
+      "scale": 0.9,
+      "hold_h": 3,
+      "hidden_factor": 0.9,
+      "outside_grid": false
+    },
+    "asset": "20"
+  },
+  {
+    "state": {
+      "task_id": "Net3_test_08",
+      "network": "Net3",
+      "split": "test",
+      "order": 8,
+      "hour": 209,
+      "scale": 1.1,
+      "hold_h": 3,
+      "hidden_factor": 0.9,
+      "outside_grid": false
+    },
+    "asset": "240"
+  },
+  {
+    "state": {
+      "task_id": "Net3_test_10",
+      "network": "Net3",
+      "split": "test",
+      "order": 10,
+      "hour": 213,
+      "scale": 1.0,
+      "hold_h": 3,
+      "hidden_factor": 0.9,
+      "outside_grid": false
+    },
+    "asset": "60"
+  },
+  {
+    "state": {
+      "task_id": "Net3_test_12",
+      "network": "Net3",
+      "split": "test",
+      "order": 12,
+      "hour": 217,
+      "scale": 0.9,
+      "hold_h": 3,
+      "hidden_factor": 0.75,
+      "outside_grid": true
+    },
+    "asset": "60"
+  },
+  {
+    "state": {
+      "task_id": "Net3_test_14",
+      "network": "Net3",
+      "split": "test",
+      "order": 14,
+      "hour": 221,
+      "scale": 1.1,
+      "hold_h": 3,
+      "hidden_factor": 0.75,
+      "outside_grid": true
+    },
+    "asset": "335"
+  },
+  {
+    "state": {
+      "task_id": "Net3_test_16",
+      "network": "Net3",
+      "split": "test",
+      "order": 16,
+      "hour": 225,
+      "scale": 1.0,
+      "hold_h": 3,
+      "hidden_factor": 0.75,
+      "outside_grid": true
+    },
+    "asset": "60"
+  },
+  {
+    "state": {
+      "task_id": "Net3_test_18",
+      "network": "Net3",
+      "split": "test",
+      "order": 18,
+      "hour": 230,
+      "scale": 0.9,
+      "hold_h": 3,
+      "hidden_factor": 0.75,
+      "outside_grid": true
+    },
+    "asset": "243"
+  },
+  {
+    "state": {
+      "task_id": "Net3_test_20",
+      "network": "Net3",
+      "split": "test",
+      "order": 20,
+      "hour": 234,
+      "scale": 1.1,
+      "hold_h": 3,
+      "hidden_factor": 0.75,
+      "outside_grid": true
+    },
+    "asset": "240"
+  },
+  {
+    "state": {
+      "task_id": "Net3_test_22",
+      "network": "Net3",
+      "split": "test",
+      "order": 22,
+      "hour": 238,
+      "scale": 1.0,
+      "hold_h": 3,
+      "hidden_factor": 0.75,
+      "outside_grid": true
+    },
+    "asset": "238"
+  }
+]

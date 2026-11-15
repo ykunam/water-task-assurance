@@ -1,0 +1,57 @@
+[
+  {
+    "link": "20",
+    "start": "3",
+    "end": "20",
+    "snapshot_status": 0,
+    "native_initial_status": 1,
+    "reconstructed_status": 0.0,
+    "native_status": 1.0,
+    "reconstructed_flow": 0.0,
+    "native_flow": 0.1858070343732834
+  },
+  {
+    "link": "329",
+    "start": "61",
+    "end": "123",
+    "snapshot_status": 1,
+    "native_initial_status": 1,
+    "reconstructed_status": 1.0,
+    "native_status": 1.0,
+    "reconstructed_flow": 0.8144498467445374,
+    "native_flow": 0.5089446306228638
+  },
+  {
+    "link": "330",
+    "start": "60",
+    "end": "601",
+    "snapshot_status": 0,
+    "native_initial_status": 0,
+    "reconstructed_status": 0.0,
+    "native_status": 1.0,
+    "reconstructed_flow": 0.0,
+    "native_flow": 0.5089446306228638
+  },
+  {
+    "link": "333",
+    "start": "601",
+    "end": "61",
+    "snapshot_status": 1,
+    "native_initial_status": 1,
+    "reconstructed_status": 1.0,
+    "native_status": 1.0,
+    "reconstructed_flow": -3.2192513543805035e-08,
+    "native_flow": 0.5089446306228638
+  },
+  {
+    "link": "335",
+    "start": "60",
+    "end": "61",
+    "snapshot_status": 1,
+    "native_initial_status": 1,
+    "reconstructed_status": 1.0,
+    "native_status": 0.0,
+    "reconstructed_flow": 0.8144499063491821,
+    "native_flow": 0.0
+  }
+]

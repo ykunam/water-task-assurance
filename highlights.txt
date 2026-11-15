@@ -1,0 +1,4 @@
+- Whole-task screening separates isolation success from acceptable recovery.
+- Two native water models support 530 candidate interventions and paired solvers.
+- Taskwise margins can withhold all work despite favorable containment counts.
+- Net3 test residual containment falls below the nominal 90% calibration level.

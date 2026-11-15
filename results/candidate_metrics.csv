@@ -1,0 +1,121 @@
+network,stratum,gate,n,indeterminate,harmful,harmful_accepted,acceptable,acceptable_retained,indeterminate_accepted,allowed
+C-Town,all,Scope,85,8,6,6,12,12,8,85
+C-Town,reserved,Scope,16,0,4,4,2,2,0,16
+C-Town,inside grid,Scope,40,0,1,1,6,6,0,40
+C-Town,outside grid,Scope,45,8,5,5,6,6,8,45
+C-Town,all,Storage rule,85,8,6,0,12,0,0,8
+C-Town,reserved,Storage rule,16,0,4,0,2,0,0,0
+C-Town,inside grid,Storage rule,40,0,1,0,6,0,0,4
+C-Town,outside grid,Storage rule,45,8,5,0,6,0,0,4
+C-Town,all,Hold RF,85,8,6,6,12,12,8,85
+C-Town,reserved,Hold RF,16,0,4,4,2,2,0,16
+C-Town,inside grid,Hold RF,40,0,1,1,6,6,0,40
+C-Town,outside grid,Hold RF,45,8,5,5,6,6,8,45
+C-Town,all,Whole RF,85,8,6,0,12,2,0,8
+C-Town,reserved,Whole RF,16,0,4,0,2,0,0,1
+C-Town,inside grid,Whole RF,40,0,1,0,6,1,0,3
+C-Town,outside grid,Whole RF,45,8,5,0,6,1,0,5
+C-Town,all,Calibrated whole RF,85,8,6,0,12,2,0,8
+C-Town,reserved,Calibrated whole RF,16,0,4,0,2,0,0,1
+C-Town,inside grid,Calibrated whole RF,40,0,1,0,6,1,0,3
+C-Town,outside grid,Calibrated whole RF,45,8,5,0,6,1,0,5
+C-Town,all,Nominal hold,85,8,6,2,12,10,3,32
+C-Town,reserved,Nominal hold,16,0,4,0,2,1,0,3
+C-Town,inside grid,Nominal hold,40,0,1,0,6,6,0,14
+C-Town,outside grid,Nominal hold,45,8,5,2,6,4,3,18
+C-Town,all,Nominal task,85,8,6,0,12,6,1,12
+C-Town,reserved,Nominal task,16,0,4,0,2,1,0,1
+C-Town,inside grid,Nominal task,40,0,1,0,6,3,0,6
+C-Town,outside grid,Nominal task,45,8,5,0,6,3,1,6
+C-Town,all,Robust hold,85,8,6,2,12,7,2,23
+C-Town,reserved,Robust hold,16,0,4,0,2,0,0,0
+C-Town,inside grid,Robust hold,40,0,1,0,6,5,0,10
+C-Town,outside grid,Robust hold,45,8,5,2,6,2,2,13
+C-Town,all,Robust whole,85,8,6,2,12,7,2,22
+C-Town,reserved,Robust whole,16,0,4,0,2,0,0,0
+C-Town,inside grid,Robust whole,40,0,1,0,6,5,0,10
+C-Town,outside grid,Robust whole,45,8,5,2,6,2,2,12
+C-Town,all,Robust task no validity,85,8,6,0,12,2,0,4
+C-Town,reserved,Robust task no validity,16,0,4,0,2,0,0,0
+C-Town,inside grid,Robust task no validity,40,0,1,0,6,0,0,1
+C-Town,outside grid,Robust task no validity,45,8,5,0,6,2,0,3
+C-Town,all,Robust task,85,8,6,0,12,2,0,4
+C-Town,reserved,Robust task,16,0,4,0,2,0,0,0
+C-Town,inside grid,Robust task,40,0,1,0,6,0,0,1
+C-Town,outside grid,Robust task,45,8,5,0,6,2,0,3
+C-Town,all,Learned robust task,85,8,6,0,12,0,0,1
+C-Town,reserved,Learned robust task,16,0,4,0,2,0,0,0
+C-Town,inside grid,Learned robust task,40,0,1,0,6,0,0,0
+C-Town,outside grid,Learned robust task,45,8,5,0,6,0,0,1
+C-Town,all,Unbuffered joint,85,8,6,0,12,2,0,4
+C-Town,reserved,Unbuffered joint,16,0,4,0,2,0,0,0
+C-Town,inside grid,Unbuffered joint,40,0,1,0,6,0,0,1
+C-Town,outside grid,Unbuffered joint,45,8,5,0,6,2,0,3
+C-Town,all,Residual task,85,8,6,0,12,0,0,0
+C-Town,reserved,Residual task,16,0,4,0,2,0,0,0
+C-Town,inside grid,Residual task,40,0,1,0,6,0,0,0
+C-Town,outside grid,Residual task,45,8,5,0,6,0,0,0
+C-Town,all,Deny all,85,8,6,0,12,0,0,0
+C-Town,reserved,Deny all,16,0,4,0,2,0,0,0
+C-Town,inside grid,Deny all,40,0,1,0,6,0,0,0
+C-Town,outside grid,Deny all,45,8,5,0,6,0,0,0
+Net3,all,Scope,96,3,5,5,31,31,3,96
+Net3,reserved,Scope,31,3,2,2,14,14,3,31
+Net3,inside grid,Scope,48,2,0,0,12,12,2,48
+Net3,outside grid,Scope,48,1,5,5,19,19,1,48
+Net3,all,Storage rule,96,3,5,0,31,21,0,29
+Net3,reserved,Storage rule,31,3,2,0,14,14,0,17
+Net3,inside grid,Storage rule,48,2,0,0,12,9,0,13
+Net3,outside grid,Storage rule,48,1,5,0,19,12,0,16
+Net3,all,Hold RF,96,3,5,5,31,31,3,96
+Net3,reserved,Hold RF,31,3,2,2,14,14,3,31
+Net3,inside grid,Hold RF,48,2,0,0,12,12,2,48
+Net3,outside grid,Hold RF,48,1,5,5,19,19,1,48
+Net3,all,Whole RF,96,3,5,0,31,0,0,0
+Net3,reserved,Whole RF,31,3,2,0,14,0,0,0
+Net3,inside grid,Whole RF,48,2,0,0,12,0,0,0
+Net3,outside grid,Whole RF,48,1,5,0,19,0,0,0
+Net3,all,Calibrated whole RF,96,3,5,0,31,0,0,0
+Net3,reserved,Calibrated whole RF,31,3,2,0,14,0,0,0
+Net3,inside grid,Calibrated whole RF,48,2,0,0,12,0,0,0
+Net3,outside grid,Calibrated whole RF,48,1,5,0,19,0,0,0
+Net3,all,Nominal hold,96,3,5,5,31,30,3,90
+Net3,reserved,Nominal hold,31,3,2,2,14,14,3,31
+Net3,inside grid,Nominal hold,48,2,0,0,12,12,2,45
+Net3,outside grid,Nominal hold,48,1,5,5,19,18,1,45
+Net3,all,Nominal task,96,3,5,0,31,24,0,29
+Net3,reserved,Nominal task,31,3,2,0,14,13,0,13
+Net3,inside grid,Nominal task,48,2,0,0,12,10,0,13
+Net3,outside grid,Nominal task,48,1,5,0,19,14,0,16
+Net3,all,Robust hold,96,3,5,5,31,28,3,87
+Net3,reserved,Robust hold,31,3,2,2,14,14,3,31
+Net3,inside grid,Robust hold,48,2,0,0,12,10,2,43
+Net3,outside grid,Robust hold,48,1,5,5,19,18,1,44
+Net3,all,Robust whole,96,3,5,4,31,28,0,81
+Net3,reserved,Robust whole,31,3,2,1,14,14,0,25
+Net3,inside grid,Robust whole,48,2,0,0,12,10,0,40
+Net3,outside grid,Robust whole,48,1,5,4,19,18,0,41
+Net3,all,Robust task no validity,96,3,5,0,31,17,0,17
+Net3,reserved,Robust task no validity,31,3,2,0,14,13,0,13
+Net3,inside grid,Robust task no validity,48,2,0,0,12,8,0,8
+Net3,outside grid,Robust task no validity,48,1,5,0,19,9,0,9
+Net3,all,Robust task,96,3,5,0,31,17,0,17
+Net3,reserved,Robust task,31,3,2,0,14,13,0,13
+Net3,inside grid,Robust task,48,2,0,0,12,8,0,8
+Net3,outside grid,Robust task,48,1,5,0,19,9,0,9
+Net3,all,Learned robust task,96,3,5,0,31,0,0,0
+Net3,reserved,Learned robust task,31,3,2,0,14,0,0,0
+Net3,inside grid,Learned robust task,48,2,0,0,12,0,0,0
+Net3,outside grid,Learned robust task,48,1,5,0,19,0,0,0
+Net3,all,Unbuffered joint,96,3,5,0,31,17,0,17
+Net3,reserved,Unbuffered joint,31,3,2,0,14,13,0,13
+Net3,inside grid,Unbuffered joint,48,2,0,0,12,8,0,8
+Net3,outside grid,Unbuffered joint,48,1,5,0,19,9,0,9
+Net3,all,Residual task,96,3,5,0,31,12,0,12
+Net3,reserved,Residual task,31,3,2,0,14,12,0,12
+Net3,inside grid,Residual task,48,2,0,0,12,6,0,6
+Net3,outside grid,Residual task,48,1,5,0,19,6,0,6
+Net3,all,Deny all,96,3,5,0,31,0,0,0
+Net3,reserved,Deny all,31,3,2,0,14,0,0,0
+Net3,inside grid,Deny all,48,2,0,0,12,0,0,0
+Net3,outside grid,Deny all,48,1,5,0,19,0,0,0

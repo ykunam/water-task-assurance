@@ -1,0 +1,222 @@
+[
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "comparator": "Hold RF",
+    "delta_acceptable": 0.041666666666666664,
+    "count_delta": 1,
+    "block_interval": [
+      -0.08333333333333333,
+      0.16666666666666666
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "comparator": "Whole RF",
+    "delta_acceptable": 0.08333333333333333,
+    "count_delta": 2,
+    "block_interval": [
+      0.0,
+      0.20833333333333334
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "comparator": "Nominal task",
+    "delta_acceptable": -0.16666666666666666,
+    "count_delta": -4,
+    "block_interval": [
+      -0.3333333333333333,
+      -0.041666666666666664
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "comparator": "Robust hold",
+    "delta_acceptable": -0.08333333333333333,
+    "count_delta": -2,
+    "block_interval": [
+      -0.20833333333333334,
+      0.08333333333333333
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "comparator": "Robust whole",
+    "delta_acceptable": -0.08333333333333333,
+    "count_delta": -2,
+    "block_interval": [
+      -0.20833333333333334,
+      0.08333333333333333
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "comparator": "Hold RF",
+    "delta_acceptable": -0.16666666666666666,
+    "count_delta": -4,
+    "block_interval": [
+      -0.375,
+      0.041666666666666664
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "comparator": "Whole RF",
+    "delta_acceptable": 0.0,
+    "count_delta": 0,
+    "block_interval": [
+      -0.16666666666666666,
+      0.16666666666666666
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "comparator": "Nominal task",
+    "delta_acceptable": -0.16666666666666666,
+    "count_delta": -4,
+    "block_interval": [
+      -0.3333333333333333,
+      -0.041666666666666664
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "comparator": "Robust hold",
+    "delta_acceptable": -0.125,
+    "count_delta": -3,
+    "block_interval": [
+      -0.25,
+      -0.041666666666666664
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "comparator": "Robust whole",
+    "delta_acceptable": -0.125,
+    "count_delta": -3,
+    "block_interval": [
+      -0.25,
+      -0.041666666666666664
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "comparator": "Hold RF",
+    "delta_acceptable": 0.20833333333333334,
+    "count_delta": 5,
+    "block_interval": [
+      -0.041666666666666664,
+      0.4583333333333333
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "comparator": "Whole RF",
+    "delta_acceptable": 0.5416666666666666,
+    "count_delta": 13,
+    "block_interval": [
+      0.2916666666666667,
+      0.75
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "comparator": "Nominal task",
+    "delta_acceptable": -0.041666666666666664,
+    "count_delta": -1,
+    "block_interval": [
+      -0.16666666666666666,
+      0.041666666666666664
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "comparator": "Robust hold",
+    "delta_acceptable": 0.25,
+    "count_delta": 6,
+    "block_interval": [
+      0.041666666666666664,
+      0.4583333333333333
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "comparator": "Robust whole",
+    "delta_acceptable": 0.16666666666666666,
+    "count_delta": 4,
+    "block_interval": [
+      0.0,
+      0.3333333333333333
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "comparator": "Hold RF",
+    "delta_acceptable": 0.4166666666666667,
+    "count_delta": 10,
+    "block_interval": [
+      0.16666666666666666,
+      0.6666666666666666
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "comparator": "Whole RF",
+    "delta_acceptable": 0.5416666666666666,
+    "count_delta": 13,
+    "block_interval": [
+      0.2916666666666667,
+      0.75
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "comparator": "Nominal task",
+    "delta_acceptable": -0.041666666666666664,
+    "count_delta": -1,
+    "block_interval": [
+      -0.16666666666666666,
+      0.041666666666666664
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "comparator": "Robust hold",
+    "delta_acceptable": 0.5,
+    "count_delta": 12,
+    "block_interval": [
+      0.25,
+      0.75
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "comparator": "Robust whole",
+    "delta_acceptable": 0.4166666666666667,
+    "count_delta": 10,
+    "block_interval": [
+      0.25,
+      0.625
+    ]
+  }
+]

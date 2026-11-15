@@ -1,0 +1,231 @@
+{
+  "passed": 45,
+  "total": 45,
+  "checks": [
+    {
+      "check": "Frozen generation implementation unchanged",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Original prospective protocol unchanged",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "All 144 frozen tasks retained",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "No state-level failures",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "All matched reference metrics retained",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "530 candidate actions and 2650 solver evaluations retained",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Continuous effects independently recomputed from matched references",
+      "passed": true,
+      "evidence": "[]"
+    },
+    {
+      "check": "All horizon labels recovery and acceptable outcomes recomputed",
+      "passed": true,
+      "evidence": "[]"
+    },
+    {
+      "check": "Paired numerical assessability labels consistent",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "530 paired binary harm outcomes agree",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Six acceptable outcome disagreements retained",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "C-Town network-specific features finite",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "C-Town reserved assets excluded from development",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Net3 network-specific features finite",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Net3 reserved assets excluded from development",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Post-inspection feature correction disclosed",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Every policy stratum count and denominator recomputed",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "1440 paired policy episodes retained",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "All controllers obey four attempt budget",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Selected assets belong to authorized candidate sets",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Agent choices follow recorded denials and first acceptance",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "288 fresh attempted rollouts retained",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "170 fresh actions and 118 abstentions retained",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Fresh execution matches every cached categorical outcome",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Fresh recovery outcomes independently matched",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "24 fixed finer step comparisons complete",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "No finer step harm or acceptable label changes in selected sample",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "C-Town failed or limited containment transparently counted",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Net3 failed or limited containment transparently counted",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "C-Town residual margin implies universal abstention",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "All 96 Figure 1 task records match independently recomputed residuals",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "C-Town residual margin independently recomputed",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Net3 residual margin independently recomputed",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "All 20 Figure 2 points match executed policy episodes",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "29 references retained with no duplicate DOI",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Citations in first-use order without missing entries",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Exactly two figures and two editable main tables",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Five editable display equations",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Abstract within 250 words",
+      "passed": true,
+      "evidence": "198"
+    },
+    {
+      "check": "Six keywords",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Main paragraphs double spaced",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Scientific failure and secondary status disclosures retained",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "No all Q1 or submission ready claim invented",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Both figures and tables cited in prose",
+      "passed": true,
+      "evidence": ""
+    },
+    {
+      "check": "Every Table 2 value matched to audited candidate counts",
+      "passed": true,
+      "evidence": ""
+    }
+  ]
+}

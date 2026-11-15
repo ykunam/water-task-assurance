@@ -1,0 +1,1441 @@
+network,task_id,gate,controller,order,outside_grid,selected,attempts,forecast_simulations,completed,harmful,indeterminate,recovery_failure,acceptable,abstained
+C-Town,C-Town_test_00,Scope,catalogue,0,False,PU1,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_00,Scope,learned ranking,0,False,PU7,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_01,Scope,catalogue,1,False,PU2,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_01,Scope,learned ranking,1,False,PU7,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_02,Scope,catalogue,2,False,PU1,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_02,Scope,learned ranking,2,False,PU2,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_03,Scope,catalogue,3,False,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_03,Scope,learned ranking,3,False,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_04,Scope,catalogue,4,False,PU10,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_04,Scope,learned ranking,4,False,PU7,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_05,Scope,catalogue,5,False,PU10,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_05,Scope,learned ranking,5,False,PU4,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_06,Scope,catalogue,6,False,PU8,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_06,Scope,learned ranking,6,False,PU8,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_07,Scope,catalogue,7,False,PU7,1,0,False,False,False,True,False,False
+C-Town,C-Town_test_07,Scope,learned ranking,7,False,PU7,1,0,False,False,False,True,False,False
+C-Town,C-Town_test_08,Scope,catalogue,8,False,PU1,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_08,Scope,learned ranking,8,False,PU7,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_09,Scope,catalogue,9,False,PU2,1,0,False,False,False,True,False,False
+C-Town,C-Town_test_09,Scope,learned ranking,9,False,PU2,1,0,False,False,False,True,False,False
+C-Town,C-Town_test_10,Scope,catalogue,10,False,PU7,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_10,Scope,learned ranking,10,False,PU7,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_11,Scope,catalogue,11,False,PU10,1,0,False,False,False,True,False,False
+C-Town,C-Town_test_11,Scope,learned ranking,11,False,PU4,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_12,Scope,catalogue,12,True,PU4,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_12,Scope,learned ranking,12,True,PU8,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_13,Scope,catalogue,13,True,PU2,1,0,False,False,True,False,False,False
+C-Town,C-Town_test_13,Scope,learned ranking,13,True,PU8,1,0,True,False,True,False,False,False
+C-Town,C-Town_test_14,Scope,catalogue,14,True,PU1,1,0,False,False,True,False,False,False
+C-Town,C-Town_test_14,Scope,learned ranking,14,True,PU2,1,0,False,False,True,False,False,False
+C-Town,C-Town_test_15,Scope,catalogue,15,True,PU10,1,0,False,True,False,False,False,False
+C-Town,C-Town_test_15,Scope,learned ranking,15,True,PU7,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_16,Scope,catalogue,16,True,PU2,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_16,Scope,learned ranking,16,True,PU10,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_17,Scope,catalogue,17,True,PU10,1,0,False,False,False,True,False,False
+C-Town,C-Town_test_17,Scope,learned ranking,17,True,PU4,1,0,True,True,False,True,False,False
+C-Town,C-Town_test_18,Scope,catalogue,18,True,PU7,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_18,Scope,learned ranking,18,True,PU7,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_19,Scope,catalogue,19,True,PU10,1,0,False,True,False,False,False,False
+C-Town,C-Town_test_19,Scope,learned ranking,19,True,PU4,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_20,Scope,catalogue,20,True,PU1,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_20,Scope,learned ranking,20,True,PU7,1,0,True,False,True,False,False,False
+C-Town,C-Town_test_21,Scope,catalogue,21,True,PU7,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_21,Scope,learned ranking,21,True,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_22,Scope,catalogue,22,True,PU8,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_22,Scope,learned ranking,22,True,PU8,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_23,Scope,catalogue,23,True,PU4,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_23,Scope,learned ranking,23,True,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_00,Storage rule,catalogue,0,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_00,Storage rule,learned ranking,0,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_01,Storage rule,catalogue,1,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_01,Storage rule,learned ranking,1,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_02,Storage rule,catalogue,2,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_02,Storage rule,learned ranking,2,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_03,Storage rule,catalogue,3,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_03,Storage rule,learned ranking,3,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_04,Storage rule,catalogue,4,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_04,Storage rule,learned ranking,4,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_05,Storage rule,catalogue,5,False,PU1,2,0,False,False,False,False,False,False
+C-Town,C-Town_test_05,Storage rule,learned ranking,5,False,PU2,3,0,False,False,False,False,False,False
+C-Town,C-Town_test_06,Storage rule,catalogue,6,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_06,Storage rule,learned ranking,6,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_07,Storage rule,catalogue,7,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_07,Storage rule,learned ranking,7,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_08,Storage rule,catalogue,8,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_08,Storage rule,learned ranking,8,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_09,Storage rule,catalogue,9,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_09,Storage rule,learned ranking,9,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_10,Storage rule,catalogue,10,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_10,Storage rule,learned ranking,10,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_11,Storage rule,catalogue,11,False,PU1,2,0,False,False,False,False,False,False
+C-Town,C-Town_test_11,Storage rule,learned ranking,11,False,PU2,3,0,False,False,False,False,False,False
+C-Town,C-Town_test_12,Storage rule,catalogue,12,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_12,Storage rule,learned ranking,12,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_13,Storage rule,catalogue,13,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_13,Storage rule,learned ranking,13,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_14,Storage rule,catalogue,14,True,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_14,Storage rule,learned ranking,14,True,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_15,Storage rule,catalogue,15,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_15,Storage rule,learned ranking,15,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_16,Storage rule,catalogue,16,True,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_16,Storage rule,learned ranking,16,True,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_17,Storage rule,catalogue,17,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_17,Storage rule,learned ranking,17,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_18,Storage rule,catalogue,18,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_18,Storage rule,learned ranking,18,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_19,Storage rule,catalogue,19,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_19,Storage rule,learned ranking,19,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_20,Storage rule,catalogue,20,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_20,Storage rule,learned ranking,20,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_21,Storage rule,catalogue,21,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_21,Storage rule,learned ranking,21,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_22,Storage rule,catalogue,22,True,PU1,3,0,False,False,False,False,False,False
+C-Town,C-Town_test_22,Storage rule,learned ranking,22,True,PU2,3,0,True,False,False,True,False,False
+C-Town,C-Town_test_23,Storage rule,catalogue,23,True,PU6,2,0,True,False,False,True,False,False
+C-Town,C-Town_test_23,Storage rule,learned ranking,23,True,PU7,3,0,False,False,False,False,False,False
+C-Town,C-Town_test_00,Hold RF,catalogue,0,False,PU1,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_00,Hold RF,learned ranking,0,False,PU7,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_01,Hold RF,catalogue,1,False,PU2,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_01,Hold RF,learned ranking,1,False,PU7,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_02,Hold RF,catalogue,2,False,PU1,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_02,Hold RF,learned ranking,2,False,PU2,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_03,Hold RF,catalogue,3,False,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_03,Hold RF,learned ranking,3,False,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_04,Hold RF,catalogue,4,False,PU10,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_04,Hold RF,learned ranking,4,False,PU7,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_05,Hold RF,catalogue,5,False,PU10,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_05,Hold RF,learned ranking,5,False,PU4,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_06,Hold RF,catalogue,6,False,PU8,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_06,Hold RF,learned ranking,6,False,PU8,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_07,Hold RF,catalogue,7,False,PU7,1,0,False,False,False,True,False,False
+C-Town,C-Town_test_07,Hold RF,learned ranking,7,False,PU7,1,0,False,False,False,True,False,False
+C-Town,C-Town_test_08,Hold RF,catalogue,8,False,PU1,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_08,Hold RF,learned ranking,8,False,PU7,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_09,Hold RF,catalogue,9,False,PU2,1,0,False,False,False,True,False,False
+C-Town,C-Town_test_09,Hold RF,learned ranking,9,False,PU2,1,0,False,False,False,True,False,False
+C-Town,C-Town_test_10,Hold RF,catalogue,10,False,PU7,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_10,Hold RF,learned ranking,10,False,PU7,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_11,Hold RF,catalogue,11,False,PU10,1,0,False,False,False,True,False,False
+C-Town,C-Town_test_11,Hold RF,learned ranking,11,False,PU4,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_12,Hold RF,catalogue,12,True,PU4,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_12,Hold RF,learned ranking,12,True,PU8,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_13,Hold RF,catalogue,13,True,PU2,1,0,False,False,True,False,False,False
+C-Town,C-Town_test_13,Hold RF,learned ranking,13,True,PU8,1,0,True,False,True,False,False,False
+C-Town,C-Town_test_14,Hold RF,catalogue,14,True,PU1,1,0,False,False,True,False,False,False
+C-Town,C-Town_test_14,Hold RF,learned ranking,14,True,PU2,1,0,False,False,True,False,False,False
+C-Town,C-Town_test_15,Hold RF,catalogue,15,True,PU10,1,0,False,True,False,False,False,False
+C-Town,C-Town_test_15,Hold RF,learned ranking,15,True,PU7,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_16,Hold RF,catalogue,16,True,PU2,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_16,Hold RF,learned ranking,16,True,PU10,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_17,Hold RF,catalogue,17,True,PU10,1,0,False,False,False,True,False,False
+C-Town,C-Town_test_17,Hold RF,learned ranking,17,True,PU4,1,0,True,True,False,True,False,False
+C-Town,C-Town_test_18,Hold RF,catalogue,18,True,PU7,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_18,Hold RF,learned ranking,18,True,PU7,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_19,Hold RF,catalogue,19,True,PU10,1,0,False,True,False,False,False,False
+C-Town,C-Town_test_19,Hold RF,learned ranking,19,True,PU4,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_20,Hold RF,catalogue,20,True,PU1,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_20,Hold RF,learned ranking,20,True,PU7,1,0,True,False,True,False,False,False
+C-Town,C-Town_test_21,Hold RF,catalogue,21,True,PU7,1,0,False,False,False,False,False,False
+C-Town,C-Town_test_21,Hold RF,learned ranking,21,True,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_22,Hold RF,catalogue,22,True,PU8,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_22,Hold RF,learned ranking,22,True,PU8,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_23,Hold RF,catalogue,23,True,PU4,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_23,Hold RF,learned ranking,23,True,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_00,Whole RF,catalogue,0,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_00,Whole RF,learned ranking,0,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_01,Whole RF,catalogue,1,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_01,Whole RF,learned ranking,1,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_02,Whole RF,catalogue,2,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_02,Whole RF,learned ranking,2,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_03,Whole RF,catalogue,3,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_03,Whole RF,learned ranking,3,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_04,Whole RF,catalogue,4,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_04,Whole RF,learned ranking,4,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_05,Whole RF,catalogue,5,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_05,Whole RF,learned ranking,5,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_06,Whole RF,catalogue,6,False,PU8,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_06,Whole RF,learned ranking,6,False,PU8,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_07,Whole RF,catalogue,7,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_07,Whole RF,learned ranking,7,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_08,Whole RF,catalogue,8,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_08,Whole RF,learned ranking,8,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_09,Whole RF,catalogue,9,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_09,Whole RF,learned ranking,9,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_10,Whole RF,catalogue,10,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_10,Whole RF,learned ranking,10,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_11,Whole RF,catalogue,11,False,PU10,1,0,False,False,False,True,False,False
+C-Town,C-Town_test_11,Whole RF,learned ranking,11,False,PU4,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_12,Whole RF,catalogue,12,True,PU8,2,0,True,False,False,True,False,False
+C-Town,C-Town_test_12,Whole RF,learned ranking,12,True,PU8,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_13,Whole RF,catalogue,13,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_13,Whole RF,learned ranking,13,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_14,Whole RF,catalogue,14,True,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_14,Whole RF,learned ranking,14,True,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_15,Whole RF,catalogue,15,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_15,Whole RF,learned ranking,15,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_16,Whole RF,catalogue,16,True,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_16,Whole RF,learned ranking,16,True,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_17,Whole RF,catalogue,17,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_17,Whole RF,learned ranking,17,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_18,Whole RF,catalogue,18,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_18,Whole RF,learned ranking,18,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_19,Whole RF,catalogue,19,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_19,Whole RF,learned ranking,19,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_20,Whole RF,catalogue,20,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_20,Whole RF,learned ranking,20,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_21,Whole RF,catalogue,21,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_21,Whole RF,learned ranking,21,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_22,Whole RF,catalogue,22,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_22,Whole RF,learned ranking,22,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_23,Whole RF,catalogue,23,True,PU4,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_23,Whole RF,learned ranking,23,True,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_00,Calibrated whole RF,catalogue,0,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_00,Calibrated whole RF,learned ranking,0,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_01,Calibrated whole RF,catalogue,1,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_01,Calibrated whole RF,learned ranking,1,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_02,Calibrated whole RF,catalogue,2,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_02,Calibrated whole RF,learned ranking,2,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_03,Calibrated whole RF,catalogue,3,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_03,Calibrated whole RF,learned ranking,3,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_04,Calibrated whole RF,catalogue,4,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_04,Calibrated whole RF,learned ranking,4,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_05,Calibrated whole RF,catalogue,5,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_05,Calibrated whole RF,learned ranking,5,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_06,Calibrated whole RF,catalogue,6,False,PU8,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_06,Calibrated whole RF,learned ranking,6,False,PU8,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_07,Calibrated whole RF,catalogue,7,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_07,Calibrated whole RF,learned ranking,7,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_08,Calibrated whole RF,catalogue,8,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_08,Calibrated whole RF,learned ranking,8,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_09,Calibrated whole RF,catalogue,9,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_09,Calibrated whole RF,learned ranking,9,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_10,Calibrated whole RF,catalogue,10,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_10,Calibrated whole RF,learned ranking,10,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_11,Calibrated whole RF,catalogue,11,False,PU10,1,0,False,False,False,True,False,False
+C-Town,C-Town_test_11,Calibrated whole RF,learned ranking,11,False,PU4,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_12,Calibrated whole RF,catalogue,12,True,PU8,2,0,True,False,False,True,False,False
+C-Town,C-Town_test_12,Calibrated whole RF,learned ranking,12,True,PU8,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_13,Calibrated whole RF,catalogue,13,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_13,Calibrated whole RF,learned ranking,13,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_14,Calibrated whole RF,catalogue,14,True,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_14,Calibrated whole RF,learned ranking,14,True,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_15,Calibrated whole RF,catalogue,15,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_15,Calibrated whole RF,learned ranking,15,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_16,Calibrated whole RF,catalogue,16,True,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_16,Calibrated whole RF,learned ranking,16,True,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_17,Calibrated whole RF,catalogue,17,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_17,Calibrated whole RF,learned ranking,17,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_18,Calibrated whole RF,catalogue,18,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_18,Calibrated whole RF,learned ranking,18,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_19,Calibrated whole RF,catalogue,19,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_19,Calibrated whole RF,learned ranking,19,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_20,Calibrated whole RF,catalogue,20,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_20,Calibrated whole RF,learned ranking,20,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_21,Calibrated whole RF,catalogue,21,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_21,Calibrated whole RF,learned ranking,21,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_22,Calibrated whole RF,catalogue,22,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_22,Calibrated whole RF,learned ranking,22,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_23,Calibrated whole RF,catalogue,23,True,PU4,1,0,True,False,False,True,False,False
+C-Town,C-Town_test_23,Calibrated whole RF,learned ranking,23,True,PU8,1,0,True,False,False,False,True,False
+C-Town,C-Town_test_00,Nominal hold,catalogue,0,False,PU2,2,2,True,False,False,False,True,False
+C-Town,C-Town_test_00,Nominal hold,learned ranking,0,False,PU7,1,1,True,False,False,False,True,False
+C-Town,C-Town_test_01,Nominal hold,catalogue,1,False,PU2,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_01,Nominal hold,learned ranking,1,False,PU7,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_02,Nominal hold,catalogue,2,False,,2,2,False,False,False,False,False,True
+C-Town,C-Town_test_02,Nominal hold,learned ranking,2,False,,2,2,False,False,False,False,False,True
+C-Town,C-Town_test_03,Nominal hold,catalogue,3,False,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_test_03,Nominal hold,learned ranking,3,False,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_test_04,Nominal hold,catalogue,4,False,PU2,3,3,True,False,False,False,True,False
+C-Town,C-Town_test_04,Nominal hold,learned ranking,4,False,PU2,3,3,True,False,False,False,True,False
+C-Town,C-Town_test_05,Nominal hold,catalogue,5,False,PU4,4,4,True,False,False,True,False,False
+C-Town,C-Town_test_05,Nominal hold,learned ranking,5,False,PU4,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_06,Nominal hold,catalogue,6,False,PU8,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_06,Nominal hold,learned ranking,6,False,PU8,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_07,Nominal hold,catalogue,7,False,,3,3,False,False,False,False,False,True
+C-Town,C-Town_test_07,Nominal hold,learned ranking,7,False,,3,3,False,False,False,False,False,True
+C-Town,C-Town_test_08,Nominal hold,catalogue,8,False,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_08,Nominal hold,learned ranking,8,False,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_09,Nominal hold,catalogue,9,False,,2,2,False,False,False,False,False,True
+C-Town,C-Town_test_09,Nominal hold,learned ranking,9,False,,2,2,False,False,False,False,False,True
+C-Town,C-Town_test_10,Nominal hold,catalogue,10,False,PU7,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_10,Nominal hold,learned ranking,10,False,PU7,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_11,Nominal hold,catalogue,11,False,PU4,4,4,True,False,False,False,True,False
+C-Town,C-Town_test_11,Nominal hold,learned ranking,11,False,PU4,1,1,True,False,False,False,True,False
+C-Town,C-Town_test_12,Nominal hold,catalogue,12,True,PU4,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_12,Nominal hold,learned ranking,12,True,PU8,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_13,Nominal hold,catalogue,13,True,PU7,2,2,True,False,True,False,False,False
+C-Town,C-Town_test_13,Nominal hold,learned ranking,13,True,PU8,1,1,True,False,True,False,False,False
+C-Town,C-Town_test_14,Nominal hold,catalogue,14,True,,2,2,False,False,False,False,False,True
+C-Town,C-Town_test_14,Nominal hold,learned ranking,14,True,,2,2,False,False,False,False,False,True
+C-Town,C-Town_test_15,Nominal hold,catalogue,15,True,PU2,3,3,True,False,False,False,True,False
+C-Town,C-Town_test_15,Nominal hold,learned ranking,15,True,PU2,3,3,True,False,False,False,True,False
+C-Town,C-Town_test_16,Nominal hold,catalogue,16,True,PU2,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_16,Nominal hold,learned ranking,16,True,PU2,2,2,True,False,False,True,False,False
+C-Town,C-Town_test_17,Nominal hold,catalogue,17,True,PU2,3,3,False,False,True,False,False,False
+C-Town,C-Town_test_17,Nominal hold,learned ranking,17,True,PU4,1,1,True,True,False,True,False,False
+C-Town,C-Town_test_18,Nominal hold,catalogue,18,True,PU10,2,2,True,False,False,False,True,False
+C-Town,C-Town_test_18,Nominal hold,learned ranking,18,True,PU4,2,2,True,False,False,True,False,False
+C-Town,C-Town_test_19,Nominal hold,catalogue,19,True,PU2,3,3,True,True,False,True,False,False
+C-Town,C-Town_test_19,Nominal hold,learned ranking,19,True,PU4,1,1,True,False,False,False,True,False
+C-Town,C-Town_test_20,Nominal hold,catalogue,20,True,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_20,Nominal hold,learned ranking,20,True,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_21,Nominal hold,catalogue,21,True,PU8,2,2,True,False,False,False,True,False
+C-Town,C-Town_test_21,Nominal hold,learned ranking,21,True,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_test_22,Nominal hold,catalogue,22,True,PU8,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_22,Nominal hold,learned ranking,22,True,PU8,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_23,Nominal hold,catalogue,23,True,PU4,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_23,Nominal hold,learned ranking,23,True,PU4,2,2,True,False,False,True,False,False
+C-Town,C-Town_test_00,Nominal task,catalogue,0,False,PU2,2,2,True,False,False,False,True,False
+C-Town,C-Town_test_00,Nominal task,learned ranking,0,False,PU2,3,3,True,False,False,False,True,False
+C-Town,C-Town_test_01,Nominal task,catalogue,1,False,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_01,Nominal task,learned ranking,1,False,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_02,Nominal task,catalogue,2,False,,2,2,False,False,False,False,False,True
+C-Town,C-Town_test_02,Nominal task,learned ranking,2,False,,2,2,False,False,False,False,False,True
+C-Town,C-Town_test_03,Nominal task,catalogue,3,False,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_test_03,Nominal task,learned ranking,3,False,PU8,1,1,True,False,False,False,True,False
+C-Town,C-Town_test_04,Nominal task,catalogue,4,False,PU2,3,3,True,False,False,False,True,False
+C-Town,C-Town_test_04,Nominal task,learned ranking,4,False,PU2,3,3,True,False,False,False,True,False
+C-Town,C-Town_test_05,Nominal task,catalogue,5,False,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_05,Nominal task,learned ranking,5,False,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_06,Nominal task,catalogue,6,False,PU8,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_06,Nominal task,learned ranking,6,False,PU8,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_07,Nominal task,catalogue,7,False,,3,3,False,False,False,False,False,True
+C-Town,C-Town_test_07,Nominal task,learned ranking,7,False,,3,3,False,False,False,False,False,True
+C-Town,C-Town_test_08,Nominal task,catalogue,8,False,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_08,Nominal task,learned ranking,8,False,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_09,Nominal task,catalogue,9,False,,2,2,False,False,False,False,False,True
+C-Town,C-Town_test_09,Nominal task,learned ranking,9,False,,2,2,False,False,False,False,False,True
+C-Town,C-Town_test_10,Nominal task,catalogue,10,False,PU7,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_10,Nominal task,learned ranking,10,False,PU7,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_11,Nominal task,catalogue,11,False,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_11,Nominal task,learned ranking,11,False,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_12,Nominal task,catalogue,12,True,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_12,Nominal task,learned ranking,12,True,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_13,Nominal task,catalogue,13,True,PU8,3,3,True,False,True,False,False,False
+C-Town,C-Town_test_13,Nominal task,learned ranking,13,True,PU8,1,1,True,False,True,False,False,False
+C-Town,C-Town_test_14,Nominal task,catalogue,14,True,,2,2,False,False,False,False,False,True
+C-Town,C-Town_test_14,Nominal task,learned ranking,14,True,,2,2,False,False,False,False,False,True
+C-Town,C-Town_test_15,Nominal task,catalogue,15,True,PU2,3,3,True,False,False,False,True,False
+C-Town,C-Town_test_15,Nominal task,learned ranking,15,True,PU2,3,3,True,False,False,False,True,False
+C-Town,C-Town_test_16,Nominal task,catalogue,16,True,,3,3,False,False,False,False,False,True
+C-Town,C-Town_test_16,Nominal task,learned ranking,16,True,,3,3,False,False,False,False,False,True
+C-Town,C-Town_test_17,Nominal task,catalogue,17,True,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_17,Nominal task,learned ranking,17,True,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_18,Nominal task,catalogue,18,True,PU10,2,2,True,False,False,False,True,False
+C-Town,C-Town_test_18,Nominal task,learned ranking,18,True,PU10,3,3,True,False,False,False,True,False
+C-Town,C-Town_test_19,Nominal task,catalogue,19,True,PU4,4,4,True,False,False,False,True,False
+C-Town,C-Town_test_19,Nominal task,learned ranking,19,True,PU4,1,1,True,False,False,False,True,False
+C-Town,C-Town_test_20,Nominal task,catalogue,20,True,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_20,Nominal task,learned ranking,20,True,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_21,Nominal task,catalogue,21,True,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_21,Nominal task,learned ranking,21,True,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_22,Nominal task,catalogue,22,True,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_22,Nominal task,learned ranking,22,True,,4,4,False,False,False,False,False,True
+C-Town,C-Town_test_23,Nominal task,catalogue,23,True,PU4,1,1,True,False,False,True,False,False
+C-Town,C-Town_test_23,Nominal task,learned ranking,23,True,PU4,2,2,True,False,False,True,False,False
+C-Town,C-Town_test_00,Robust hold,catalogue,0,False,PU2,2,6,True,False,False,False,True,False
+C-Town,C-Town_test_00,Robust hold,learned ranking,0,False,PU7,1,3,True,False,False,False,True,False
+C-Town,C-Town_test_01,Robust hold,catalogue,1,False,PU2,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_01,Robust hold,learned ranking,1,False,PU7,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_02,Robust hold,catalogue,2,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_02,Robust hold,learned ranking,2,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_03,Robust hold,catalogue,3,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_03,Robust hold,learned ranking,3,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_04,Robust hold,catalogue,4,False,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_test_04,Robust hold,learned ranking,4,False,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_test_05,Robust hold,catalogue,5,False,PU4,4,12,True,False,False,True,False,False
+C-Town,C-Town_test_05,Robust hold,learned ranking,5,False,PU4,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_06,Robust hold,catalogue,6,False,PU8,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_06,Robust hold,learned ranking,6,False,PU8,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_07,Robust hold,catalogue,7,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_07,Robust hold,learned ranking,7,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_08,Robust hold,catalogue,8,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_08,Robust hold,learned ranking,8,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_09,Robust hold,catalogue,9,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_09,Robust hold,learned ranking,9,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_10,Robust hold,catalogue,10,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_10,Robust hold,learned ranking,10,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_11,Robust hold,catalogue,11,False,PU4,4,12,True,False,False,False,True,False
+C-Town,C-Town_test_11,Robust hold,learned ranking,11,False,PU4,1,3,True,False,False,False,True,False
+C-Town,C-Town_test_12,Robust hold,catalogue,12,True,PU4,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_12,Robust hold,learned ranking,12,True,PU8,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_13,Robust hold,catalogue,13,True,PU7,2,6,True,False,True,False,False,False
+C-Town,C-Town_test_13,Robust hold,learned ranking,13,True,PU8,1,3,True,False,True,False,False,False
+C-Town,C-Town_test_14,Robust hold,catalogue,14,True,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_14,Robust hold,learned ranking,14,True,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_15,Robust hold,catalogue,15,True,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_test_15,Robust hold,learned ranking,15,True,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_test_16,Robust hold,catalogue,16,True,PU2,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_16,Robust hold,learned ranking,16,True,PU2,2,6,True,False,False,True,False,False
+C-Town,C-Town_test_17,Robust hold,catalogue,17,True,PU4,4,12,True,True,False,True,False,False
+C-Town,C-Town_test_17,Robust hold,learned ranking,17,True,PU4,1,3,True,True,False,True,False,False
+C-Town,C-Town_test_18,Robust hold,catalogue,18,True,PU4,4,12,True,False,False,True,False,False
+C-Town,C-Town_test_18,Robust hold,learned ranking,18,True,PU4,2,6,True,False,False,True,False,False
+C-Town,C-Town_test_19,Robust hold,catalogue,19,True,PU2,3,9,True,True,False,True,False,False
+C-Town,C-Town_test_19,Robust hold,learned ranking,19,True,PU4,1,3,True,False,False,False,True,False
+C-Town,C-Town_test_20,Robust hold,catalogue,20,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_20,Robust hold,learned ranking,20,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_21,Robust hold,catalogue,21,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_21,Robust hold,learned ranking,21,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_22,Robust hold,catalogue,22,True,PU8,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_22,Robust hold,learned ranking,22,True,PU8,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_23,Robust hold,catalogue,23,True,PU6,2,6,True,False,False,True,False,False
+C-Town,C-Town_test_23,Robust hold,learned ranking,23,True,PU6,4,12,True,False,False,True,False,False
+C-Town,C-Town_test_00,Robust whole,catalogue,0,False,PU2,2,6,True,False,False,False,True,False
+C-Town,C-Town_test_00,Robust whole,learned ranking,0,False,PU7,1,3,True,False,False,False,True,False
+C-Town,C-Town_test_01,Robust whole,catalogue,1,False,PU2,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_01,Robust whole,learned ranking,1,False,PU7,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_02,Robust whole,catalogue,2,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_02,Robust whole,learned ranking,2,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_03,Robust whole,catalogue,3,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_03,Robust whole,learned ranking,3,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_04,Robust whole,catalogue,4,False,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_test_04,Robust whole,learned ranking,4,False,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_test_05,Robust whole,catalogue,5,False,PU4,4,12,True,False,False,True,False,False
+C-Town,C-Town_test_05,Robust whole,learned ranking,5,False,PU4,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_06,Robust whole,catalogue,6,False,PU8,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_06,Robust whole,learned ranking,6,False,PU8,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_07,Robust whole,catalogue,7,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_07,Robust whole,learned ranking,7,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_08,Robust whole,catalogue,8,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_08,Robust whole,learned ranking,8,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_09,Robust whole,catalogue,9,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_09,Robust whole,learned ranking,9,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_10,Robust whole,catalogue,10,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_10,Robust whole,learned ranking,10,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_11,Robust whole,catalogue,11,False,PU4,4,12,True,False,False,False,True,False
+C-Town,C-Town_test_11,Robust whole,learned ranking,11,False,PU4,1,3,True,False,False,False,True,False
+C-Town,C-Town_test_12,Robust whole,catalogue,12,True,PU4,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_12,Robust whole,learned ranking,12,True,PU8,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_13,Robust whole,catalogue,13,True,PU7,2,6,True,False,True,False,False,False
+C-Town,C-Town_test_13,Robust whole,learned ranking,13,True,PU8,1,3,True,False,True,False,False,False
+C-Town,C-Town_test_14,Robust whole,catalogue,14,True,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_14,Robust whole,learned ranking,14,True,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_15,Robust whole,catalogue,15,True,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_test_15,Robust whole,learned ranking,15,True,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_test_16,Robust whole,catalogue,16,True,PU2,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_16,Robust whole,learned ranking,16,True,PU2,2,6,True,False,False,True,False,False
+C-Town,C-Town_test_17,Robust whole,catalogue,17,True,PU4,4,12,True,True,False,True,False,False
+C-Town,C-Town_test_17,Robust whole,learned ranking,17,True,PU4,1,3,True,True,False,True,False,False
+C-Town,C-Town_test_18,Robust whole,catalogue,18,True,PU4,4,12,True,False,False,True,False,False
+C-Town,C-Town_test_18,Robust whole,learned ranking,18,True,PU4,2,6,True,False,False,True,False,False
+C-Town,C-Town_test_19,Robust whole,catalogue,19,True,PU2,3,9,True,True,False,True,False,False
+C-Town,C-Town_test_19,Robust whole,learned ranking,19,True,PU4,1,3,True,False,False,False,True,False
+C-Town,C-Town_test_20,Robust whole,catalogue,20,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_20,Robust whole,learned ranking,20,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_21,Robust whole,catalogue,21,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_21,Robust whole,learned ranking,21,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_22,Robust whole,catalogue,22,True,PU8,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_22,Robust whole,learned ranking,22,True,PU8,1,3,True,False,False,True,False,False
+C-Town,C-Town_test_23,Robust whole,catalogue,23,True,PU6,2,6,True,False,False,True,False,False
+C-Town,C-Town_test_23,Robust whole,learned ranking,23,True,PU6,4,12,True,False,False,True,False,False
+C-Town,C-Town_test_00,Robust task no validity,catalogue,0,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_00,Robust task no validity,learned ranking,0,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_01,Robust task no validity,catalogue,1,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_01,Robust task no validity,learned ranking,1,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_02,Robust task no validity,catalogue,2,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_02,Robust task no validity,learned ranking,2,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_03,Robust task no validity,catalogue,3,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_03,Robust task no validity,learned ranking,3,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_04,Robust task no validity,catalogue,4,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_04,Robust task no validity,learned ranking,4,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_05,Robust task no validity,catalogue,5,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_05,Robust task no validity,learned ranking,5,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_06,Robust task no validity,catalogue,6,False,PU4,4,12,True,False,False,True,False,False
+C-Town,C-Town_test_06,Robust task no validity,learned ranking,6,False,PU4,2,6,True,False,False,True,False,False
+C-Town,C-Town_test_07,Robust task no validity,catalogue,7,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_07,Robust task no validity,learned ranking,7,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_08,Robust task no validity,catalogue,8,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_08,Robust task no validity,learned ranking,8,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_09,Robust task no validity,catalogue,9,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_09,Robust task no validity,learned ranking,9,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_10,Robust task no validity,catalogue,10,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_10,Robust task no validity,learned ranking,10,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_11,Robust task no validity,catalogue,11,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_11,Robust task no validity,learned ranking,11,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_12,Robust task no validity,catalogue,12,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_12,Robust task no validity,learned ranking,12,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_13,Robust task no validity,catalogue,13,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_13,Robust task no validity,learned ranking,13,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_14,Robust task no validity,catalogue,14,True,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_14,Robust task no validity,learned ranking,14,True,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_15,Robust task no validity,catalogue,15,True,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_test_15,Robust task no validity,learned ranking,15,True,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_test_16,Robust task no validity,catalogue,16,True,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_16,Robust task no validity,learned ranking,16,True,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_17,Robust task no validity,catalogue,17,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_17,Robust task no validity,learned ranking,17,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_18,Robust task no validity,catalogue,18,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_18,Robust task no validity,learned ranking,18,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_19,Robust task no validity,catalogue,19,True,PU4,4,12,True,False,False,False,True,False
+C-Town,C-Town_test_19,Robust task no validity,learned ranking,19,True,PU4,1,3,True,False,False,False,True,False
+C-Town,C-Town_test_20,Robust task no validity,catalogue,20,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_20,Robust task no validity,learned ranking,20,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_21,Robust task no validity,catalogue,21,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_21,Robust task no validity,learned ranking,21,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_22,Robust task no validity,catalogue,22,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_22,Robust task no validity,learned ranking,22,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_23,Robust task no validity,catalogue,23,True,PU6,2,6,True,False,False,True,False,False
+C-Town,C-Town_test_23,Robust task no validity,learned ranking,23,True,PU6,4,12,True,False,False,True,False,False
+C-Town,C-Town_test_00,Robust task,catalogue,0,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_00,Robust task,learned ranking,0,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_01,Robust task,catalogue,1,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_01,Robust task,learned ranking,1,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_02,Robust task,catalogue,2,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_02,Robust task,learned ranking,2,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_03,Robust task,catalogue,3,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_03,Robust task,learned ranking,3,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_04,Robust task,catalogue,4,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_04,Robust task,learned ranking,4,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_05,Robust task,catalogue,5,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_05,Robust task,learned ranking,5,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_06,Robust task,catalogue,6,False,PU4,4,12,True,False,False,True,False,False
+C-Town,C-Town_test_06,Robust task,learned ranking,6,False,PU4,2,6,True,False,False,True,False,False
+C-Town,C-Town_test_07,Robust task,catalogue,7,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_07,Robust task,learned ranking,7,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_08,Robust task,catalogue,8,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_08,Robust task,learned ranking,8,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_09,Robust task,catalogue,9,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_09,Robust task,learned ranking,9,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_10,Robust task,catalogue,10,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_10,Robust task,learned ranking,10,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_11,Robust task,catalogue,11,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_11,Robust task,learned ranking,11,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_12,Robust task,catalogue,12,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_12,Robust task,learned ranking,12,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_13,Robust task,catalogue,13,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_13,Robust task,learned ranking,13,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_14,Robust task,catalogue,14,True,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_14,Robust task,learned ranking,14,True,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_15,Robust task,catalogue,15,True,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_test_15,Robust task,learned ranking,15,True,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_test_16,Robust task,catalogue,16,True,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_16,Robust task,learned ranking,16,True,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_17,Robust task,catalogue,17,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_17,Robust task,learned ranking,17,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_18,Robust task,catalogue,18,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_18,Robust task,learned ranking,18,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_19,Robust task,catalogue,19,True,PU4,4,12,True,False,False,False,True,False
+C-Town,C-Town_test_19,Robust task,learned ranking,19,True,PU4,1,3,True,False,False,False,True,False
+C-Town,C-Town_test_20,Robust task,catalogue,20,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_20,Robust task,learned ranking,20,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_21,Robust task,catalogue,21,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_21,Robust task,learned ranking,21,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_22,Robust task,catalogue,22,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_22,Robust task,learned ranking,22,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_23,Robust task,catalogue,23,True,PU6,2,6,True,False,False,True,False,False
+C-Town,C-Town_test_23,Robust task,learned ranking,23,True,PU6,4,12,True,False,False,True,False,False
+C-Town,C-Town_test_00,Learned robust task,catalogue,0,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_00,Learned robust task,learned ranking,0,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_01,Learned robust task,catalogue,1,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_01,Learned robust task,learned ranking,1,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_02,Learned robust task,catalogue,2,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_02,Learned robust task,learned ranking,2,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_03,Learned robust task,catalogue,3,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_03,Learned robust task,learned ranking,3,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_04,Learned robust task,catalogue,4,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_04,Learned robust task,learned ranking,4,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_05,Learned robust task,catalogue,5,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_05,Learned robust task,learned ranking,5,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_06,Learned robust task,catalogue,6,False,,4,3,False,False,False,False,False,True
+C-Town,C-Town_test_06,Learned robust task,learned ranking,6,False,,4,3,False,False,False,False,False,True
+C-Town,C-Town_test_07,Learned robust task,catalogue,7,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_07,Learned robust task,learned ranking,7,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_08,Learned robust task,catalogue,8,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_08,Learned robust task,learned ranking,8,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_09,Learned robust task,catalogue,9,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_09,Learned robust task,learned ranking,9,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_10,Learned robust task,catalogue,10,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_10,Learned robust task,learned ranking,10,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_11,Learned robust task,catalogue,11,False,,4,6,False,False,False,False,False,True
+C-Town,C-Town_test_11,Learned robust task,learned ranking,11,False,,4,6,False,False,False,False,False,True
+C-Town,C-Town_test_12,Learned robust task,catalogue,12,True,,4,3,False,False,False,False,False,True
+C-Town,C-Town_test_12,Learned robust task,learned ranking,12,True,,4,3,False,False,False,False,False,True
+C-Town,C-Town_test_13,Learned robust task,catalogue,13,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_13,Learned robust task,learned ranking,13,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_14,Learned robust task,catalogue,14,True,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_14,Learned robust task,learned ranking,14,True,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_15,Learned robust task,catalogue,15,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_15,Learned robust task,learned ranking,15,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_16,Learned robust task,catalogue,16,True,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_16,Learned robust task,learned ranking,16,True,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_17,Learned robust task,catalogue,17,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_17,Learned robust task,learned ranking,17,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_18,Learned robust task,catalogue,18,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_18,Learned robust task,learned ranking,18,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_19,Learned robust task,catalogue,19,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_19,Learned robust task,learned ranking,19,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_20,Learned robust task,catalogue,20,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_20,Learned robust task,learned ranking,20,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_21,Learned robust task,catalogue,21,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_21,Learned robust task,learned ranking,21,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_22,Learned robust task,catalogue,22,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_22,Learned robust task,learned ranking,22,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_23,Learned robust task,catalogue,23,True,PU6,2,6,True,False,False,True,False,False
+C-Town,C-Town_test_23,Learned robust task,learned ranking,23,True,PU6,4,12,True,False,False,True,False,False
+C-Town,C-Town_test_00,Unbuffered joint,catalogue,0,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_00,Unbuffered joint,learned ranking,0,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_01,Unbuffered joint,catalogue,1,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_01,Unbuffered joint,learned ranking,1,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_02,Unbuffered joint,catalogue,2,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_02,Unbuffered joint,learned ranking,2,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_03,Unbuffered joint,catalogue,3,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_03,Unbuffered joint,learned ranking,3,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_04,Unbuffered joint,catalogue,4,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_04,Unbuffered joint,learned ranking,4,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_05,Unbuffered joint,catalogue,5,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_05,Unbuffered joint,learned ranking,5,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_06,Unbuffered joint,catalogue,6,False,PU4,4,12,True,False,False,True,False,False
+C-Town,C-Town_test_06,Unbuffered joint,learned ranking,6,False,PU4,2,6,True,False,False,True,False,False
+C-Town,C-Town_test_07,Unbuffered joint,catalogue,7,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_07,Unbuffered joint,learned ranking,7,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_08,Unbuffered joint,catalogue,8,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_08,Unbuffered joint,learned ranking,8,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_09,Unbuffered joint,catalogue,9,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_09,Unbuffered joint,learned ranking,9,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_10,Unbuffered joint,catalogue,10,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_10,Unbuffered joint,learned ranking,10,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_11,Unbuffered joint,catalogue,11,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_11,Unbuffered joint,learned ranking,11,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_12,Unbuffered joint,catalogue,12,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_12,Unbuffered joint,learned ranking,12,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_13,Unbuffered joint,catalogue,13,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_13,Unbuffered joint,learned ranking,13,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_14,Unbuffered joint,catalogue,14,True,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_14,Unbuffered joint,learned ranking,14,True,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_15,Unbuffered joint,catalogue,15,True,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_test_15,Unbuffered joint,learned ranking,15,True,PU2,3,9,True,False,False,False,True,False
+C-Town,C-Town_test_16,Unbuffered joint,catalogue,16,True,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_16,Unbuffered joint,learned ranking,16,True,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_17,Unbuffered joint,catalogue,17,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_17,Unbuffered joint,learned ranking,17,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_18,Unbuffered joint,catalogue,18,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_18,Unbuffered joint,learned ranking,18,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_19,Unbuffered joint,catalogue,19,True,PU4,4,12,True,False,False,False,True,False
+C-Town,C-Town_test_19,Unbuffered joint,learned ranking,19,True,PU4,1,3,True,False,False,False,True,False
+C-Town,C-Town_test_20,Unbuffered joint,catalogue,20,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_20,Unbuffered joint,learned ranking,20,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_21,Unbuffered joint,catalogue,21,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_21,Unbuffered joint,learned ranking,21,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_22,Unbuffered joint,catalogue,22,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_22,Unbuffered joint,learned ranking,22,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_23,Unbuffered joint,catalogue,23,True,PU6,2,6,True,False,False,True,False,False
+C-Town,C-Town_test_23,Unbuffered joint,learned ranking,23,True,PU6,4,12,True,False,False,True,False,False
+C-Town,C-Town_test_00,Residual task,catalogue,0,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_00,Residual task,learned ranking,0,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_01,Residual task,catalogue,1,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_01,Residual task,learned ranking,1,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_02,Residual task,catalogue,2,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_02,Residual task,learned ranking,2,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_03,Residual task,catalogue,3,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_03,Residual task,learned ranking,3,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_04,Residual task,catalogue,4,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_04,Residual task,learned ranking,4,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_05,Residual task,catalogue,5,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_05,Residual task,learned ranking,5,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_06,Residual task,catalogue,6,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_06,Residual task,learned ranking,6,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_07,Residual task,catalogue,7,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_07,Residual task,learned ranking,7,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_08,Residual task,catalogue,8,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_08,Residual task,learned ranking,8,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_09,Residual task,catalogue,9,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_09,Residual task,learned ranking,9,False,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_10,Residual task,catalogue,10,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_10,Residual task,learned ranking,10,False,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_11,Residual task,catalogue,11,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_11,Residual task,learned ranking,11,False,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_12,Residual task,catalogue,12,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_12,Residual task,learned ranking,12,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_13,Residual task,catalogue,13,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_13,Residual task,learned ranking,13,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_14,Residual task,catalogue,14,True,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_14,Residual task,learned ranking,14,True,,2,6,False,False,False,False,False,True
+C-Town,C-Town_test_15,Residual task,catalogue,15,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_15,Residual task,learned ranking,15,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_16,Residual task,catalogue,16,True,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_16,Residual task,learned ranking,16,True,,3,9,False,False,False,False,False,True
+C-Town,C-Town_test_17,Residual task,catalogue,17,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_17,Residual task,learned ranking,17,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_18,Residual task,catalogue,18,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_18,Residual task,learned ranking,18,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_19,Residual task,catalogue,19,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_19,Residual task,learned ranking,19,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_20,Residual task,catalogue,20,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_20,Residual task,learned ranking,20,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_21,Residual task,catalogue,21,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_21,Residual task,learned ranking,21,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_22,Residual task,catalogue,22,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_22,Residual task,learned ranking,22,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_23,Residual task,catalogue,23,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_23,Residual task,learned ranking,23,True,,4,12,False,False,False,False,False,True
+C-Town,C-Town_test_00,Deny all,catalogue,0,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_00,Deny all,learned ranking,0,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_01,Deny all,catalogue,1,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_01,Deny all,learned ranking,1,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_02,Deny all,catalogue,2,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_02,Deny all,learned ranking,2,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_03,Deny all,catalogue,3,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_03,Deny all,learned ranking,3,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_04,Deny all,catalogue,4,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_04,Deny all,learned ranking,4,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_05,Deny all,catalogue,5,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_05,Deny all,learned ranking,5,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_06,Deny all,catalogue,6,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_06,Deny all,learned ranking,6,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_07,Deny all,catalogue,7,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_07,Deny all,learned ranking,7,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_08,Deny all,catalogue,8,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_08,Deny all,learned ranking,8,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_09,Deny all,catalogue,9,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_09,Deny all,learned ranking,9,False,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_10,Deny all,catalogue,10,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_10,Deny all,learned ranking,10,False,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_11,Deny all,catalogue,11,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_11,Deny all,learned ranking,11,False,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_12,Deny all,catalogue,12,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_12,Deny all,learned ranking,12,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_13,Deny all,catalogue,13,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_13,Deny all,learned ranking,13,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_14,Deny all,catalogue,14,True,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_14,Deny all,learned ranking,14,True,,2,0,False,False,False,False,False,True
+C-Town,C-Town_test_15,Deny all,catalogue,15,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_15,Deny all,learned ranking,15,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_16,Deny all,catalogue,16,True,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_16,Deny all,learned ranking,16,True,,3,0,False,False,False,False,False,True
+C-Town,C-Town_test_17,Deny all,catalogue,17,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_17,Deny all,learned ranking,17,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_18,Deny all,catalogue,18,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_18,Deny all,learned ranking,18,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_19,Deny all,catalogue,19,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_19,Deny all,learned ranking,19,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_20,Deny all,catalogue,20,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_20,Deny all,learned ranking,20,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_21,Deny all,catalogue,21,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_21,Deny all,learned ranking,21,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_22,Deny all,catalogue,22,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_22,Deny all,learned ranking,22,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_23,Deny all,catalogue,23,True,,4,0,False,False,False,False,False,True
+C-Town,C-Town_test_23,Deny all,learned ranking,23,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_00,Scope,catalogue,0,False,335,1,0,False,False,False,False,False,False
+Net3,Net3_test_00,Scope,learned ranking,0,False,335,1,0,False,False,False,False,False,False
+Net3,Net3_test_01,Scope,catalogue,1,False,238,1,0,True,False,False,True,False,False
+Net3,Net3_test_01,Scope,learned ranking,1,False,243,1,0,True,False,False,True,False,False
+Net3,Net3_test_02,Scope,catalogue,2,False,240,1,0,True,False,False,True,False,False
+Net3,Net3_test_02,Scope,learned ranking,2,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_03,Scope,catalogue,3,False,243,1,0,True,False,False,True,False,False
+Net3,Net3_test_03,Scope,learned ranking,3,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_04,Scope,catalogue,4,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_04,Scope,learned ranking,4,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_05,Scope,catalogue,5,False,60,1,0,True,False,True,False,False,False
+Net3,Net3_test_05,Scope,learned ranking,5,False,335,1,0,False,False,False,False,False,False
+Net3,Net3_test_06,Scope,catalogue,6,False,20,1,0,True,False,False,False,True,False
+Net3,Net3_test_06,Scope,learned ranking,6,False,335,1,0,True,False,False,False,True,False
+Net3,Net3_test_07,Scope,catalogue,7,False,335,1,0,True,False,False,False,True,False
+Net3,Net3_test_07,Scope,learned ranking,7,False,335,1,0,True,False,False,False,True,False
+Net3,Net3_test_08,Scope,catalogue,8,False,240,1,0,True,False,False,True,False,False
+Net3,Net3_test_08,Scope,learned ranking,8,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_09,Scope,catalogue,9,False,243,1,0,True,False,False,False,True,False
+Net3,Net3_test_09,Scope,learned ranking,9,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_10,Scope,catalogue,10,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_10,Scope,learned ranking,10,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_11,Scope,catalogue,11,False,243,1,0,True,False,False,True,False,False
+Net3,Net3_test_11,Scope,learned ranking,11,False,335,1,0,False,False,False,False,False,False
+Net3,Net3_test_12,Scope,catalogue,12,True,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_12,Scope,learned ranking,12,True,335,1,0,True,False,False,False,True,False
+Net3,Net3_test_13,Scope,catalogue,13,True,20,1,0,True,False,False,False,True,False
+Net3,Net3_test_13,Scope,learned ranking,13,True,335,1,0,False,False,False,False,False,False
+Net3,Net3_test_14,Scope,catalogue,14,True,335,1,0,False,False,False,False,False,False
+Net3,Net3_test_14,Scope,learned ranking,14,True,335,1,0,False,False,False,False,False,False
+Net3,Net3_test_15,Scope,catalogue,15,True,243,1,0,True,False,False,False,True,False
+Net3,Net3_test_15,Scope,learned ranking,15,True,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_16,Scope,catalogue,16,True,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_16,Scope,learned ranking,16,True,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_17,Scope,catalogue,17,True,241,1,0,True,False,False,False,True,False
+Net3,Net3_test_17,Scope,learned ranking,17,True,60,1,0,True,True,False,True,False,False
+Net3,Net3_test_18,Scope,catalogue,18,True,243,1,0,True,False,False,True,False,False
+Net3,Net3_test_18,Scope,learned ranking,18,True,335,1,0,True,False,False,True,False,False
+Net3,Net3_test_19,Scope,catalogue,19,True,240,1,0,True,False,False,False,True,False
+Net3,Net3_test_19,Scope,learned ranking,19,True,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_20,Scope,catalogue,20,True,240,1,0,True,False,False,True,False,False
+Net3,Net3_test_20,Scope,learned ranking,20,True,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_21,Scope,catalogue,21,True,243,1,0,True,False,False,False,True,False
+Net3,Net3_test_21,Scope,learned ranking,21,True,60,1,0,True,True,False,True,False,False
+Net3,Net3_test_22,Scope,catalogue,22,True,238,1,0,True,False,False,True,False,False
+Net3,Net3_test_22,Scope,learned ranking,22,True,238,1,0,True,False,False,True,False,False
+Net3,Net3_test_23,Scope,catalogue,23,True,240,1,0,True,True,False,False,False,False
+Net3,Net3_test_23,Scope,learned ranking,23,True,60,1,0,True,False,True,False,False,False
+Net3,Net3_test_00,Storage rule,catalogue,0,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_00,Storage rule,learned ranking,0,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_01,Storage rule,catalogue,1,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_01,Storage rule,learned ranking,1,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_02,Storage rule,catalogue,2,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_02,Storage rule,learned ranking,2,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_03,Storage rule,catalogue,3,False,243,1,0,True,False,False,True,False,False
+Net3,Net3_test_03,Storage rule,learned ranking,3,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_04,Storage rule,catalogue,4,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_04,Storage rule,learned ranking,4,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_05,Storage rule,catalogue,5,False,20,2,0,True,False,False,False,True,False
+Net3,Net3_test_05,Storage rule,learned ranking,5,False,20,3,0,True,False,False,False,True,False
+Net3,Net3_test_06,Storage rule,catalogue,6,False,20,1,0,True,False,False,False,True,False
+Net3,Net3_test_06,Storage rule,learned ranking,6,False,20,4,0,True,False,False,False,True,False
+Net3,Net3_test_07,Storage rule,catalogue,7,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_07,Storage rule,learned ranking,7,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_08,Storage rule,catalogue,8,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_08,Storage rule,learned ranking,8,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_09,Storage rule,catalogue,9,False,243,1,0,True,False,False,False,True,False
+Net3,Net3_test_09,Storage rule,learned ranking,9,False,238,2,0,True,False,False,False,True,False
+Net3,Net3_test_10,Storage rule,catalogue,10,False,20,2,0,True,False,False,False,True,False
+Net3,Net3_test_10,Storage rule,learned ranking,10,False,20,4,0,True,False,False,False,True,False
+Net3,Net3_test_11,Storage rule,catalogue,11,False,20,3,0,True,False,False,False,True,False
+Net3,Net3_test_11,Storage rule,learned ranking,11,False,20,4,0,True,False,False,False,True,False
+Net3,Net3_test_12,Storage rule,catalogue,12,True,20,2,0,True,False,False,False,True,False
+Net3,Net3_test_12,Storage rule,learned ranking,12,True,20,4,0,True,False,False,False,True,False
+Net3,Net3_test_13,Storage rule,catalogue,13,True,20,1,0,True,False,False,False,True,False
+Net3,Net3_test_13,Storage rule,learned ranking,13,True,20,2,0,True,False,False,False,True,False
+Net3,Net3_test_14,Storage rule,catalogue,14,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_14,Storage rule,learned ranking,14,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_15,Storage rule,catalogue,15,True,60,2,0,True,False,False,True,False,False
+Net3,Net3_test_15,Storage rule,learned ranking,15,True,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_16,Storage rule,catalogue,16,True,20,2,0,True,False,False,False,True,False
+Net3,Net3_test_16,Storage rule,learned ranking,16,True,20,3,0,True,False,False,False,True,False
+Net3,Net3_test_17,Storage rule,catalogue,17,True,20,4,0,True,False,False,False,True,False
+Net3,Net3_test_17,Storage rule,learned ranking,17,True,20,3,0,True,False,False,False,True,False
+Net3,Net3_test_18,Storage rule,catalogue,18,True,20,3,0,True,False,False,False,True,False
+Net3,Net3_test_18,Storage rule,learned ranking,18,True,20,4,0,True,False,False,False,True,False
+Net3,Net3_test_19,Storage rule,catalogue,19,True,240,1,0,True,False,False,False,True,False
+Net3,Net3_test_19,Storage rule,learned ranking,19,True,241,2,0,True,False,False,False,True,False
+Net3,Net3_test_20,Storage rule,catalogue,20,True,240,1,0,True,False,False,True,False,False
+Net3,Net3_test_20,Storage rule,learned ranking,20,True,241,2,0,True,False,False,True,False,False
+Net3,Net3_test_21,Storage rule,catalogue,21,True,243,1,0,True,False,False,False,True,False
+Net3,Net3_test_21,Storage rule,learned ranking,21,True,238,2,0,True,False,False,False,True,False
+Net3,Net3_test_22,Storage rule,catalogue,22,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_22,Storage rule,learned ranking,22,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_23,Storage rule,catalogue,23,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_23,Storage rule,learned ranking,23,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_00,Hold RF,catalogue,0,False,335,1,0,False,False,False,False,False,False
+Net3,Net3_test_00,Hold RF,learned ranking,0,False,335,1,0,False,False,False,False,False,False
+Net3,Net3_test_01,Hold RF,catalogue,1,False,238,1,0,True,False,False,True,False,False
+Net3,Net3_test_01,Hold RF,learned ranking,1,False,243,1,0,True,False,False,True,False,False
+Net3,Net3_test_02,Hold RF,catalogue,2,False,240,1,0,True,False,False,True,False,False
+Net3,Net3_test_02,Hold RF,learned ranking,2,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_03,Hold RF,catalogue,3,False,243,1,0,True,False,False,True,False,False
+Net3,Net3_test_03,Hold RF,learned ranking,3,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_04,Hold RF,catalogue,4,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_04,Hold RF,learned ranking,4,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_05,Hold RF,catalogue,5,False,60,1,0,True,False,True,False,False,False
+Net3,Net3_test_05,Hold RF,learned ranking,5,False,335,1,0,False,False,False,False,False,False
+Net3,Net3_test_06,Hold RF,catalogue,6,False,20,1,0,True,False,False,False,True,False
+Net3,Net3_test_06,Hold RF,learned ranking,6,False,335,1,0,True,False,False,False,True,False
+Net3,Net3_test_07,Hold RF,catalogue,7,False,335,1,0,True,False,False,False,True,False
+Net3,Net3_test_07,Hold RF,learned ranking,7,False,335,1,0,True,False,False,False,True,False
+Net3,Net3_test_08,Hold RF,catalogue,8,False,240,1,0,True,False,False,True,False,False
+Net3,Net3_test_08,Hold RF,learned ranking,8,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_09,Hold RF,catalogue,9,False,243,1,0,True,False,False,False,True,False
+Net3,Net3_test_09,Hold RF,learned ranking,9,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_10,Hold RF,catalogue,10,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_10,Hold RF,learned ranking,10,False,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_11,Hold RF,catalogue,11,False,243,1,0,True,False,False,True,False,False
+Net3,Net3_test_11,Hold RF,learned ranking,11,False,335,1,0,False,False,False,False,False,False
+Net3,Net3_test_12,Hold RF,catalogue,12,True,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_12,Hold RF,learned ranking,12,True,335,1,0,True,False,False,False,True,False
+Net3,Net3_test_13,Hold RF,catalogue,13,True,20,1,0,True,False,False,False,True,False
+Net3,Net3_test_13,Hold RF,learned ranking,13,True,335,1,0,False,False,False,False,False,False
+Net3,Net3_test_14,Hold RF,catalogue,14,True,335,1,0,False,False,False,False,False,False
+Net3,Net3_test_14,Hold RF,learned ranking,14,True,335,1,0,False,False,False,False,False,False
+Net3,Net3_test_15,Hold RF,catalogue,15,True,243,1,0,True,False,False,False,True,False
+Net3,Net3_test_15,Hold RF,learned ranking,15,True,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_16,Hold RF,catalogue,16,True,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_16,Hold RF,learned ranking,16,True,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_17,Hold RF,catalogue,17,True,241,1,0,True,False,False,False,True,False
+Net3,Net3_test_17,Hold RF,learned ranking,17,True,60,1,0,True,True,False,True,False,False
+Net3,Net3_test_18,Hold RF,catalogue,18,True,243,1,0,True,False,False,True,False,False
+Net3,Net3_test_18,Hold RF,learned ranking,18,True,335,1,0,True,False,False,True,False,False
+Net3,Net3_test_19,Hold RF,catalogue,19,True,240,1,0,True,False,False,False,True,False
+Net3,Net3_test_19,Hold RF,learned ranking,19,True,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_20,Hold RF,catalogue,20,True,240,1,0,True,False,False,True,False,False
+Net3,Net3_test_20,Hold RF,learned ranking,20,True,60,1,0,True,False,False,True,False,False
+Net3,Net3_test_21,Hold RF,catalogue,21,True,243,1,0,True,False,False,False,True,False
+Net3,Net3_test_21,Hold RF,learned ranking,21,True,60,1,0,True,True,False,True,False,False
+Net3,Net3_test_22,Hold RF,catalogue,22,True,238,1,0,True,False,False,True,False,False
+Net3,Net3_test_22,Hold RF,learned ranking,22,True,238,1,0,True,False,False,True,False,False
+Net3,Net3_test_23,Hold RF,catalogue,23,True,240,1,0,True,True,False,False,False,False
+Net3,Net3_test_23,Hold RF,learned ranking,23,True,60,1,0,True,False,True,False,False,False
+Net3,Net3_test_00,Whole RF,catalogue,0,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_00,Whole RF,learned ranking,0,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_01,Whole RF,catalogue,1,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_01,Whole RF,learned ranking,1,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_02,Whole RF,catalogue,2,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_02,Whole RF,learned ranking,2,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_03,Whole RF,catalogue,3,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_03,Whole RF,learned ranking,3,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_04,Whole RF,catalogue,4,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_04,Whole RF,learned ranking,4,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_05,Whole RF,catalogue,5,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_05,Whole RF,learned ranking,5,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_06,Whole RF,catalogue,6,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_06,Whole RF,learned ranking,6,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_07,Whole RF,catalogue,7,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_07,Whole RF,learned ranking,7,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_08,Whole RF,catalogue,8,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_08,Whole RF,learned ranking,8,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_09,Whole RF,catalogue,9,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_09,Whole RF,learned ranking,9,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_10,Whole RF,catalogue,10,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_10,Whole RF,learned ranking,10,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_11,Whole RF,catalogue,11,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_11,Whole RF,learned ranking,11,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_12,Whole RF,catalogue,12,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_12,Whole RF,learned ranking,12,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_13,Whole RF,catalogue,13,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_13,Whole RF,learned ranking,13,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_14,Whole RF,catalogue,14,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_14,Whole RF,learned ranking,14,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_15,Whole RF,catalogue,15,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_15,Whole RF,learned ranking,15,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_16,Whole RF,catalogue,16,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_16,Whole RF,learned ranking,16,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_17,Whole RF,catalogue,17,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_17,Whole RF,learned ranking,17,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_18,Whole RF,catalogue,18,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_18,Whole RF,learned ranking,18,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_19,Whole RF,catalogue,19,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_19,Whole RF,learned ranking,19,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_20,Whole RF,catalogue,20,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_20,Whole RF,learned ranking,20,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_21,Whole RF,catalogue,21,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_21,Whole RF,learned ranking,21,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_22,Whole RF,catalogue,22,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_22,Whole RF,learned ranking,22,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_23,Whole RF,catalogue,23,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_23,Whole RF,learned ranking,23,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_00,Calibrated whole RF,catalogue,0,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_00,Calibrated whole RF,learned ranking,0,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_01,Calibrated whole RF,catalogue,1,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_01,Calibrated whole RF,learned ranking,1,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_02,Calibrated whole RF,catalogue,2,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_02,Calibrated whole RF,learned ranking,2,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_03,Calibrated whole RF,catalogue,3,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_03,Calibrated whole RF,learned ranking,3,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_04,Calibrated whole RF,catalogue,4,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_04,Calibrated whole RF,learned ranking,4,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_05,Calibrated whole RF,catalogue,5,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_05,Calibrated whole RF,learned ranking,5,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_06,Calibrated whole RF,catalogue,6,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_06,Calibrated whole RF,learned ranking,6,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_07,Calibrated whole RF,catalogue,7,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_07,Calibrated whole RF,learned ranking,7,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_08,Calibrated whole RF,catalogue,8,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_08,Calibrated whole RF,learned ranking,8,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_09,Calibrated whole RF,catalogue,9,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_09,Calibrated whole RF,learned ranking,9,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_10,Calibrated whole RF,catalogue,10,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_10,Calibrated whole RF,learned ranking,10,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_11,Calibrated whole RF,catalogue,11,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_11,Calibrated whole RF,learned ranking,11,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_12,Calibrated whole RF,catalogue,12,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_12,Calibrated whole RF,learned ranking,12,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_13,Calibrated whole RF,catalogue,13,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_13,Calibrated whole RF,learned ranking,13,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_14,Calibrated whole RF,catalogue,14,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_14,Calibrated whole RF,learned ranking,14,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_15,Calibrated whole RF,catalogue,15,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_15,Calibrated whole RF,learned ranking,15,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_16,Calibrated whole RF,catalogue,16,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_16,Calibrated whole RF,learned ranking,16,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_17,Calibrated whole RF,catalogue,17,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_17,Calibrated whole RF,learned ranking,17,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_18,Calibrated whole RF,catalogue,18,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_18,Calibrated whole RF,learned ranking,18,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_19,Calibrated whole RF,catalogue,19,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_19,Calibrated whole RF,learned ranking,19,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_20,Calibrated whole RF,catalogue,20,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_20,Calibrated whole RF,learned ranking,20,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_21,Calibrated whole RF,catalogue,21,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_21,Calibrated whole RF,learned ranking,21,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_22,Calibrated whole RF,catalogue,22,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_22,Calibrated whole RF,learned ranking,22,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_23,Calibrated whole RF,catalogue,23,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_23,Calibrated whole RF,learned ranking,23,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_00,Nominal hold,catalogue,0,False,238,2,2,True,False,False,True,False,False
+Net3,Net3_test_00,Nominal hold,learned ranking,0,False,240,2,2,True,False,False,True,False,False
+Net3,Net3_test_01,Nominal hold,catalogue,1,False,238,1,1,True,False,False,True,False,False
+Net3,Net3_test_01,Nominal hold,learned ranking,1,False,243,1,1,True,False,False,True,False,False
+Net3,Net3_test_02,Nominal hold,catalogue,2,False,240,1,1,True,False,False,True,False,False
+Net3,Net3_test_02,Nominal hold,learned ranking,2,False,60,1,1,True,False,False,True,False,False
+Net3,Net3_test_03,Nominal hold,catalogue,3,False,243,1,1,True,False,False,True,False,False
+Net3,Net3_test_03,Nominal hold,learned ranking,3,False,60,1,1,True,False,False,True,False,False
+Net3,Net3_test_04,Nominal hold,catalogue,4,False,60,1,1,True,False,False,True,False,False
+Net3,Net3_test_04,Nominal hold,learned ranking,4,False,60,1,1,True,False,False,True,False,False
+Net3,Net3_test_05,Nominal hold,catalogue,5,False,60,1,1,True,False,True,False,False,False
+Net3,Net3_test_05,Nominal hold,learned ranking,5,False,60,2,2,True,False,True,False,False,False
+Net3,Net3_test_06,Nominal hold,catalogue,6,False,20,1,1,True,False,False,False,True,False
+Net3,Net3_test_06,Nominal hold,learned ranking,6,False,335,1,1,True,False,False,False,True,False
+Net3,Net3_test_07,Nominal hold,catalogue,7,False,335,1,1,True,False,False,False,True,False
+Net3,Net3_test_07,Nominal hold,learned ranking,7,False,335,1,1,True,False,False,False,True,False
+Net3,Net3_test_08,Nominal hold,catalogue,8,False,240,1,1,True,False,False,True,False,False
+Net3,Net3_test_08,Nominal hold,learned ranking,8,False,60,1,1,True,False,False,True,False,False
+Net3,Net3_test_09,Nominal hold,catalogue,9,False,243,1,1,True,False,False,False,True,False
+Net3,Net3_test_09,Nominal hold,learned ranking,9,False,60,1,1,True,False,False,True,False,False
+Net3,Net3_test_10,Nominal hold,catalogue,10,False,60,1,1,True,False,False,True,False,False
+Net3,Net3_test_10,Nominal hold,learned ranking,10,False,60,1,1,True,False,False,True,False,False
+Net3,Net3_test_11,Nominal hold,catalogue,11,False,243,1,1,True,False,False,True,False,False
+Net3,Net3_test_11,Nominal hold,learned ranking,11,False,60,2,2,True,False,True,False,False,False
+Net3,Net3_test_12,Nominal hold,catalogue,12,True,60,1,1,True,False,False,True,False,False
+Net3,Net3_test_12,Nominal hold,learned ranking,12,True,60,2,2,True,False,False,True,False,False
+Net3,Net3_test_13,Nominal hold,catalogue,13,True,20,1,1,True,False,False,False,True,False
+Net3,Net3_test_13,Nominal hold,learned ranking,13,True,20,2,2,True,False,False,False,True,False
+Net3,Net3_test_14,Nominal hold,catalogue,14,True,238,2,2,True,False,False,True,False,False
+Net3,Net3_test_14,Nominal hold,learned ranking,14,True,240,2,2,True,False,False,True,False,False
+Net3,Net3_test_15,Nominal hold,catalogue,15,True,243,1,1,True,False,False,False,True,False
+Net3,Net3_test_15,Nominal hold,learned ranking,15,True,60,1,1,True,False,False,True,False,False
+Net3,Net3_test_16,Nominal hold,catalogue,16,True,60,1,1,True,False,False,True,False,False
+Net3,Net3_test_16,Nominal hold,learned ranking,16,True,60,1,1,True,False,False,True,False,False
+Net3,Net3_test_17,Nominal hold,catalogue,17,True,241,1,1,True,False,False,False,True,False
+Net3,Net3_test_17,Nominal hold,learned ranking,17,True,60,1,1,True,True,False,True,False,False
+Net3,Net3_test_18,Nominal hold,catalogue,18,True,243,1,1,True,False,False,True,False,False
+Net3,Net3_test_18,Nominal hold,learned ranking,18,True,335,1,1,True,False,False,True,False,False
+Net3,Net3_test_19,Nominal hold,catalogue,19,True,240,1,1,True,False,False,False,True,False
+Net3,Net3_test_19,Nominal hold,learned ranking,19,True,60,1,1,True,False,False,True,False,False
+Net3,Net3_test_20,Nominal hold,catalogue,20,True,240,1,1,True,False,False,True,False,False
+Net3,Net3_test_20,Nominal hold,learned ranking,20,True,60,1,1,True,False,False,True,False,False
+Net3,Net3_test_21,Nominal hold,catalogue,21,True,243,1,1,True,False,False,False,True,False
+Net3,Net3_test_21,Nominal hold,learned ranking,21,True,60,1,1,True,True,False,True,False,False
+Net3,Net3_test_22,Nominal hold,catalogue,22,True,238,1,1,True,False,False,True,False,False
+Net3,Net3_test_22,Nominal hold,learned ranking,22,True,238,1,1,True,False,False,True,False,False
+Net3,Net3_test_23,Nominal hold,catalogue,23,True,240,1,1,True,True,False,False,False,False
+Net3,Net3_test_23,Nominal hold,learned ranking,23,True,60,1,1,True,False,True,False,False,False
+Net3,Net3_test_00,Nominal task,catalogue,0,False,,4,4,False,False,False,False,False,True
+Net3,Net3_test_00,Nominal task,learned ranking,0,False,,4,4,False,False,False,False,False,True
+Net3,Net3_test_01,Nominal task,catalogue,1,False,,4,4,False,False,False,False,False,True
+Net3,Net3_test_01,Nominal task,learned ranking,1,False,,4,4,False,False,False,False,False,True
+Net3,Net3_test_02,Nominal task,catalogue,2,False,,4,4,False,False,False,False,False,True
+Net3,Net3_test_02,Nominal task,learned ranking,2,False,,4,4,False,False,False,False,False,True
+Net3,Net3_test_03,Nominal task,catalogue,3,False,,4,4,False,False,False,False,False,True
+Net3,Net3_test_03,Nominal task,learned ranking,3,False,,4,4,False,False,False,False,False,True
+Net3,Net3_test_04,Nominal task,catalogue,4,False,20,2,2,True,False,False,False,True,False
+Net3,Net3_test_04,Nominal task,learned ranking,4,False,20,3,3,True,False,False,False,True,False
+Net3,Net3_test_05,Nominal task,catalogue,5,False,20,2,2,True,False,False,False,True,False
+Net3,Net3_test_05,Nominal task,learned ranking,5,False,20,3,3,True,False,False,False,True,False
+Net3,Net3_test_06,Nominal task,catalogue,6,False,20,1,1,True,False,False,False,True,False
+Net3,Net3_test_06,Nominal task,learned ranking,6,False,335,1,1,True,False,False,False,True,False
+Net3,Net3_test_07,Nominal task,catalogue,7,False,335,1,1,True,False,False,False,True,False
+Net3,Net3_test_07,Nominal task,learned ranking,7,False,335,1,1,True,False,False,False,True,False
+Net3,Net3_test_08,Nominal task,catalogue,8,False,,4,4,False,False,False,False,False,True
+Net3,Net3_test_08,Nominal task,learned ranking,8,False,,4,4,False,False,False,False,False,True
+Net3,Net3_test_09,Nominal task,catalogue,9,False,243,1,1,True,False,False,False,True,False
+Net3,Net3_test_09,Nominal task,learned ranking,9,False,238,2,2,True,False,False,False,True,False
+Net3,Net3_test_10,Nominal task,catalogue,10,False,20,2,2,True,False,False,False,True,False
+Net3,Net3_test_10,Nominal task,learned ranking,10,False,20,4,4,True,False,False,False,True,False
+Net3,Net3_test_11,Nominal task,catalogue,11,False,20,3,3,True,False,False,False,True,False
+Net3,Net3_test_11,Nominal task,learned ranking,11,False,20,4,4,True,False,False,False,True,False
+Net3,Net3_test_12,Nominal task,catalogue,12,True,20,2,2,True,False,False,False,True,False
+Net3,Net3_test_12,Nominal task,learned ranking,12,True,20,4,4,True,False,False,False,True,False
+Net3,Net3_test_13,Nominal task,catalogue,13,True,20,1,1,True,False,False,False,True,False
+Net3,Net3_test_13,Nominal task,learned ranking,13,True,20,2,2,True,False,False,False,True,False
+Net3,Net3_test_14,Nominal task,catalogue,14,True,,4,4,False,False,False,False,False,True
+Net3,Net3_test_14,Nominal task,learned ranking,14,True,,4,4,False,False,False,False,False,True
+Net3,Net3_test_15,Nominal task,catalogue,15,True,243,1,1,True,False,False,False,True,False
+Net3,Net3_test_15,Nominal task,learned ranking,15,True,20,2,2,True,False,False,False,True,False
+Net3,Net3_test_16,Nominal task,catalogue,16,True,20,2,2,True,False,False,False,True,False
+Net3,Net3_test_16,Nominal task,learned ranking,16,True,20,3,3,True,False,False,False,True,False
+Net3,Net3_test_17,Nominal task,catalogue,17,True,20,4,4,True,False,False,False,True,False
+Net3,Net3_test_17,Nominal task,learned ranking,17,True,20,3,3,True,False,False,False,True,False
+Net3,Net3_test_18,Nominal task,catalogue,18,True,243,1,1,True,False,False,True,False,False
+Net3,Net3_test_18,Nominal task,learned ranking,18,True,335,1,1,True,False,False,True,False,False
+Net3,Net3_test_19,Nominal task,catalogue,19,True,240,1,1,True,False,False,False,True,False
+Net3,Net3_test_19,Nominal task,learned ranking,19,True,241,2,2,True,False,False,False,True,False
+Net3,Net3_test_20,Nominal task,catalogue,20,True,,4,4,False,False,False,False,False,True
+Net3,Net3_test_20,Nominal task,learned ranking,20,True,,4,4,False,False,False,False,False,True
+Net3,Net3_test_21,Nominal task,catalogue,21,True,243,1,1,True,False,False,False,True,False
+Net3,Net3_test_21,Nominal task,learned ranking,21,True,238,2,2,True,False,False,False,True,False
+Net3,Net3_test_22,Nominal task,catalogue,22,True,,4,4,False,False,False,False,False,True
+Net3,Net3_test_22,Nominal task,learned ranking,22,True,,4,4,False,False,False,False,False,True
+Net3,Net3_test_23,Nominal task,catalogue,23,True,,4,4,False,False,False,False,False,True
+Net3,Net3_test_23,Nominal task,learned ranking,23,True,,4,4,False,False,False,False,False,True
+Net3,Net3_test_00,Robust hold,catalogue,0,False,238,2,6,True,False,False,True,False,False
+Net3,Net3_test_00,Robust hold,learned ranking,0,False,240,2,6,True,False,False,True,False,False
+Net3,Net3_test_01,Robust hold,catalogue,1,False,238,1,3,True,False,False,True,False,False
+Net3,Net3_test_01,Robust hold,learned ranking,1,False,243,1,3,True,False,False,True,False,False
+Net3,Net3_test_02,Robust hold,catalogue,2,False,240,1,3,True,False,False,True,False,False
+Net3,Net3_test_02,Robust hold,learned ranking,2,False,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_03,Robust hold,catalogue,3,False,243,1,3,True,False,False,True,False,False
+Net3,Net3_test_03,Robust hold,learned ranking,3,False,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_04,Robust hold,catalogue,4,False,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_04,Robust hold,learned ranking,4,False,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_05,Robust hold,catalogue,5,False,60,1,3,True,False,True,False,False,False
+Net3,Net3_test_05,Robust hold,learned ranking,5,False,60,2,6,True,False,True,False,False,False
+Net3,Net3_test_06,Robust hold,catalogue,6,False,20,1,3,True,False,False,False,True,False
+Net3,Net3_test_06,Robust hold,learned ranking,6,False,240,2,6,True,False,False,True,False,False
+Net3,Net3_test_07,Robust hold,catalogue,7,False,238,2,6,True,False,False,True,False,False
+Net3,Net3_test_07,Robust hold,learned ranking,7,False,241,2,6,True,False,False,True,False,False
+Net3,Net3_test_08,Robust hold,catalogue,8,False,240,1,3,True,False,False,True,False,False
+Net3,Net3_test_08,Robust hold,learned ranking,8,False,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_09,Robust hold,catalogue,9,False,243,1,3,True,False,False,False,True,False
+Net3,Net3_test_09,Robust hold,learned ranking,9,False,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_10,Robust hold,catalogue,10,False,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_10,Robust hold,learned ranking,10,False,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_11,Robust hold,catalogue,11,False,243,1,3,True,False,False,True,False,False
+Net3,Net3_test_11,Robust hold,learned ranking,11,False,60,2,6,True,False,True,False,False,False
+Net3,Net3_test_12,Robust hold,catalogue,12,True,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_12,Robust hold,learned ranking,12,True,60,2,6,True,False,False,True,False,False
+Net3,Net3_test_13,Robust hold,catalogue,13,True,20,1,3,True,False,False,False,True,False
+Net3,Net3_test_13,Robust hold,learned ranking,13,True,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_14,Robust hold,catalogue,14,True,238,2,6,True,False,False,True,False,False
+Net3,Net3_test_14,Robust hold,learned ranking,14,True,240,2,6,True,False,False,True,False,False
+Net3,Net3_test_15,Robust hold,catalogue,15,True,243,1,3,True,False,False,False,True,False
+Net3,Net3_test_15,Robust hold,learned ranking,15,True,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_16,Robust hold,catalogue,16,True,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_16,Robust hold,learned ranking,16,True,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_17,Robust hold,catalogue,17,True,241,1,3,True,False,False,False,True,False
+Net3,Net3_test_17,Robust hold,learned ranking,17,True,60,1,3,True,True,False,True,False,False
+Net3,Net3_test_18,Robust hold,catalogue,18,True,243,1,3,True,False,False,True,False,False
+Net3,Net3_test_18,Robust hold,learned ranking,18,True,60,2,6,True,False,False,True,False,False
+Net3,Net3_test_19,Robust hold,catalogue,19,True,240,1,3,True,False,False,False,True,False
+Net3,Net3_test_19,Robust hold,learned ranking,19,True,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_20,Robust hold,catalogue,20,True,240,1,3,True,False,False,True,False,False
+Net3,Net3_test_20,Robust hold,learned ranking,20,True,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_21,Robust hold,catalogue,21,True,243,1,3,True,False,False,False,True,False
+Net3,Net3_test_21,Robust hold,learned ranking,21,True,60,1,3,True,True,False,True,False,False
+Net3,Net3_test_22,Robust hold,catalogue,22,True,238,1,3,True,False,False,True,False,False
+Net3,Net3_test_22,Robust hold,learned ranking,22,True,238,1,3,True,False,False,True,False,False
+Net3,Net3_test_23,Robust hold,catalogue,23,True,240,1,3,True,True,False,False,False,False
+Net3,Net3_test_23,Robust hold,learned ranking,23,True,60,1,3,True,False,True,False,False,False
+Net3,Net3_test_00,Robust whole,catalogue,0,False,238,2,6,True,False,False,True,False,False
+Net3,Net3_test_00,Robust whole,learned ranking,0,False,240,2,6,True,False,False,True,False,False
+Net3,Net3_test_01,Robust whole,catalogue,1,False,238,1,3,True,False,False,True,False,False
+Net3,Net3_test_01,Robust whole,learned ranking,1,False,243,1,3,True,False,False,True,False,False
+Net3,Net3_test_02,Robust whole,catalogue,2,False,240,1,3,True,False,False,True,False,False
+Net3,Net3_test_02,Robust whole,learned ranking,2,False,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_03,Robust whole,catalogue,3,False,243,1,3,True,False,False,True,False,False
+Net3,Net3_test_03,Robust whole,learned ranking,3,False,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_04,Robust whole,catalogue,4,False,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_04,Robust whole,learned ranking,4,False,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_05,Robust whole,catalogue,5,False,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_05,Robust whole,learned ranking,5,False,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_06,Robust whole,catalogue,6,False,20,1,3,True,False,False,False,True,False
+Net3,Net3_test_06,Robust whole,learned ranking,6,False,240,2,6,True,False,False,True,False,False
+Net3,Net3_test_07,Robust whole,catalogue,7,False,238,2,6,True,False,False,True,False,False
+Net3,Net3_test_07,Robust whole,learned ranking,7,False,241,2,6,True,False,False,True,False,False
+Net3,Net3_test_08,Robust whole,catalogue,8,False,240,1,3,True,False,False,True,False,False
+Net3,Net3_test_08,Robust whole,learned ranking,8,False,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_09,Robust whole,catalogue,9,False,243,1,3,True,False,False,False,True,False
+Net3,Net3_test_09,Robust whole,learned ranking,9,False,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_10,Robust whole,catalogue,10,False,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_10,Robust whole,learned ranking,10,False,240,2,6,True,False,False,True,False,False
+Net3,Net3_test_11,Robust whole,catalogue,11,False,243,1,3,True,False,False,True,False,False
+Net3,Net3_test_11,Robust whole,learned ranking,11,False,243,3,9,True,False,False,True,False,False
+Net3,Net3_test_12,Robust whole,catalogue,12,True,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_12,Robust whole,learned ranking,12,True,60,2,6,True,False,False,True,False,False
+Net3,Net3_test_13,Robust whole,catalogue,13,True,20,1,3,True,False,False,False,True,False
+Net3,Net3_test_13,Robust whole,learned ranking,13,True,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_14,Robust whole,catalogue,14,True,238,2,6,True,False,False,True,False,False
+Net3,Net3_test_14,Robust whole,learned ranking,14,True,240,2,6,True,False,False,True,False,False
+Net3,Net3_test_15,Robust whole,catalogue,15,True,243,1,3,True,False,False,False,True,False
+Net3,Net3_test_15,Robust whole,learned ranking,15,True,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_16,Robust whole,catalogue,16,True,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_16,Robust whole,learned ranking,16,True,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_17,Robust whole,catalogue,17,True,241,1,3,True,False,False,False,True,False
+Net3,Net3_test_17,Robust whole,learned ranking,17,True,243,2,6,True,False,False,False,True,False
+Net3,Net3_test_18,Robust whole,catalogue,18,True,243,1,3,True,False,False,True,False,False
+Net3,Net3_test_18,Robust whole,learned ranking,18,True,60,2,6,True,False,False,True,False,False
+Net3,Net3_test_19,Robust whole,catalogue,19,True,240,1,3,True,False,False,False,True,False
+Net3,Net3_test_19,Robust whole,learned ranking,19,True,60,1,3,True,False,False,True,False,False
+Net3,Net3_test_20,Robust whole,catalogue,20,True,240,1,3,True,False,False,True,False,False
+Net3,Net3_test_20,Robust whole,learned ranking,20,True,241,2,6,True,False,False,True,False,False
+Net3,Net3_test_21,Robust whole,catalogue,21,True,243,1,3,True,False,False,False,True,False
+Net3,Net3_test_21,Robust whole,learned ranking,21,True,60,1,3,True,True,False,True,False,False
+Net3,Net3_test_22,Robust whole,catalogue,22,True,238,1,3,True,False,False,True,False,False
+Net3,Net3_test_22,Robust whole,learned ranking,22,True,238,1,3,True,False,False,True,False,False
+Net3,Net3_test_23,Robust whole,catalogue,23,True,240,1,3,True,True,False,False,False,False
+Net3,Net3_test_23,Robust whole,learned ranking,23,True,243,2,6,True,True,False,False,False,False
+Net3,Net3_test_00,Robust task no validity,catalogue,0,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_00,Robust task no validity,learned ranking,0,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_01,Robust task no validity,catalogue,1,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_01,Robust task no validity,learned ranking,1,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_02,Robust task no validity,catalogue,2,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_02,Robust task no validity,learned ranking,2,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_03,Robust task no validity,catalogue,3,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_03,Robust task no validity,learned ranking,3,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_04,Robust task no validity,catalogue,4,False,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_04,Robust task no validity,learned ranking,4,False,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_05,Robust task no validity,catalogue,5,False,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_05,Robust task no validity,learned ranking,5,False,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_06,Robust task no validity,catalogue,6,False,20,1,3,True,False,False,False,True,False
+Net3,Net3_test_06,Robust task no validity,learned ranking,6,False,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_07,Robust task no validity,catalogue,7,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_07,Robust task no validity,learned ranking,7,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_08,Robust task no validity,catalogue,8,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_08,Robust task no validity,learned ranking,8,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_09,Robust task no validity,catalogue,9,False,243,1,3,True,False,False,False,True,False
+Net3,Net3_test_09,Robust task no validity,learned ranking,9,False,238,2,6,True,False,False,False,True,False
+Net3,Net3_test_10,Robust task no validity,catalogue,10,False,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_10,Robust task no validity,learned ranking,10,False,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_11,Robust task no validity,catalogue,11,False,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_11,Robust task no validity,learned ranking,11,False,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_12,Robust task no validity,catalogue,12,True,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_12,Robust task no validity,learned ranking,12,True,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_13,Robust task no validity,catalogue,13,True,20,1,3,True,False,False,False,True,False
+Net3,Net3_test_13,Robust task no validity,learned ranking,13,True,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_14,Robust task no validity,catalogue,14,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_14,Robust task no validity,learned ranking,14,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_15,Robust task no validity,catalogue,15,True,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_15,Robust task no validity,learned ranking,15,True,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_16,Robust task no validity,catalogue,16,True,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_16,Robust task no validity,learned ranking,16,True,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_17,Robust task no validity,catalogue,17,True,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_17,Robust task no validity,learned ranking,17,True,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_18,Robust task no validity,catalogue,18,True,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_18,Robust task no validity,learned ranking,18,True,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_19,Robust task no validity,catalogue,19,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_19,Robust task no validity,learned ranking,19,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_20,Robust task no validity,catalogue,20,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_20,Robust task no validity,learned ranking,20,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_21,Robust task no validity,catalogue,21,True,243,1,3,True,False,False,False,True,False
+Net3,Net3_test_21,Robust task no validity,learned ranking,21,True,238,2,6,True,False,False,False,True,False
+Net3,Net3_test_22,Robust task no validity,catalogue,22,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_22,Robust task no validity,learned ranking,22,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_23,Robust task no validity,catalogue,23,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_23,Robust task no validity,learned ranking,23,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_00,Robust task,catalogue,0,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_00,Robust task,learned ranking,0,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_01,Robust task,catalogue,1,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_01,Robust task,learned ranking,1,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_02,Robust task,catalogue,2,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_02,Robust task,learned ranking,2,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_03,Robust task,catalogue,3,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_03,Robust task,learned ranking,3,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_04,Robust task,catalogue,4,False,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_04,Robust task,learned ranking,4,False,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_05,Robust task,catalogue,5,False,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_05,Robust task,learned ranking,5,False,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_06,Robust task,catalogue,6,False,20,1,3,True,False,False,False,True,False
+Net3,Net3_test_06,Robust task,learned ranking,6,False,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_07,Robust task,catalogue,7,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_07,Robust task,learned ranking,7,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_08,Robust task,catalogue,8,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_08,Robust task,learned ranking,8,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_09,Robust task,catalogue,9,False,243,1,3,True,False,False,False,True,False
+Net3,Net3_test_09,Robust task,learned ranking,9,False,238,2,6,True,False,False,False,True,False
+Net3,Net3_test_10,Robust task,catalogue,10,False,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_10,Robust task,learned ranking,10,False,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_11,Robust task,catalogue,11,False,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_11,Robust task,learned ranking,11,False,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_12,Robust task,catalogue,12,True,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_12,Robust task,learned ranking,12,True,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_13,Robust task,catalogue,13,True,20,1,3,True,False,False,False,True,False
+Net3,Net3_test_13,Robust task,learned ranking,13,True,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_14,Robust task,catalogue,14,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_14,Robust task,learned ranking,14,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_15,Robust task,catalogue,15,True,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_15,Robust task,learned ranking,15,True,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_16,Robust task,catalogue,16,True,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_16,Robust task,learned ranking,16,True,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_17,Robust task,catalogue,17,True,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_17,Robust task,learned ranking,17,True,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_18,Robust task,catalogue,18,True,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_18,Robust task,learned ranking,18,True,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_19,Robust task,catalogue,19,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_19,Robust task,learned ranking,19,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_20,Robust task,catalogue,20,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_20,Robust task,learned ranking,20,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_21,Robust task,catalogue,21,True,243,1,3,True,False,False,False,True,False
+Net3,Net3_test_21,Robust task,learned ranking,21,True,238,2,6,True,False,False,False,True,False
+Net3,Net3_test_22,Robust task,catalogue,22,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_22,Robust task,learned ranking,22,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_23,Robust task,catalogue,23,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_23,Robust task,learned ranking,23,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_00,Learned robust task,catalogue,0,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_00,Learned robust task,learned ranking,0,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_01,Learned robust task,catalogue,1,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_01,Learned robust task,learned ranking,1,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_02,Learned robust task,catalogue,2,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_02,Learned robust task,learned ranking,2,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_03,Learned robust task,catalogue,3,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_03,Learned robust task,learned ranking,3,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_04,Learned robust task,catalogue,4,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_04,Learned robust task,learned ranking,4,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_05,Learned robust task,catalogue,5,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_05,Learned robust task,learned ranking,5,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_06,Learned robust task,catalogue,6,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_06,Learned robust task,learned ranking,6,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_07,Learned robust task,catalogue,7,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_07,Learned robust task,learned ranking,7,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_08,Learned robust task,catalogue,8,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_08,Learned robust task,learned ranking,8,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_09,Learned robust task,catalogue,9,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_09,Learned robust task,learned ranking,9,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_10,Learned robust task,catalogue,10,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_10,Learned robust task,learned ranking,10,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_11,Learned robust task,catalogue,11,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_11,Learned robust task,learned ranking,11,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_12,Learned robust task,catalogue,12,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_12,Learned robust task,learned ranking,12,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_13,Learned robust task,catalogue,13,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_13,Learned robust task,learned ranking,13,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_14,Learned robust task,catalogue,14,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_14,Learned robust task,learned ranking,14,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_15,Learned robust task,catalogue,15,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_15,Learned robust task,learned ranking,15,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_16,Learned robust task,catalogue,16,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_16,Learned robust task,learned ranking,16,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_17,Learned robust task,catalogue,17,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_17,Learned robust task,learned ranking,17,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_18,Learned robust task,catalogue,18,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_18,Learned robust task,learned ranking,18,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_19,Learned robust task,catalogue,19,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_19,Learned robust task,learned ranking,19,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_20,Learned robust task,catalogue,20,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_20,Learned robust task,learned ranking,20,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_21,Learned robust task,catalogue,21,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_21,Learned robust task,learned ranking,21,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_22,Learned robust task,catalogue,22,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_22,Learned robust task,learned ranking,22,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_23,Learned robust task,catalogue,23,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_23,Learned robust task,learned ranking,23,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_00,Unbuffered joint,catalogue,0,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_00,Unbuffered joint,learned ranking,0,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_01,Unbuffered joint,catalogue,1,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_01,Unbuffered joint,learned ranking,1,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_02,Unbuffered joint,catalogue,2,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_02,Unbuffered joint,learned ranking,2,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_03,Unbuffered joint,catalogue,3,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_03,Unbuffered joint,learned ranking,3,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_04,Unbuffered joint,catalogue,4,False,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_04,Unbuffered joint,learned ranking,4,False,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_05,Unbuffered joint,catalogue,5,False,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_05,Unbuffered joint,learned ranking,5,False,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_06,Unbuffered joint,catalogue,6,False,20,1,3,True,False,False,False,True,False
+Net3,Net3_test_06,Unbuffered joint,learned ranking,6,False,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_07,Unbuffered joint,catalogue,7,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_07,Unbuffered joint,learned ranking,7,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_08,Unbuffered joint,catalogue,8,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_08,Unbuffered joint,learned ranking,8,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_09,Unbuffered joint,catalogue,9,False,243,1,3,True,False,False,False,True,False
+Net3,Net3_test_09,Unbuffered joint,learned ranking,9,False,238,2,6,True,False,False,False,True,False
+Net3,Net3_test_10,Unbuffered joint,catalogue,10,False,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_10,Unbuffered joint,learned ranking,10,False,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_11,Unbuffered joint,catalogue,11,False,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_11,Unbuffered joint,learned ranking,11,False,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_12,Unbuffered joint,catalogue,12,True,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_12,Unbuffered joint,learned ranking,12,True,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_13,Unbuffered joint,catalogue,13,True,20,1,3,True,False,False,False,True,False
+Net3,Net3_test_13,Unbuffered joint,learned ranking,13,True,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_14,Unbuffered joint,catalogue,14,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_14,Unbuffered joint,learned ranking,14,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_15,Unbuffered joint,catalogue,15,True,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_15,Unbuffered joint,learned ranking,15,True,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_16,Unbuffered joint,catalogue,16,True,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_16,Unbuffered joint,learned ranking,16,True,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_17,Unbuffered joint,catalogue,17,True,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_17,Unbuffered joint,learned ranking,17,True,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_18,Unbuffered joint,catalogue,18,True,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_18,Unbuffered joint,learned ranking,18,True,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_19,Unbuffered joint,catalogue,19,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_19,Unbuffered joint,learned ranking,19,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_20,Unbuffered joint,catalogue,20,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_20,Unbuffered joint,learned ranking,20,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_21,Unbuffered joint,catalogue,21,True,243,1,3,True,False,False,False,True,False
+Net3,Net3_test_21,Unbuffered joint,learned ranking,21,True,238,2,6,True,False,False,False,True,False
+Net3,Net3_test_22,Unbuffered joint,catalogue,22,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_22,Unbuffered joint,learned ranking,22,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_23,Unbuffered joint,catalogue,23,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_23,Unbuffered joint,learned ranking,23,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_00,Residual task,catalogue,0,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_00,Residual task,learned ranking,0,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_01,Residual task,catalogue,1,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_01,Residual task,learned ranking,1,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_02,Residual task,catalogue,2,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_02,Residual task,learned ranking,2,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_03,Residual task,catalogue,3,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_03,Residual task,learned ranking,3,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_04,Residual task,catalogue,4,False,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_04,Residual task,learned ranking,4,False,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_05,Residual task,catalogue,5,False,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_05,Residual task,learned ranking,5,False,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_06,Residual task,catalogue,6,False,20,1,3,True,False,False,False,True,False
+Net3,Net3_test_06,Residual task,learned ranking,6,False,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_07,Residual task,catalogue,7,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_07,Residual task,learned ranking,7,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_08,Residual task,catalogue,8,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_08,Residual task,learned ranking,8,False,,4,12,False,False,False,False,False,True
+Net3,Net3_test_09,Residual task,catalogue,9,False,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_09,Residual task,learned ranking,9,False,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_10,Residual task,catalogue,10,False,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_10,Residual task,learned ranking,10,False,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_11,Residual task,catalogue,11,False,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_11,Residual task,learned ranking,11,False,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_12,Residual task,catalogue,12,True,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_12,Residual task,learned ranking,12,True,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_13,Residual task,catalogue,13,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_13,Residual task,learned ranking,13,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_14,Residual task,catalogue,14,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_14,Residual task,learned ranking,14,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_15,Residual task,catalogue,15,True,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_15,Residual task,learned ranking,15,True,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_16,Residual task,catalogue,16,True,20,2,6,True,False,False,False,True,False
+Net3,Net3_test_16,Residual task,learned ranking,16,True,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_17,Residual task,catalogue,17,True,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_17,Residual task,learned ranking,17,True,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_18,Residual task,catalogue,18,True,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_18,Residual task,learned ranking,18,True,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_19,Residual task,catalogue,19,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_19,Residual task,learned ranking,19,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_20,Residual task,catalogue,20,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_20,Residual task,learned ranking,20,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_21,Residual task,catalogue,21,True,20,3,9,True,False,False,False,True,False
+Net3,Net3_test_21,Residual task,learned ranking,21,True,20,4,12,True,False,False,False,True,False
+Net3,Net3_test_22,Residual task,catalogue,22,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_22,Residual task,learned ranking,22,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_23,Residual task,catalogue,23,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_23,Residual task,learned ranking,23,True,,4,12,False,False,False,False,False,True
+Net3,Net3_test_00,Deny all,catalogue,0,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_00,Deny all,learned ranking,0,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_01,Deny all,catalogue,1,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_01,Deny all,learned ranking,1,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_02,Deny all,catalogue,2,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_02,Deny all,learned ranking,2,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_03,Deny all,catalogue,3,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_03,Deny all,learned ranking,3,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_04,Deny all,catalogue,4,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_04,Deny all,learned ranking,4,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_05,Deny all,catalogue,5,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_05,Deny all,learned ranking,5,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_06,Deny all,catalogue,6,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_06,Deny all,learned ranking,6,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_07,Deny all,catalogue,7,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_07,Deny all,learned ranking,7,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_08,Deny all,catalogue,8,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_08,Deny all,learned ranking,8,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_09,Deny all,catalogue,9,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_09,Deny all,learned ranking,9,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_10,Deny all,catalogue,10,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_10,Deny all,learned ranking,10,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_11,Deny all,catalogue,11,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_11,Deny all,learned ranking,11,False,,4,0,False,False,False,False,False,True
+Net3,Net3_test_12,Deny all,catalogue,12,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_12,Deny all,learned ranking,12,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_13,Deny all,catalogue,13,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_13,Deny all,learned ranking,13,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_14,Deny all,catalogue,14,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_14,Deny all,learned ranking,14,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_15,Deny all,catalogue,15,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_15,Deny all,learned ranking,15,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_16,Deny all,catalogue,16,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_16,Deny all,learned ranking,16,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_17,Deny all,catalogue,17,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_17,Deny all,learned ranking,17,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_18,Deny all,catalogue,18,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_18,Deny all,learned ranking,18,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_19,Deny all,catalogue,19,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_19,Deny all,learned ranking,19,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_20,Deny all,catalogue,20,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_20,Deny all,learned ranking,20,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_21,Deny all,catalogue,21,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_21,Deny all,learned ranking,21,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_22,Deny all,catalogue,22,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_22,Deny all,learned ranking,22,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_23,Deny all,catalogue,23,True,,4,0,False,False,False,False,False,True
+Net3,Net3_test_23,Deny all,learned ranking,23,True,,4,0,False,False,False,False,False,True

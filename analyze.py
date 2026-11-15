@@ -3,6 +3,7 @@ from pathlib import Path
 import argparse
 import hashlib
 import json
+import gzip
 import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
@@ -11,6 +12,12 @@ from assurance import ROOT, OUT, SEED, FORECAST, CATALOGUES
 GATES = ["Scope", "Storage rule", "Hold RF", "Whole RF", "Calibrated whole RF",
          "Nominal hold", "Nominal task", "Robust hold", "Robust whole",
          "Robust task no validity", "Robust task", "Learned robust task", "Unbuffered joint", "Residual task", "Deny all"]
+
+
+def load_receipts(smoke=False):
+    path = OUT / ("smoke_receipts.json" if smoke else "receipts.json")
+    return json.loads(path.read_text() if path.exists() else gzip.decompress(
+        path.with_suffix(".json.gz").read_bytes()).decode())
 
 
 def severity(evaluation):
@@ -120,7 +127,9 @@ def positive_probability(model, x):
 
 
 def fit_network(a):
-    names = [c for c in a if c.startswith("x_")]
+    names = [c for c in a if c.startswith("x_") and not a[c].isna().all()]
+    if a[names].isna().any().any():
+        raise ValueError("Unexpected missing local network feature")
     train = a[(a.split == "train") & a.assessable]
     cal = a[(a.split == "calibration") & a.assessable]
     if not len(train) or not len(cal):
@@ -187,7 +196,7 @@ def block_interval(values):
 
 
 def analyze(smoke=False):
-    receipts = json.loads((OUT / ("smoke_receipts.json" if smoke else "receipts.json")).read_text())
+    receipts = load_receipts(smoke)
     data, errors = frame_from_receipts(receipts)
     if smoke:
         print(data[["network", "asset", "assessable", "acceptable", "whole_harm", "recovery_failure", "realized"]].to_string(index=False))

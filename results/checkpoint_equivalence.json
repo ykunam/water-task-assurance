@@ -1,0 +1,6 @@
+{
+  "task_id": "C-Town_train_00",
+  "head_max_error_m": 6.218101589183789e-10,
+  "demand_max_error_m3s": 2.896988204881268e-16,
+  "passed": true
+}

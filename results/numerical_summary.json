@@ -1,0 +1,26 @@
+{
+  "C-Town": {
+    "candidates": 242,
+    "wntr_assessable": 223,
+    "simulation_errors": 0,
+    "cross_solver_pairs": 242,
+    "cross_solver_harm_disagreements": 0,
+    "cross_solver_acceptable_disagreements": 6,
+    "max_unmet_delta_disagreement": 3.3157646822583634e-05,
+    "max_tank_hour_delta_disagreement": 0.2499999999999991,
+    "max_wntr_pdd_residual": 2.576627789641246e-07,
+    "max_wntr_continuity_residual": 5.551115123125783e-17
+  },
+  "Net3": {
+    "candidates": 288,
+    "wntr_assessable": 284,
+    "simulation_errors": 0,
+    "cross_solver_pairs": 288,
+    "cross_solver_harm_disagreements": 0,
+    "cross_solver_acceptable_disagreements": 0,
+    "max_unmet_delta_disagreement": 0.0011965785146782829,
+    "max_tank_hour_delta_disagreement": 1.083333333333333,
+    "max_wntr_pdd_residual": 7.841160946028825e-06,
+    "max_wntr_continuity_residual": 2.8449465006019636e-16
+  }
+}

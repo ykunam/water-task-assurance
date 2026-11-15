@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 *_render/
 smoke_*
+results/receipts.json

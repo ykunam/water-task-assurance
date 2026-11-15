@@ -1,0 +1,17 @@
+Item,Status,Evidence
+Authority,Verified dated source,All 20 pages of the supplied official guide captured 23 October 2026 were examined before the earlier editing. The live guide still returned HTTP 403; current portal currency remains unresolved.
+Article type,Regular article,"14 rendered double-spaced pages, within the supplied preferred 20-page regular-article length. Exceeds the ten-page Short Communication limit."
+Editable structure,Applied,"Single-column DOCX; numbered introduction, related work, methods, results, discussion, limitations/conclusion. Five native editable equations."
+Abstract and keywords,Verified,"198-word abstract, no citations; six keywords within supplied range 1–7."
+Main artwork,Verified,Exactly two programmatic figures; source CSVs and separate vector EPS/PDF; all points checked against executed outputs.
+Main tables,Verified,"Exactly two editable tables with captions and prose callouts, horizontal header rules and no shading/vertical borders. Counts match raw evidence."
+Highlights,Prepared,"Four separate editable bullets, each no longer than 85 characters."
+References,29 entries,27 DOI-bearing sources and two official technical URLs; first-use numbering and citation completeness checked. All-Q1 certification is not met.
+Correspondence,Proposed,Personal email filled from the connected ykunam profile. Author must confirm final corresponding address and institutional affiliation.
+Supplementary files,Prepared,"S1 methods/full comparisons; S2 source, raw receipts, references and amendments in GitHub. Portal handling still requires confirmation."
+Research data policy,Unresolved,Repository remains private as approved. Reviewer access or an approved public archival deposit and persistent dataset citation remain necessary.
+Funding interests CRediT,Prepared author action,No-funding/no-interest statements retained. Author must verify contributions and complete Elsevier’s declaration-tool workflow.
+AI disclosure,Applied,"Assistance with software, analysis, writing and plots disclosed. Scripted policies are not described as a new controlled LLM experiment."
+Graphical abstract,No mandate verified,No graphical-abstract requirement was identified in the supplied guide. Any current portal-specific rule remains unverified.
+Originality clearance,Partial,"No accepted-paper material copied. No commercial similarity-service, retraction-database clearance or copyright certificate is claimed."
+Formal submission,Not performed,"No journal submission, external expert endorsement or acceptance assurance was made."

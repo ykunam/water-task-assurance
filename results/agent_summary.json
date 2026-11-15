@@ -1,0 +1,1082 @@
+[
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "gate": "Scope",
+    "n": 24,
+    "completed": 10,
+    "harmful": 2,
+    "indeterminate": 2,
+    "recovery_failure": 13,
+    "acceptable": 1,
+    "abstained": 0,
+    "attempts": 24,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.125
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "gate": "Scope",
+    "n": 24,
+    "completed": 18,
+    "harmful": 1,
+    "indeterminate": 3,
+    "recovery_failure": 12,
+    "acceptable": 6,
+    "abstained": 0,
+    "attempts": 24,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.08333333333333333,
+      0.4166666666666667
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "gate": "Storage rule",
+    "n": 24,
+    "completed": 1,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 1,
+    "acceptable": 0,
+    "abstained": 20,
+    "attempts": 78,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "gate": "Storage rule",
+    "n": 24,
+    "completed": 1,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 1,
+    "acceptable": 0,
+    "abstained": 20,
+    "attempts": 81,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "gate": "Hold RF",
+    "n": 24,
+    "completed": 10,
+    "harmful": 2,
+    "indeterminate": 2,
+    "recovery_failure": 13,
+    "acceptable": 1,
+    "abstained": 0,
+    "attempts": 24,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.125
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "gate": "Hold RF",
+    "n": 24,
+    "completed": 18,
+    "harmful": 1,
+    "indeterminate": 3,
+    "recovery_failure": 12,
+    "acceptable": 6,
+    "abstained": 0,
+    "attempts": 24,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.08333333333333333,
+      0.4166666666666667
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "gate": "Whole RF",
+    "n": 24,
+    "completed": 3,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 4,
+    "acceptable": 0,
+    "abstained": 20,
+    "attempts": 74,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "gate": "Whole RF",
+    "n": 24,
+    "completed": 4,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 2,
+    "acceptable": 2,
+    "abstained": 20,
+    "attempts": 73,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.20833333333333334
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "gate": "Calibrated whole RF",
+    "n": 24,
+    "completed": 3,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 4,
+    "acceptable": 0,
+    "abstained": 20,
+    "attempts": 74,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "gate": "Calibrated whole RF",
+    "n": 24,
+    "completed": 4,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 2,
+    "acceptable": 2,
+    "abstained": 20,
+    "attempts": 73,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.20833333333333334
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "gate": "Nominal hold",
+    "n": 24,
+    "completed": 17,
+    "harmful": 1,
+    "indeterminate": 2,
+    "recovery_failure": 9,
+    "acceptable": 7,
+    "abstained": 6,
+    "attempts": 53,
+    "forecast_simulations": 53,
+    "acceptable_ci": [
+      0.16666666666666666,
+      0.4166666666666667
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "gate": "Nominal hold",
+    "n": 24,
+    "completed": 18,
+    "harmful": 1,
+    "indeterminate": 1,
+    "recovery_failure": 10,
+    "acceptable": 7,
+    "abstained": 6,
+    "attempts": 42,
+    "forecast_simulations": 42,
+    "acceptable_ci": [
+      0.16666666666666666,
+      0.4166666666666667
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "gate": "Nominal task",
+    "n": 24,
+    "completed": 10,
+    "harmful": 0,
+    "indeterminate": 1,
+    "recovery_failure": 3,
+    "acceptable": 6,
+    "abstained": 14,
+    "attempts": 69,
+    "forecast_simulations": 69,
+    "acceptable_ci": [
+      0.08333333333333333,
+      0.4166666666666667
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "gate": "Nominal task",
+    "n": 24,
+    "completed": 10,
+    "harmful": 0,
+    "indeterminate": 1,
+    "recovery_failure": 3,
+    "acceptable": 6,
+    "abstained": 14,
+    "attempts": 67,
+    "forecast_simulations": 67,
+    "acceptable_ci": [
+      0.08333333333333333,
+      0.4166666666666667
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "gate": "Robust hold",
+    "n": 24,
+    "completed": 15,
+    "harmful": 2,
+    "indeterminate": 1,
+    "recovery_failure": 10,
+    "acceptable": 4,
+    "abstained": 9,
+    "attempts": 62,
+    "forecast_simulations": 186,
+    "acceptable_ci": [
+      0.041666666666666664,
+      0.2916666666666667
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "gate": "Robust hold",
+    "n": 24,
+    "completed": 15,
+    "harmful": 1,
+    "indeterminate": 1,
+    "recovery_failure": 9,
+    "acceptable": 5,
+    "abstained": 9,
+    "attempts": 50,
+    "forecast_simulations": 150,
+    "acceptable_ci": [
+      0.08333333333333333,
+      0.3333333333333333
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "gate": "Robust whole",
+    "n": 24,
+    "completed": 15,
+    "harmful": 2,
+    "indeterminate": 1,
+    "recovery_failure": 10,
+    "acceptable": 4,
+    "abstained": 9,
+    "attempts": 62,
+    "forecast_simulations": 186,
+    "acceptable_ci": [
+      0.041666666666666664,
+      0.2916666666666667
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "gate": "Robust whole",
+    "n": 24,
+    "completed": 15,
+    "harmful": 1,
+    "indeterminate": 1,
+    "recovery_failure": 9,
+    "acceptable": 5,
+    "abstained": 9,
+    "attempts": 50,
+    "forecast_simulations": 150,
+    "acceptable_ci": [
+      0.08333333333333333,
+      0.3333333333333333
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "gate": "Robust task no validity",
+    "n": 24,
+    "completed": 4,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 2,
+    "acceptable": 2,
+    "abstained": 20,
+    "attempts": 82,
+    "forecast_simulations": 246,
+    "acceptable_ci": [
+      0.0,
+      0.20833333333333334
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "gate": "Robust task no validity",
+    "n": 24,
+    "completed": 4,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 2,
+    "acceptable": 2,
+    "abstained": 20,
+    "attempts": 79,
+    "forecast_simulations": 237,
+    "acceptable_ci": [
+      0.0,
+      0.20833333333333334
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "gate": "Robust task",
+    "n": 24,
+    "completed": 4,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 2,
+    "acceptable": 2,
+    "abstained": 20,
+    "attempts": 82,
+    "forecast_simulations": 246,
+    "acceptable_ci": [
+      0.0,
+      0.20833333333333334
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "gate": "Robust task",
+    "n": 24,
+    "completed": 4,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 2,
+    "acceptable": 2,
+    "abstained": 20,
+    "attempts": 79,
+    "forecast_simulations": 237,
+    "acceptable_ci": [
+      0.0,
+      0.20833333333333334
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "gate": "Learned robust task",
+    "n": 24,
+    "completed": 1,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 1,
+    "acceptable": 0,
+    "abstained": 23,
+    "attempts": 83,
+    "forecast_simulations": 18,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "gate": "Learned robust task",
+    "n": 24,
+    "completed": 1,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 1,
+    "acceptable": 0,
+    "abstained": 23,
+    "attempts": 85,
+    "forecast_simulations": 24,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "gate": "Unbuffered joint",
+    "n": 24,
+    "completed": 4,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 2,
+    "acceptable": 2,
+    "abstained": 20,
+    "attempts": 82,
+    "forecast_simulations": 246,
+    "acceptable_ci": [
+      0.0,
+      0.20833333333333334
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "gate": "Unbuffered joint",
+    "n": 24,
+    "completed": 4,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 2,
+    "acceptable": 2,
+    "abstained": 20,
+    "attempts": 79,
+    "forecast_simulations": 237,
+    "acceptable_ci": [
+      0.0,
+      0.20833333333333334
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "gate": "Residual task",
+    "n": 24,
+    "completed": 0,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 0,
+    "abstained": 24,
+    "attempts": 85,
+    "forecast_simulations": 255,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "gate": "Residual task",
+    "n": 24,
+    "completed": 0,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 0,
+    "abstained": 24,
+    "attempts": 85,
+    "forecast_simulations": 255,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "catalogue",
+    "gate": "Deny all",
+    "n": 24,
+    "completed": 0,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 0,
+    "abstained": 24,
+    "attempts": 85,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "network": "C-Town",
+    "controller": "learned ranking",
+    "gate": "Deny all",
+    "n": 24,
+    "completed": 0,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 0,
+    "abstained": 24,
+    "attempts": 85,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "gate": "Scope",
+    "n": 24,
+    "completed": 22,
+    "harmful": 1,
+    "indeterminate": 1,
+    "recovery_failure": 12,
+    "acceptable": 8,
+    "abstained": 0,
+    "attempts": 24,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.16666666666666666,
+      0.5
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "gate": "Scope",
+    "n": 24,
+    "completed": 19,
+    "harmful": 2,
+    "indeterminate": 1,
+    "recovery_failure": 15,
+    "acceptable": 3,
+    "abstained": 0,
+    "attempts": 24,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.2916666666666667
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "gate": "Storage rule",
+    "n": 24,
+    "completed": 16,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 4,
+    "acceptable": 12,
+    "abstained": 8,
+    "attempts": 60,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.25,
+      0.75
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "gate": "Storage rule",
+    "n": 24,
+    "completed": 16,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 4,
+    "acceptable": 12,
+    "abstained": 8,
+    "attempts": 74,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.25,
+      0.75
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "gate": "Hold RF",
+    "n": 24,
+    "completed": 22,
+    "harmful": 1,
+    "indeterminate": 1,
+    "recovery_failure": 12,
+    "acceptable": 8,
+    "abstained": 0,
+    "attempts": 24,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.16666666666666666,
+      0.5
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "gate": "Hold RF",
+    "n": 24,
+    "completed": 19,
+    "harmful": 2,
+    "indeterminate": 1,
+    "recovery_failure": 15,
+    "acceptable": 3,
+    "abstained": 0,
+    "attempts": 24,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.2916666666666667
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "gate": "Whole RF",
+    "n": 24,
+    "completed": 0,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 0,
+    "abstained": 24,
+    "attempts": 96,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "gate": "Whole RF",
+    "n": 24,
+    "completed": 0,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 0,
+    "abstained": 24,
+    "attempts": 96,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "gate": "Calibrated whole RF",
+    "n": 24,
+    "completed": 0,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 0,
+    "abstained": 24,
+    "attempts": 96,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "gate": "Calibrated whole RF",
+    "n": 24,
+    "completed": 0,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 0,
+    "abstained": 24,
+    "attempts": 96,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "gate": "Nominal hold",
+    "n": 24,
+    "completed": 24,
+    "harmful": 1,
+    "indeterminate": 1,
+    "recovery_failure": 14,
+    "acceptable": 8,
+    "abstained": 0,
+    "attempts": 26,
+    "forecast_simulations": 26,
+    "acceptable_ci": [
+      0.16666666666666666,
+      0.5
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "gate": "Nominal hold",
+    "n": 24,
+    "completed": 24,
+    "harmful": 2,
+    "indeterminate": 3,
+    "recovery_failure": 18,
+    "acceptable": 3,
+    "abstained": 0,
+    "attempts": 30,
+    "forecast_simulations": 30,
+    "acceptable_ci": [
+      0.0,
+      0.2916666666666667
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "gate": "Nominal task",
+    "n": 24,
+    "completed": 15,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 1,
+    "acceptable": 14,
+    "abstained": 9,
+    "attempts": 61,
+    "forecast_simulations": 61,
+    "acceptable_ci": [
+      0.3333333333333333,
+      0.7916666666666666
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "gate": "Nominal task",
+    "n": 24,
+    "completed": 15,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 1,
+    "acceptable": 14,
+    "abstained": 9,
+    "attempts": 73,
+    "forecast_simulations": 73,
+    "acceptable_ci": [
+      0.3333333333333333,
+      0.7916666666666666
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "gate": "Robust hold",
+    "n": 24,
+    "completed": 24,
+    "harmful": 1,
+    "indeterminate": 1,
+    "recovery_failure": 15,
+    "acceptable": 7,
+    "abstained": 0,
+    "attempts": 27,
+    "forecast_simulations": 81,
+    "acceptable_ci": [
+      0.125,
+      0.4166666666666667
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "gate": "Robust hold",
+    "n": 24,
+    "completed": 24,
+    "harmful": 2,
+    "indeterminate": 3,
+    "recovery_failure": 20,
+    "acceptable": 1,
+    "abstained": 0,
+    "attempts": 33,
+    "forecast_simulations": 99,
+    "acceptable_ci": [
+      0.0,
+      0.125
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "gate": "Robust whole",
+    "n": 24,
+    "completed": 24,
+    "harmful": 1,
+    "indeterminate": 0,
+    "recovery_failure": 14,
+    "acceptable": 9,
+    "abstained": 0,
+    "attempts": 29,
+    "forecast_simulations": 87,
+    "acceptable_ci": [
+      0.20833333333333334,
+      0.5416666666666666
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "gate": "Robust whole",
+    "n": 24,
+    "completed": 24,
+    "harmful": 2,
+    "indeterminate": 0,
+    "recovery_failure": 20,
+    "acceptable": 3,
+    "abstained": 0,
+    "attempts": 39,
+    "forecast_simulations": 117,
+    "acceptable_ci": [
+      0.04062500000000006,
+      0.25
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "gate": "Robust task no validity",
+    "n": 24,
+    "completed": 13,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 13,
+    "abstained": 11,
+    "attempts": 71,
+    "forecast_simulations": 213,
+    "acceptable_ci": [
+      0.2916666666666667,
+      0.75
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "gate": "Robust task no validity",
+    "n": 24,
+    "completed": 13,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 13,
+    "abstained": 11,
+    "attempts": 84,
+    "forecast_simulations": 252,
+    "acceptable_ci": [
+      0.2916666666666667,
+      0.75
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "gate": "Robust task",
+    "n": 24,
+    "completed": 13,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 13,
+    "abstained": 11,
+    "attempts": 71,
+    "forecast_simulations": 213,
+    "acceptable_ci": [
+      0.2916666666666667,
+      0.75
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "gate": "Robust task",
+    "n": 24,
+    "completed": 13,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 13,
+    "abstained": 11,
+    "attempts": 84,
+    "forecast_simulations": 252,
+    "acceptable_ci": [
+      0.2916666666666667,
+      0.75
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "gate": "Learned robust task",
+    "n": 24,
+    "completed": 0,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 0,
+    "abstained": 24,
+    "attempts": 96,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "gate": "Learned robust task",
+    "n": 24,
+    "completed": 0,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 0,
+    "abstained": 24,
+    "attempts": 96,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "gate": "Unbuffered joint",
+    "n": 24,
+    "completed": 13,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 13,
+    "abstained": 11,
+    "attempts": 71,
+    "forecast_simulations": 213,
+    "acceptable_ci": [
+      0.2916666666666667,
+      0.75
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "gate": "Unbuffered joint",
+    "n": 24,
+    "completed": 13,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 13,
+    "abstained": 11,
+    "attempts": 84,
+    "forecast_simulations": 252,
+    "acceptable_ci": [
+      0.2916666666666667,
+      0.75
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "gate": "Residual task",
+    "n": 24,
+    "completed": 12,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 12,
+    "abstained": 12,
+    "attempts": 78,
+    "forecast_simulations": 234,
+    "acceptable_ci": [
+      0.25,
+      0.75
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "gate": "Residual task",
+    "n": 24,
+    "completed": 12,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 12,
+    "abstained": 12,
+    "attempts": 89,
+    "forecast_simulations": 267,
+    "acceptable_ci": [
+      0.25,
+      0.75
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "catalogue",
+    "gate": "Deny all",
+    "n": 24,
+    "completed": 0,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 0,
+    "abstained": 24,
+    "attempts": 96,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "network": "Net3",
+    "controller": "learned ranking",
+    "gate": "Deny all",
+    "n": 24,
+    "completed": 0,
+    "harmful": 0,
+    "indeterminate": 0,
+    "recovery_failure": 0,
+    "acceptable": 0,
+    "abstained": 24,
+    "attempts": 96,
+    "forecast_simulations": 0,
+    "acceptable_ci": [
+      0.0,
+      0.0
+    ]
+  }
+]

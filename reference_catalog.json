@@ -1,0 +1,1195 @@
+{
+  "nist": {
+    "title": [
+      "Guide to Operational Technology (OT) security"
+    ],
+    "author": [
+      {
+        "given": "Keith",
+        "family": "Stouffer"
+      },
+      {
+        "given": "Michael",
+        "family": "Pease"
+      },
+      {
+        "given": "CheeYee",
+        "family": "Tang"
+      },
+      {
+        "given": "Timothy",
+        "family": "Zimmerman"
+      },
+      {
+        "given": "Victoria",
+        "family": "Pillitteri"
+      },
+      {
+        "given": "Suzanne",
+        "family": "Lightman"
+      },
+      {
+        "given": "Adam",
+        "family": "Hahn"
+      },
+      {
+        "given": "Stephanie",
+        "family": "Saravia"
+      },
+      {
+        "given": "Aslam",
+        "family": "Sherule"
+      },
+      {
+        "given": "Michael",
+        "family": "Thompson"
+      }
+    ],
+    "container-title": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          28
+        ]
+      ]
+    },
+    "DOI": "10.6028/nist.sp.800-82r3",
+    "URL": "https://doi.org/10.6028/nist.sp.800-82r3",
+    "publisher": "National Institute of Standards and Technology (U.S.)"
+  },
+  "saltzer": {
+    "title": [
+      "The protection of information in computer systems"
+    ],
+    "author": [
+      {
+        "given": "J.H.",
+        "family": "Saltzer"
+      },
+      {
+        "given": "M.D.",
+        "family": "Schroeder"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the IEEE"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1975
+        ]
+      ]
+    },
+    "volume": "63",
+    "issue": "9",
+    "page": "1278-1308",
+    "DOI": "10.1109/proc.1975.9939",
+    "URL": "https://doi.org/10.1109/proc.1975.9939",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+  },
+  "humayed": {
+    "title": [
+      "Cyber-Physical Systems Security—A Survey"
+    ],
+    "author": [
+      {
+        "given": "Abdulmalik",
+        "family": "Humayed"
+      },
+      {
+        "given": "Jingqiang",
+        "family": "Lin"
+      },
+      {
+        "given": "Fengjun",
+        "family": "Li"
+      },
+      {
+        "given": "Bo",
+        "family": "Luo"
+      }
+    ],
+    "container-title": [
+      "IEEE Internet of Things Journal"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          12
+        ]
+      ]
+    },
+    "volume": "4",
+    "issue": "6",
+    "page": "1802-1831",
+    "DOI": "10.1109/jiot.2017.2703172",
+    "URL": "https://doi.org/10.1109/jiot.2017.2703172",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+  },
+  "leveson": {
+    "title": [
+      "A new accident model for engineering safer systems"
+    ],
+    "author": [
+      {
+        "given": "Nancy",
+        "family": "Leveson"
+      }
+    ],
+    "container-title": [
+      "Safety Science"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2004,
+          4
+        ]
+      ]
+    },
+    "volume": "42",
+    "issue": "4",
+    "page": "237-270",
+    "DOI": "10.1016/s0925-7535(03)00047-x",
+    "URL": "https://doi.org/10.1016/s0925-7535(03)00047-x",
+    "publisher": "Elsevier BV"
+  },
+  "tuptuk": {
+    "title": [
+      "A Systematic Review of the State of Cyber-Security in Water Systems"
+    ],
+    "author": [
+      {
+        "given": "Nilufer",
+        "family": "Tuptuk"
+      },
+      {
+        "given": "Peter",
+        "family": "Hazell"
+      },
+      {
+        "given": "Jeremy",
+        "family": "Watson"
+      },
+      {
+        "given": "Stephen",
+        "family": "Hailes"
+      }
+    ],
+    "container-title": [
+      "Water"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          1
+        ]
+      ]
+    },
+    "volume": "13",
+    "issue": "1",
+    "page": "81",
+    "DOI": "10.3390/w13010081",
+    "URL": "https://doi.org/10.3390/w13010081",
+    "publisher": "MDPI AG"
+  },
+  "waterreview": {
+    "title": [
+      "Cybersecurity in Water Distribution Networks: A Systematic Review of AI-Based Detection Algorithms"
+    ],
+    "author": [
+      {
+        "given": "Md Arman",
+        "family": "Habib"
+      },
+      {
+        "given": "Anca Delia",
+        "family": "Jurcut"
+      },
+      {
+        "given": "Hafiz",
+        "family": "Ahmed"
+      },
+      {
+        "given": "Wenhui",
+        "family": "Wei"
+      },
+      {
+        "given": "Md",
+        "family": "Salauddin"
+      }
+    ],
+    "container-title": [
+      "Water"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          22
+        ]
+      ]
+    },
+    "volume": "18",
+    "issue": "4",
+    "page": "519",
+    "DOI": "10.3390/w18040519",
+    "URL": "https://doi.org/10.3390/w18040519",
+    "publisher": "MDPI AG"
+  },
+  "watersurvey": {
+    "title": [
+      "A Survey of Cyber-Physical Attacks and Detection Methods in Smart Water Distribution Systems"
+    ],
+    "author": [
+      {
+        "given": "Hajar Hameed",
+        "family": "Addeen"
+      },
+      {
+        "given": "Yang",
+        "family": "Xiao"
+      },
+      {
+        "given": "Jiacheng",
+        "family": "Li"
+      },
+      {
+        "given": "Mohsen",
+        "family": "Guizani"
+      }
+    ],
+    "container-title": [
+      "IEEE Access"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "volume": "9",
+    "page": "99905-99921",
+    "DOI": "10.1109/access.2021.3095713",
+    "URL": "https://doi.org/10.1109/access.2021.3095713",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+  },
+  "scada1": {
+    "title": [
+      "Cyber Security of Water SCADA Systems—Part I: Analysis and Experimentation of Stealthy Deception Attacks"
+    ],
+    "author": [
+      {
+        "given": "Saurabh",
+        "family": "Amin"
+      },
+      {
+        "given": "Xavier",
+        "family": "Litrico"
+      },
+      {
+        "given": "Shankar",
+        "family": "Sastry"
+      },
+      {
+        "given": "Alexandre M.",
+        "family": "Bayen"
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Control Systems Technology"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          9
+        ]
+      ]
+    },
+    "volume": "21",
+    "issue": "5",
+    "page": "1963-1970",
+    "DOI": "10.1109/tcst.2012.2211873",
+    "URL": "https://doi.org/10.1109/tcst.2012.2211873",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+  },
+  "scada2": {
+    "title": [
+      "Cyber Security of Water SCADA Systems—Part II: Attack Detection Using Enhanced Hydrodynamic Models"
+    ],
+    "author": [
+      {
+        "given": "Saurabh",
+        "family": "Amin"
+      },
+      {
+        "given": "Xavier",
+        "family": "Litrico"
+      },
+      {
+        "given": "S. Shankar",
+        "family": "Sastry"
+      },
+      {
+        "given": "Alexandre M.",
+        "family": "Bayen"
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Control Systems Technology"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          9
+        ]
+      ]
+    },
+    "volume": "21",
+    "issue": "5",
+    "page": "1679-1693",
+    "DOI": "10.1109/tcst.2012.2211874",
+    "URL": "https://doi.org/10.1109/tcst.2012.2211874",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+  },
+  "rdfr": {
+    "title": [
+      "RDFR-CI: Risk-Driven Deployment and Forensic Readiness for Governing AI Authority in Critical Infrastructure Protection"
+    ],
+    "author": [
+      {
+        "given": "Olga",
+        "family": "Torstensson"
+      },
+      {
+        "given": "Dmytro",
+        "family": "Prokopovych-Tkachenko"
+      },
+      {
+        "given": "Muhammad Ahsan",
+        "family": "Rasool"
+      },
+      {
+        "given": "Kostiantyn",
+        "family": "Babenko"
+      }
+    ],
+    "container-title": [
+      "Information"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          26
+        ]
+      ]
+    },
+    "volume": "17",
+    "issue": "11",
+    "page": "1068",
+    "DOI": "10.3390/info17111068",
+    "URL": "https://doi.org/10.3390/info17111068",
+    "publisher": "MDPI AG"
+  },
+  "batadal": {
+    "title": [
+      "Battle of the Attack Detection Algorithms: Disclosing Cyber Attacks on Water Distribution Networks"
+    ],
+    "author": [
+      {
+        "given": "Riccardo",
+        "family": "Taormina"
+      },
+      {
+        "given": "Stefano",
+        "family": "Galelli"
+      },
+      {
+        "given": "Nils Ole",
+        "family": "Tippenhauer"
+      },
+      {
+        "given": "Elad",
+        "family": "Salomons"
+      },
+      {
+        "given": "Avi",
+        "family": "Ostfeld"
+      },
+      {
+        "given": "Demetrios G.",
+        "family": "Eliades"
+      },
+      {
+        "given": "Mohsen",
+        "family": "Aghashahi"
+      },
+      {
+        "given": "Raanju",
+        "family": "Sundararajan"
+      },
+      {
+        "given": "Mohsen",
+        "family": "Pourahmadi"
+      },
+      {
+        "given": "M. Katherine",
+        "family": "Banks"
+      },
+      {
+        "given": "B. M.",
+        "family": "Brentan"
+      },
+      {
+        "given": "Enrique",
+        "family": "Campbell"
+      },
+      {
+        "given": "G.",
+        "family": "Lima"
+      },
+      {
+        "given": "D.",
+        "family": "Manzi"
+      },
+      {
+        "given": "D.",
+        "family": "Ayala-Cabrera"
+      },
+      {
+        "given": "M.",
+        "family": "Herrera"
+      },
+      {
+        "given": "I.",
+        "family": "Montalvo"
+      },
+      {
+        "given": "J.",
+        "family": "Izquierdo"
+      },
+      {
+        "given": "E.",
+        "family": "Luvizotto"
+      },
+      {
+        "given": "Sarin E.",
+        "family": "Chandy"
+      },
+      {
+        "given": "Amin",
+        "family": "Rasekh"
+      },
+      {
+        "given": "Zachary A.",
+        "family": "Barker"
+      },
+      {
+        "given": "Bruce",
+        "family": "Campbell"
+      },
+      {
+        "given": "M. Ehsan",
+        "family": "Shafiee"
+      },
+      {
+        "given": "Marcio",
+        "family": "Giacomoni"
+      },
+      {
+        "given": "Nikolaos",
+        "family": "Gatsis"
+      },
+      {
+        "given": "Ahmad",
+        "family": "Taha"
+      },
+      {
+        "given": "Ahmed A.",
+        "family": "Abokifa"
+      },
+      {
+        "given": "Kelsey",
+        "family": "Haddad"
+      },
+      {
+        "given": "Cynthia S.",
+        "family": "Lo"
+      },
+      {
+        "given": "Pratim",
+        "family": "Biswas"
+      },
+      {
+        "given": "M. Fayzul K.",
+        "family": "Pasha"
+      },
+      {
+        "given": "Bijay",
+        "family": "Kc"
+      },
+      {
+        "given": "Saravanakumar Lakshmanan",
+        "family": "Somasundaram"
+      },
+      {
+        "given": "Mashor",
+        "family": "Housh"
+      },
+      {
+        "given": "Ziv",
+        "family": "Ohar"
+      }
+    ],
+    "container-title": [
+      "Journal of Water Resources Planning and Management"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          8
+        ]
+      ]
+    },
+    "volume": "144",
+    "issue": "8",
+    "article-number": "04018048",
+    "DOI": "10.1061/(asce)wr.1943-5452.0000969",
+    "URL": "https://doi.org/10.1061/(asce)wr.1943-5452.0000969",
+    "publisher": "American Society of Civil Engineers (ASCE)"
+  },
+  "wntrpaper": {
+    "title": [
+      "A software framework for assessing the resilience of drinking water systems to disasters with an example earthquake case study"
+    ],
+    "author": [
+      {
+        "given": "Katherine A.",
+        "family": "Klise"
+      },
+      {
+        "given": "Michael",
+        "family": "Bynum"
+      },
+      {
+        "given": "Dylan",
+        "family": "Moriarty"
+      },
+      {
+        "given": "Regan",
+        "family": "Murray"
+      }
+    ],
+    "container-title": [
+      "Environmental Modelling &amp; Software"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          9
+        ]
+      ]
+    },
+    "volume": "95",
+    "page": "420-431",
+    "DOI": "10.1016/j.envsoft.2017.06.022",
+    "URL": "https://doi.org/10.1016/j.envsoft.2017.06.022",
+    "publisher": "Elsevier BV"
+  },
+  "breiman": {
+    "title": [
+      "Random Forests"
+    ],
+    "author": [
+      {
+        "given": "Leo",
+        "family": "Breiman"
+      }
+    ],
+    "container-title": [
+      "Machine Learning"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2001,
+          10
+        ]
+      ]
+    },
+    "volume": "45",
+    "issue": "1",
+    "page": "5-32",
+    "DOI": "10.1023/a:1010933404324",
+    "URL": "https://doi.org/10.1023/a:1010933404324",
+    "publisher": "Springer Science and Business Media LLC"
+  },
+  "rfcal": {
+    "title": [
+      "Random forest calibration"
+    ],
+    "author": [
+      {
+        "given": "Mohammad Hossein",
+        "family": "Shaker"
+      },
+      {
+        "given": "Eyke",
+        "family": "Hüllermeier"
+      }
+    ],
+    "container-title": [
+      "Knowledge-Based Systems"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          10
+        ]
+      ]
+    },
+    "volume": "328",
+    "page": "114143",
+    "article-number": "114143",
+    "DOI": "10.1016/j.knosys.2025.114143",
+    "URL": "https://doi.org/10.1016/j.knosys.2025.114143",
+    "publisher": "Elsevier BV"
+  },
+  "abdar": {
+    "title": [
+      "A review of uncertainty quantification in deep learning: Techniques, applications and challenges"
+    ],
+    "author": [
+      {
+        "given": "Moloud",
+        "family": "Abdar"
+      },
+      {
+        "given": "Farhad",
+        "family": "Pourpanah"
+      },
+      {
+        "given": "Sadiq",
+        "family": "Hussain"
+      },
+      {
+        "given": "Dana",
+        "family": "Rezazadegan"
+      },
+      {
+        "given": "Li",
+        "family": "Liu"
+      },
+      {
+        "given": "Mohammad",
+        "family": "Ghavamzadeh"
+      },
+      {
+        "given": "Paul",
+        "family": "Fieguth"
+      },
+      {
+        "given": "Xiaochun",
+        "family": "Cao"
+      },
+      {
+        "given": "Abbas",
+        "family": "Khosravi"
+      },
+      {
+        "given": "U. Rajendra",
+        "family": "Acharya"
+      },
+      {
+        "given": "Vladimir",
+        "family": "Makarenkov"
+      },
+      {
+        "given": "Saeid",
+        "family": "Nahavandi"
+      }
+    ],
+    "container-title": [
+      "Information Fusion"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          12
+        ]
+      ]
+    },
+    "volume": "76",
+    "page": "243-297",
+    "DOI": "10.1016/j.inffus.2021.05.008",
+    "URL": "https://doi.org/10.1016/j.inffus.2021.05.008",
+    "publisher": "Elsevier BV"
+  },
+  "psf": {
+    "title": [
+      "A predictive safety filter for learning-based control of constrained nonlinear dynamical systems"
+    ],
+    "author": [
+      {
+        "given": "Kim Peter",
+        "family": "Wabersich"
+      },
+      {
+        "given": "Melanie N.",
+        "family": "Zeilinger"
+      }
+    ],
+    "container-title": [
+      "Automatica"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          7
+        ]
+      ]
+    },
+    "volume": "129",
+    "page": "109597",
+    "article-number": "109597",
+    "DOI": "10.1016/j.automatica.2021.109597",
+    "URL": "https://doi.org/10.1016/j.automatica.2021.109597",
+    "publisher": "Elsevier BV"
+  },
+  "pcb": {
+    "title": [
+      "Predictive Control Barrier Functions: Enhanced Safety Mechanisms for Learning-Based Control"
+    ],
+    "author": [
+      {
+        "given": "Kim P.",
+        "family": "Wabersich"
+      },
+      {
+        "given": "Melanie N.",
+        "family": "Zeilinger"
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          5
+        ]
+      ]
+    },
+    "volume": "68",
+    "issue": "5",
+    "page": "2638-2651",
+    "DOI": "10.1109/tac.2022.3175628",
+    "URL": "https://doi.org/10.1109/tac.2022.3175628",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+  },
+  "fisac": {
+    "title": [
+      "A General Safety Framework for Learning-Based Control in Uncertain Robotic Systems"
+    ],
+    "author": [
+      {
+        "given": "Jaime F.",
+        "family": "Fisac"
+      },
+      {
+        "given": "Anayo K.",
+        "family": "Akametalu"
+      },
+      {
+        "given": "Melanie N.",
+        "family": "Zeilinger"
+      },
+      {
+        "given": "Shahab",
+        "family": "Kaynama"
+      },
+      {
+        "given": "Jeremy",
+        "family": "Gillula"
+      },
+      {
+        "given": "Claire J.",
+        "family": "Tomlin"
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          7
+        ]
+      ]
+    },
+    "volume": "64",
+    "issue": "7",
+    "page": "2737-2752",
+    "DOI": "10.1109/tac.2018.2876389",
+    "URL": "https://doi.org/10.1109/tac.2018.2876389",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+  },
+  "deeph2o": {
+    "title": [
+      "Deep H2O: Cyber attacks detection in water distribution systems using deep learning"
+    ],
+    "author": [
+      {
+        "given": "Md Nazmul Kabir",
+        "family": "Sikder"
+      },
+      {
+        "given": "Minh B.T.",
+        "family": "Nguyen"
+      },
+      {
+        "given": "E. Donald",
+        "family": "Elliott"
+      },
+      {
+        "given": "Feras A.",
+        "family": "Batarseh"
+      }
+    ],
+    "container-title": [
+      "Journal of Water Process Engineering"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          4
+        ]
+      ]
+    },
+    "volume": "52",
+    "page": "103568",
+    "article-number": "103568",
+    "DOI": "10.1016/j.jwpe.2023.103568",
+    "URL": "https://doi.org/10.1016/j.jwpe.2023.103568",
+    "publisher": "Elsevier BV"
+  },
+  "breaking": {
+    "title": [
+      "Breaking the flow and the bank: Stealthy cyberattacks on water network hydraulics"
+    ],
+    "author": [
+      {
+        "given": "Abdallah Alalem",
+        "family": "Albustami"
+      },
+      {
+        "given": "Ahmad F.",
+        "family": "Taha"
+      }
+    ],
+    "container-title": [
+      "Water Research"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          9
+        ]
+      ]
+    },
+    "volume": "283",
+    "page": "123719",
+    "article-number": "123719",
+    "DOI": "10.1016/j.watres.2025.123719",
+    "URL": "https://doi.org/10.1016/j.watres.2025.123719",
+    "publisher": "Elsevier BV"
+  },
+  "optimising": {
+    "title": [
+      "Optimising trade-offs between cyber reliability and cyber-physical risk for water distribution systems"
+    ],
+    "author": [
+      {
+        "given": "Cael",
+        "family": "Keenan"
+      },
+      {
+        "given": "Holger R.",
+        "family": "Maier"
+      },
+      {
+        "given": "Hedwig",
+        "family": "van Delden"
+      },
+      {
+        "given": "Aaron C.",
+        "family": "Zecchin"
+      }
+    ],
+    "container-title": [
+      "Reliability Engineering &amp; System Safety"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          8
+        ]
+      ]
+    },
+    "volume": "272",
+    "page": "112667",
+    "article-number": "112667",
+    "DOI": "10.1016/j.ress.2026.112667",
+    "URL": "https://doi.org/10.1016/j.ress.2026.112667",
+    "publisher": "Elsevier BV"
+  },
+  "rejectviz": {
+    "title": [
+      "Performance visualization spaces for classification with rejection option"
+    ],
+    "author": [
+      {
+        "given": "Blaise",
+        "family": "Hanczar"
+      }
+    ],
+    "container-title": [
+      "Pattern Recognition"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          12
+        ]
+      ]
+    },
+    "volume": "96",
+    "page": "106984",
+    "article-number": "106984",
+    "DOI": "10.1016/j.patcog.2019.106984",
+    "URL": "https://doi.org/10.1016/j.patcog.2019.106984",
+    "publisher": "Elsevier BV"
+  },
+  "airmf": {
+    "title": [
+      "Artificial Intelligence Risk Management Framework (AI RMF 1.0)"
+    ],
+    "author": [
+      {
+        "given": "Elham",
+        "family": "Tabassi"
+      }
+    ],
+    "container-title": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          26
+        ]
+      ]
+    },
+    "DOI": "10.6028/nist.ai.100-1",
+    "URL": "https://doi.org/10.6028/nist.ai.100-1",
+    "publisher": "National Institute of Standards and Technology (U.S.)"
+  },
+  "wntrsoftware": {
+    "title": [
+      "Water Network Tool for Resilience, version 1.4.0 [software and Net3 benchmark]"
+    ],
+    "author": [
+      {
+        "given": "United States Environmental Protection Agency",
+        "family": ""
+      }
+    ],
+    "URL": "https://usepa.github.io/WNTR/"
+  },
+  "epanet": {
+    "title": [
+      "EPANET 2.2 User Manual"
+    ],
+    "author": [
+      {
+        "given": "United States Environmental Protection Agency",
+        "family": ""
+      }
+    ],
+    "URL": "https://www.epa.gov/water-research/epanet"
+  },
+  "agentdojo": {
+    "title": [
+      "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents"
+    ],
+    "author": [
+      {
+        "given": "Edoardo",
+        "family": "Debenedetti"
+      },
+      {
+        "given": "Jie",
+        "family": "Zhang"
+      },
+      {
+        "given": "Mislav",
+        "family": "Balunović"
+      },
+      {
+        "given": "Luca",
+        "family": "Beurer-Kellner"
+      },
+      {
+        "given": "Marc",
+        "family": "Fischer"
+      },
+      {
+        "given": "Florian",
+        "family": "Tramèr"
+      }
+    ],
+    "container-title": [
+      "Advances in Neural Information Processing Systems"
+    ],
+    "volume": "37",
+    "page": "82895-82920",
+    "DOI": "10.52202/079017-2636",
+    "published": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "URL": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/97091a5177d8dc64b1da8bf3e1f6fb54-Abstract-Datasets_and_Benchmarks_Track.html"
+  },
+  "temporal": {
+    "title": [
+      "Hierarchical Temporal Runtime Assurance for Controlled Agentic AI Systems: Safety Shielding, Auditable Action Repair, and Bounded Recovery"
+    ],
+    "author": [
+      {
+        "given": "Tymoteusz",
+        "family": "Miller"
+      }
+    ],
+    "container-title": [
+      "Machine Learning and Knowledge Extraction"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          21
+        ]
+      ]
+    },
+    "volume": "8",
+    "issue": "9",
+    "page": "293",
+    "DOI": "10.3390/make8090293",
+    "URL": "https://doi.org/10.3390/make8090293",
+    "publisher": "MDPI AG"
+  },
+  "conformal": {
+    "title": [
+      "Conformal Prediction: A Gentle Introduction"
+    ],
+    "author": [
+      {
+        "given": "Anastasios N.",
+        "family": "Angelopoulos"
+      },
+      {
+        "given": "Stephen",
+        "family": "Bates"
+      }
+    ],
+    "container-title": [
+      "Foundations and Trends® in Machine Learning"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          27
+        ]
+      ]
+    },
+    "volume": "16",
+    "issue": "4",
+    "page": "494-591",
+    "DOI": "10.1561/2200000101",
+    "URL": "https://doi.org/10.1561/2200000101",
+    "publisher": "Emerald"
+  },
+  "twinai": {
+    "title": [
+      "TwinAI: A digital twin and graph reinforcement learning framework for real-time management of water distribution networks"
+    ],
+    "author": [
+      {
+        "given": "Pierluigi",
+        "family": "Locatelli"
+      },
+      {
+        "given": "Tiziana",
+        "family": "Cattai"
+      },
+      {
+        "given": "Pietro",
+        "family": "Spadaccino"
+      },
+      {
+        "given": "Marco",
+        "family": "Casalbore"
+      },
+      {
+        "given": "Francesca",
+        "family": "Cuomo"
+      }
+    ],
+    "container-title": [
+      "Internet of Things"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          5
+        ]
+      ]
+    },
+    "volume": "37",
+    "page": "101911",
+    "article-number": "101911",
+    "DOI": "10.1016/j.iot.2026.101911",
+    "URL": "https://doi.org/10.1016/j.iot.2026.101911",
+    "publisher": "Elsevier BV"
+  }
+}
