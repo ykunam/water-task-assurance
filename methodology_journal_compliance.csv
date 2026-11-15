@@ -1,6 +1,6 @@
 Item,Status,Evidence
 Article type,Verified,Regular research article. The supplied guide prefers no more than 20 double-spaced pages; Short Communications have a separate ten-page maximum. Length does not automatically change article type.
-Main document,Verified,12 rendered pages; 12-point double-spaced body; 159-word abstract; six keywords; five editable equations; two editable tables; two figures. References are readable 10.5-point text.
+Main document,Verified,13 rendered pages; 12-point double-spaced body; 159-word abstract; six keywords; five editable equations; two editable tables; two figures. References are readable 10.5-point text.
 Structure and scope,Verified,"Introduction, related work, methods, propositions, results, discussion/conclusion and declarations; aligned with intelligent decision support, knowledge-based rules and data-science methodology."
 Figure and table accuracy,Verified,"Two EPS/PDF artwork sets and source CSVs. All main table cells, 48 Figure 1 records and 384 Figure 2 stage records independently matched. Every bar retains 24 scheduled tasks."
 References,Verified within scope,"26 cited entries in first-use order: 22 Crossref-verified DOI records, two official technical URLs, one arXiv preprint with its assigned DOI, and one pinned dataset. All identities checked; no full-text or commercial similarity clearance is claimed."

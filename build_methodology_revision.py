@@ -52,7 +52,7 @@ def figures():
         ax.axhline(b.FIT[net]['residual_margin'],color='black',ls='--',lw=1,label='Original margin')
         ax.set_title(f"{net}: eligible tasks {int((g.eligible_candidates>0).sum())}/24")
         ax.set_xlabel('Calibration task');ax.set_xticks([1,6,12,18,24]);ax.set_yscale('symlog',linthresh=.01);ax.grid(axis='y',color='#dddddd',lw=.6)
-    axes[0].set_ylabel('Positive task residual');fig.legend(*axes[0].get_legend_handles_labels(),loc='upper center',bbox_to_anchor=(.5,1.04),ncol=3,frameon=False,fontsize=8)
+    axes[0].set_ylabel('Positive task residual');fig.legend(*axes[0].get_legend_handles_labels(),loc='upper center',bbox_to_anchor=(.5,.99),ncol=3,frameon=False,fontsize=8)
     fig.tight_layout(rect=(0,0,1,.9));save(fig,'Figure_1')
     ep=pd.read_csv(OUT/'ssrn_agent_episodes.csv');gates=['Scenario task','Original residual','Eligible marginal','Eligible conditional'];rows=[]
     for r in ep[(ep.cohort=='Prospective')&ep.gate.isin(gates)].itertuples():
@@ -206,7 +206,7 @@ def build(destination,regenerate_artwork=True):
 
 def supplement(source,destination,archive_url):
     d=Document(source)
-    d.paragraphs[1].text=('Supplementary Material S1 for '+TITLE+'. Sections S1–S8 retain the primary and first follow-up evidence; Sections S9–S10 document the new admissibility audit and prospectively frozen third cohort. The first two cohorts are retrospective for the new method.')
+    d.paragraphs[1].text=('Supplementary Material S1 for '+TITLE+'. Sections S1–S8 retain the primary and first follow-up evidence; Sections S9–S11 document the new admissibility audit and prospectively frozen third cohort. The first two cohorts are retrospective for the new method.')
     for p in d.paragraphs:
         if p.text.startswith('Data are pinned at '):
             p.text='The original data are pinned at https://github.com/ykunam/water-task-assurance/tree/49f0d2a6516885ec281a4a83e93ed63787b6c869. Third-cohort provenance and source are documented in S9.'
