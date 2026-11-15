@@ -1,0 +1,385 @@
+network,cohort,gate,task_id,stage
+C-Town,Primary,Hold RF,C-Town_test_00,Unrealized
+C-Town,Primary,Hold RF,C-Town_test_01,Recovery failure
+C-Town,Primary,Hold RF,C-Town_test_02,Unrealized
+C-Town,Primary,Hold RF,C-Town_test_03,Acceptable
+C-Town,Primary,Hold RF,C-Town_test_04,Recovery failure
+C-Town,Primary,Hold RF,C-Town_test_05,Unrealized
+C-Town,Primary,Hold RF,C-Town_test_06,Recovery failure
+C-Town,Primary,Hold RF,C-Town_test_07,Unrealized
+C-Town,Primary,Hold RF,C-Town_test_08,Unrealized
+C-Town,Primary,Hold RF,C-Town_test_09,Unrealized
+C-Town,Primary,Hold RF,C-Town_test_10,Recovery failure
+C-Town,Primary,Hold RF,C-Town_test_11,Unrealized
+C-Town,Primary,Hold RF,C-Town_test_12,Recovery failure
+C-Town,Primary,Hold RF,C-Town_test_13,Indeterminate
+C-Town,Primary,Hold RF,C-Town_test_14,Indeterminate
+C-Town,Primary,Hold RF,C-Town_test_15,Harm
+C-Town,Primary,Hold RF,C-Town_test_16,Recovery failure
+C-Town,Primary,Hold RF,C-Town_test_17,Unrealized
+C-Town,Primary,Hold RF,C-Town_test_18,Recovery failure
+C-Town,Primary,Hold RF,C-Town_test_19,Harm
+C-Town,Primary,Hold RF,C-Town_test_20,Unrealized
+C-Town,Primary,Hold RF,C-Town_test_21,Unrealized
+C-Town,Primary,Hold RF,C-Town_test_22,Recovery failure
+C-Town,Primary,Hold RF,C-Town_test_23,Recovery failure
+C-Town,Primary,Nominal task,C-Town_test_00,Acceptable
+C-Town,Primary,Nominal task,C-Town_test_01,Abstained
+C-Town,Primary,Nominal task,C-Town_test_02,Abstained
+C-Town,Primary,Nominal task,C-Town_test_03,Acceptable
+C-Town,Primary,Nominal task,C-Town_test_04,Acceptable
+C-Town,Primary,Nominal task,C-Town_test_05,Abstained
+C-Town,Primary,Nominal task,C-Town_test_06,Recovery failure
+C-Town,Primary,Nominal task,C-Town_test_07,Abstained
+C-Town,Primary,Nominal task,C-Town_test_08,Abstained
+C-Town,Primary,Nominal task,C-Town_test_09,Abstained
+C-Town,Primary,Nominal task,C-Town_test_10,Recovery failure
+C-Town,Primary,Nominal task,C-Town_test_11,Abstained
+C-Town,Primary,Nominal task,C-Town_test_12,Abstained
+C-Town,Primary,Nominal task,C-Town_test_13,Indeterminate
+C-Town,Primary,Nominal task,C-Town_test_14,Abstained
+C-Town,Primary,Nominal task,C-Town_test_15,Acceptable
+C-Town,Primary,Nominal task,C-Town_test_16,Abstained
+C-Town,Primary,Nominal task,C-Town_test_17,Abstained
+C-Town,Primary,Nominal task,C-Town_test_18,Acceptable
+C-Town,Primary,Nominal task,C-Town_test_19,Acceptable
+C-Town,Primary,Nominal task,C-Town_test_20,Abstained
+C-Town,Primary,Nominal task,C-Town_test_21,Abstained
+C-Town,Primary,Nominal task,C-Town_test_22,Abstained
+C-Town,Primary,Nominal task,C-Town_test_23,Recovery failure
+C-Town,Primary,Robust task,C-Town_test_00,Abstained
+C-Town,Primary,Robust task,C-Town_test_01,Abstained
+C-Town,Primary,Robust task,C-Town_test_02,Abstained
+C-Town,Primary,Robust task,C-Town_test_03,Abstained
+C-Town,Primary,Robust task,C-Town_test_04,Abstained
+C-Town,Primary,Robust task,C-Town_test_05,Abstained
+C-Town,Primary,Robust task,C-Town_test_06,Recovery failure
+C-Town,Primary,Robust task,C-Town_test_07,Abstained
+C-Town,Primary,Robust task,C-Town_test_08,Abstained
+C-Town,Primary,Robust task,C-Town_test_09,Abstained
+C-Town,Primary,Robust task,C-Town_test_10,Abstained
+C-Town,Primary,Robust task,C-Town_test_11,Abstained
+C-Town,Primary,Robust task,C-Town_test_12,Abstained
+C-Town,Primary,Robust task,C-Town_test_13,Abstained
+C-Town,Primary,Robust task,C-Town_test_14,Abstained
+C-Town,Primary,Robust task,C-Town_test_15,Acceptable
+C-Town,Primary,Robust task,C-Town_test_16,Abstained
+C-Town,Primary,Robust task,C-Town_test_17,Abstained
+C-Town,Primary,Robust task,C-Town_test_18,Abstained
+C-Town,Primary,Robust task,C-Town_test_19,Acceptable
+C-Town,Primary,Robust task,C-Town_test_20,Abstained
+C-Town,Primary,Robust task,C-Town_test_21,Abstained
+C-Town,Primary,Robust task,C-Town_test_22,Abstained
+C-Town,Primary,Robust task,C-Town_test_23,Recovery failure
+C-Town,Primary,Residual task,C-Town_test_00,Abstained
+C-Town,Primary,Residual task,C-Town_test_01,Abstained
+C-Town,Primary,Residual task,C-Town_test_02,Abstained
+C-Town,Primary,Residual task,C-Town_test_03,Abstained
+C-Town,Primary,Residual task,C-Town_test_04,Abstained
+C-Town,Primary,Residual task,C-Town_test_05,Abstained
+C-Town,Primary,Residual task,C-Town_test_06,Abstained
+C-Town,Primary,Residual task,C-Town_test_07,Abstained
+C-Town,Primary,Residual task,C-Town_test_08,Abstained
+C-Town,Primary,Residual task,C-Town_test_09,Abstained
+C-Town,Primary,Residual task,C-Town_test_10,Abstained
+C-Town,Primary,Residual task,C-Town_test_11,Abstained
+C-Town,Primary,Residual task,C-Town_test_12,Abstained
+C-Town,Primary,Residual task,C-Town_test_13,Abstained
+C-Town,Primary,Residual task,C-Town_test_14,Abstained
+C-Town,Primary,Residual task,C-Town_test_15,Abstained
+C-Town,Primary,Residual task,C-Town_test_16,Abstained
+C-Town,Primary,Residual task,C-Town_test_17,Abstained
+C-Town,Primary,Residual task,C-Town_test_18,Abstained
+C-Town,Primary,Residual task,C-Town_test_19,Abstained
+C-Town,Primary,Residual task,C-Town_test_20,Abstained
+C-Town,Primary,Residual task,C-Town_test_21,Abstained
+C-Town,Primary,Residual task,C-Town_test_22,Abstained
+C-Town,Primary,Residual task,C-Town_test_23,Abstained
+Net3,Primary,Hold RF,Net3_test_00,Unrealized
+Net3,Primary,Hold RF,Net3_test_01,Recovery failure
+Net3,Primary,Hold RF,Net3_test_02,Recovery failure
+Net3,Primary,Hold RF,Net3_test_03,Recovery failure
+Net3,Primary,Hold RF,Net3_test_04,Recovery failure
+Net3,Primary,Hold RF,Net3_test_05,Indeterminate
+Net3,Primary,Hold RF,Net3_test_06,Acceptable
+Net3,Primary,Hold RF,Net3_test_07,Acceptable
+Net3,Primary,Hold RF,Net3_test_08,Recovery failure
+Net3,Primary,Hold RF,Net3_test_09,Acceptable
+Net3,Primary,Hold RF,Net3_test_10,Recovery failure
+Net3,Primary,Hold RF,Net3_test_11,Recovery failure
+Net3,Primary,Hold RF,Net3_test_12,Recovery failure
+Net3,Primary,Hold RF,Net3_test_13,Acceptable
+Net3,Primary,Hold RF,Net3_test_14,Unrealized
+Net3,Primary,Hold RF,Net3_test_15,Acceptable
+Net3,Primary,Hold RF,Net3_test_16,Recovery failure
+Net3,Primary,Hold RF,Net3_test_17,Acceptable
+Net3,Primary,Hold RF,Net3_test_18,Recovery failure
+Net3,Primary,Hold RF,Net3_test_19,Acceptable
+Net3,Primary,Hold RF,Net3_test_20,Recovery failure
+Net3,Primary,Hold RF,Net3_test_21,Acceptable
+Net3,Primary,Hold RF,Net3_test_22,Recovery failure
+Net3,Primary,Hold RF,Net3_test_23,Harm
+Net3,Primary,Nominal task,Net3_test_00,Abstained
+Net3,Primary,Nominal task,Net3_test_01,Abstained
+Net3,Primary,Nominal task,Net3_test_02,Abstained
+Net3,Primary,Nominal task,Net3_test_03,Abstained
+Net3,Primary,Nominal task,Net3_test_04,Acceptable
+Net3,Primary,Nominal task,Net3_test_05,Acceptable
+Net3,Primary,Nominal task,Net3_test_06,Acceptable
+Net3,Primary,Nominal task,Net3_test_07,Acceptable
+Net3,Primary,Nominal task,Net3_test_08,Abstained
+Net3,Primary,Nominal task,Net3_test_09,Acceptable
+Net3,Primary,Nominal task,Net3_test_10,Acceptable
+Net3,Primary,Nominal task,Net3_test_11,Acceptable
+Net3,Primary,Nominal task,Net3_test_12,Acceptable
+Net3,Primary,Nominal task,Net3_test_13,Acceptable
+Net3,Primary,Nominal task,Net3_test_14,Abstained
+Net3,Primary,Nominal task,Net3_test_15,Acceptable
+Net3,Primary,Nominal task,Net3_test_16,Acceptable
+Net3,Primary,Nominal task,Net3_test_17,Acceptable
+Net3,Primary,Nominal task,Net3_test_18,Recovery failure
+Net3,Primary,Nominal task,Net3_test_19,Acceptable
+Net3,Primary,Nominal task,Net3_test_20,Abstained
+Net3,Primary,Nominal task,Net3_test_21,Acceptable
+Net3,Primary,Nominal task,Net3_test_22,Abstained
+Net3,Primary,Nominal task,Net3_test_23,Abstained
+Net3,Primary,Robust task,Net3_test_00,Abstained
+Net3,Primary,Robust task,Net3_test_01,Abstained
+Net3,Primary,Robust task,Net3_test_02,Abstained
+Net3,Primary,Robust task,Net3_test_03,Abstained
+Net3,Primary,Robust task,Net3_test_04,Acceptable
+Net3,Primary,Robust task,Net3_test_05,Acceptable
+Net3,Primary,Robust task,Net3_test_06,Acceptable
+Net3,Primary,Robust task,Net3_test_07,Abstained
+Net3,Primary,Robust task,Net3_test_08,Abstained
+Net3,Primary,Robust task,Net3_test_09,Acceptable
+Net3,Primary,Robust task,Net3_test_10,Acceptable
+Net3,Primary,Robust task,Net3_test_11,Acceptable
+Net3,Primary,Robust task,Net3_test_12,Acceptable
+Net3,Primary,Robust task,Net3_test_13,Acceptable
+Net3,Primary,Robust task,Net3_test_14,Abstained
+Net3,Primary,Robust task,Net3_test_15,Acceptable
+Net3,Primary,Robust task,Net3_test_16,Acceptable
+Net3,Primary,Robust task,Net3_test_17,Acceptable
+Net3,Primary,Robust task,Net3_test_18,Acceptable
+Net3,Primary,Robust task,Net3_test_19,Abstained
+Net3,Primary,Robust task,Net3_test_20,Abstained
+Net3,Primary,Robust task,Net3_test_21,Acceptable
+Net3,Primary,Robust task,Net3_test_22,Abstained
+Net3,Primary,Robust task,Net3_test_23,Abstained
+Net3,Primary,Residual task,Net3_test_00,Abstained
+Net3,Primary,Residual task,Net3_test_01,Abstained
+Net3,Primary,Residual task,Net3_test_02,Abstained
+Net3,Primary,Residual task,Net3_test_03,Abstained
+Net3,Primary,Residual task,Net3_test_04,Acceptable
+Net3,Primary,Residual task,Net3_test_05,Acceptable
+Net3,Primary,Residual task,Net3_test_06,Acceptable
+Net3,Primary,Residual task,Net3_test_07,Abstained
+Net3,Primary,Residual task,Net3_test_08,Abstained
+Net3,Primary,Residual task,Net3_test_09,Acceptable
+Net3,Primary,Residual task,Net3_test_10,Acceptable
+Net3,Primary,Residual task,Net3_test_11,Acceptable
+Net3,Primary,Residual task,Net3_test_12,Acceptable
+Net3,Primary,Residual task,Net3_test_13,Abstained
+Net3,Primary,Residual task,Net3_test_14,Abstained
+Net3,Primary,Residual task,Net3_test_15,Acceptable
+Net3,Primary,Residual task,Net3_test_16,Acceptable
+Net3,Primary,Residual task,Net3_test_17,Acceptable
+Net3,Primary,Residual task,Net3_test_18,Acceptable
+Net3,Primary,Residual task,Net3_test_19,Abstained
+Net3,Primary,Residual task,Net3_test_20,Abstained
+Net3,Primary,Residual task,Net3_test_21,Acceptable
+Net3,Primary,Residual task,Net3_test_22,Abstained
+Net3,Primary,Residual task,Net3_test_23,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_00,Unrealized
+C-Town,Follow-up,Nominal task,C-Town_followup_00,Acceptable
+C-Town,Follow-up,Robust task,C-Town_followup_00,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_00,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_01,Acceptable
+C-Town,Follow-up,Nominal task,C-Town_followup_01,Acceptable
+C-Town,Follow-up,Robust task,C-Town_followup_01,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_01,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_02,Acceptable
+C-Town,Follow-up,Nominal task,C-Town_followup_02,Acceptable
+C-Town,Follow-up,Robust task,C-Town_followup_02,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_02,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_03,Acceptable
+C-Town,Follow-up,Nominal task,C-Town_followup_03,Acceptable
+C-Town,Follow-up,Robust task,C-Town_followup_03,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_03,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_04,Harm
+C-Town,Follow-up,Nominal task,C-Town_followup_04,Acceptable
+C-Town,Follow-up,Robust task,C-Town_followup_04,Acceptable
+C-Town,Follow-up,Residual task,C-Town_followup_04,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_05,Unrealized
+C-Town,Follow-up,Nominal task,C-Town_followup_05,Abstained
+C-Town,Follow-up,Robust task,C-Town_followup_05,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_05,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_06,Acceptable
+C-Town,Follow-up,Nominal task,C-Town_followup_06,Acceptable
+C-Town,Follow-up,Robust task,C-Town_followup_06,Acceptable
+C-Town,Follow-up,Residual task,C-Town_followup_06,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_07,Unrealized
+C-Town,Follow-up,Nominal task,C-Town_followup_07,Abstained
+C-Town,Follow-up,Robust task,C-Town_followup_07,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_07,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_08,Acceptable
+C-Town,Follow-up,Nominal task,C-Town_followup_08,Abstained
+C-Town,Follow-up,Robust task,C-Town_followup_08,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_08,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_09,Indeterminate
+C-Town,Follow-up,Nominal task,C-Town_followup_09,Abstained
+C-Town,Follow-up,Robust task,C-Town_followup_09,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_09,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_10,Unrealized
+C-Town,Follow-up,Nominal task,C-Town_followup_10,Abstained
+C-Town,Follow-up,Robust task,C-Town_followup_10,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_10,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_11,Indeterminate
+C-Town,Follow-up,Nominal task,C-Town_followup_11,Abstained
+C-Town,Follow-up,Robust task,C-Town_followup_11,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_11,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_12,Unrealized
+C-Town,Follow-up,Nominal task,C-Town_followup_12,Abstained
+C-Town,Follow-up,Robust task,C-Town_followup_12,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_12,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_13,Recovery failure
+C-Town,Follow-up,Nominal task,C-Town_followup_13,Abstained
+C-Town,Follow-up,Robust task,C-Town_followup_13,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_13,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_14,Acceptable
+C-Town,Follow-up,Nominal task,C-Town_followup_14,Abstained
+C-Town,Follow-up,Robust task,C-Town_followup_14,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_14,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_15,Unrealized
+C-Town,Follow-up,Nominal task,C-Town_followup_15,Abstained
+C-Town,Follow-up,Robust task,C-Town_followup_15,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_15,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_16,Unrealized
+C-Town,Follow-up,Nominal task,C-Town_followup_16,Acceptable
+C-Town,Follow-up,Robust task,C-Town_followup_16,Acceptable
+C-Town,Follow-up,Residual task,C-Town_followup_16,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_17,Acceptable
+C-Town,Follow-up,Nominal task,C-Town_followup_17,Acceptable
+C-Town,Follow-up,Robust task,C-Town_followup_17,Acceptable
+C-Town,Follow-up,Residual task,C-Town_followup_17,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_18,Acceptable
+C-Town,Follow-up,Nominal task,C-Town_followup_18,Acceptable
+C-Town,Follow-up,Robust task,C-Town_followup_18,Acceptable
+C-Town,Follow-up,Residual task,C-Town_followup_18,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_19,Unrealized
+C-Town,Follow-up,Nominal task,C-Town_followup_19,Abstained
+C-Town,Follow-up,Robust task,C-Town_followup_19,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_19,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_20,Unrealized
+C-Town,Follow-up,Nominal task,C-Town_followup_20,Acceptable
+C-Town,Follow-up,Robust task,C-Town_followup_20,Acceptable
+C-Town,Follow-up,Residual task,C-Town_followup_20,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_21,Unrealized
+C-Town,Follow-up,Nominal task,C-Town_followup_21,Abstained
+C-Town,Follow-up,Robust task,C-Town_followup_21,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_21,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_22,Indeterminate
+C-Town,Follow-up,Nominal task,C-Town_followup_22,Abstained
+C-Town,Follow-up,Robust task,C-Town_followup_22,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_22,Abstained
+C-Town,Follow-up,Hold RF,C-Town_followup_23,Harm
+C-Town,Follow-up,Nominal task,C-Town_followup_23,Acceptable
+C-Town,Follow-up,Robust task,C-Town_followup_23,Abstained
+C-Town,Follow-up,Residual task,C-Town_followup_23,Abstained
+Net3,Follow-up,Hold RF,Net3_followup_00,Unrealized
+Net3,Follow-up,Nominal task,Net3_followup_00,Abstained
+Net3,Follow-up,Robust task,Net3_followup_00,Abstained
+Net3,Follow-up,Residual task,Net3_followup_00,Abstained
+Net3,Follow-up,Hold RF,Net3_followup_01,Recovery failure
+Net3,Follow-up,Nominal task,Net3_followup_01,Abstained
+Net3,Follow-up,Robust task,Net3_followup_01,Abstained
+Net3,Follow-up,Residual task,Net3_followup_01,Abstained
+Net3,Follow-up,Hold RF,Net3_followup_02,Acceptable
+Net3,Follow-up,Nominal task,Net3_followup_02,Acceptable
+Net3,Follow-up,Robust task,Net3_followup_02,Abstained
+Net3,Follow-up,Residual task,Net3_followup_02,Abstained
+Net3,Follow-up,Hold RF,Net3_followup_03,Recovery failure
+Net3,Follow-up,Nominal task,Net3_followup_03,Acceptable
+Net3,Follow-up,Robust task,Net3_followup_03,Acceptable
+Net3,Follow-up,Residual task,Net3_followup_03,Acceptable
+Net3,Follow-up,Hold RF,Net3_followup_04,Acceptable
+Net3,Follow-up,Nominal task,Net3_followup_04,Acceptable
+Net3,Follow-up,Robust task,Net3_followup_04,Acceptable
+Net3,Follow-up,Residual task,Net3_followup_04,Acceptable
+Net3,Follow-up,Hold RF,Net3_followup_05,Recovery failure
+Net3,Follow-up,Nominal task,Net3_followup_05,Acceptable
+Net3,Follow-up,Robust task,Net3_followup_05,Abstained
+Net3,Follow-up,Residual task,Net3_followup_05,Abstained
+Net3,Follow-up,Hold RF,Net3_followup_06,Recovery failure
+Net3,Follow-up,Nominal task,Net3_followup_06,Recovery failure
+Net3,Follow-up,Robust task,Net3_followup_06,Recovery failure
+Net3,Follow-up,Residual task,Net3_followup_06,Abstained
+Net3,Follow-up,Hold RF,Net3_followup_07,Unrealized
+Net3,Follow-up,Nominal task,Net3_followup_07,Abstained
+Net3,Follow-up,Robust task,Net3_followup_07,Abstained
+Net3,Follow-up,Residual task,Net3_followup_07,Abstained
+Net3,Follow-up,Hold RF,Net3_followup_08,Recovery failure
+Net3,Follow-up,Nominal task,Net3_followup_08,Abstained
+Net3,Follow-up,Robust task,Net3_followup_08,Abstained
+Net3,Follow-up,Residual task,Net3_followup_08,Abstained
+Net3,Follow-up,Hold RF,Net3_followup_09,Recovery failure
+Net3,Follow-up,Nominal task,Net3_followup_09,Abstained
+Net3,Follow-up,Robust task,Net3_followup_09,Abstained
+Net3,Follow-up,Residual task,Net3_followup_09,Abstained
+Net3,Follow-up,Hold RF,Net3_followup_10,Recovery failure
+Net3,Follow-up,Nominal task,Net3_followup_10,Harm
+Net3,Follow-up,Robust task,Net3_followup_10,Harm
+Net3,Follow-up,Residual task,Net3_followup_10,Harm
+Net3,Follow-up,Hold RF,Net3_followup_11,Recovery failure
+Net3,Follow-up,Nominal task,Net3_followup_11,Acceptable
+Net3,Follow-up,Robust task,Net3_followup_11,Acceptable
+Net3,Follow-up,Residual task,Net3_followup_11,Acceptable
+Net3,Follow-up,Hold RF,Net3_followup_12,Recovery failure
+Net3,Follow-up,Nominal task,Net3_followup_12,Harm
+Net3,Follow-up,Robust task,Net3_followup_12,Harm
+Net3,Follow-up,Residual task,Net3_followup_12,Harm
+Net3,Follow-up,Hold RF,Net3_followup_13,Recovery failure
+Net3,Follow-up,Nominal task,Net3_followup_13,Abstained
+Net3,Follow-up,Robust task,Net3_followup_13,Abstained
+Net3,Follow-up,Residual task,Net3_followup_13,Abstained
+Net3,Follow-up,Hold RF,Net3_followup_14,Acceptable
+Net3,Follow-up,Nominal task,Net3_followup_14,Acceptable
+Net3,Follow-up,Robust task,Net3_followup_14,Acceptable
+Net3,Follow-up,Residual task,Net3_followup_14,Abstained
+Net3,Follow-up,Hold RF,Net3_followup_15,Recovery failure
+Net3,Follow-up,Nominal task,Net3_followup_15,Abstained
+Net3,Follow-up,Robust task,Net3_followup_15,Abstained
+Net3,Follow-up,Residual task,Net3_followup_15,Abstained
+Net3,Follow-up,Hold RF,Net3_followup_16,Recovery failure
+Net3,Follow-up,Nominal task,Net3_followup_16,Abstained
+Net3,Follow-up,Robust task,Net3_followup_16,Abstained
+Net3,Follow-up,Residual task,Net3_followup_16,Abstained
+Net3,Follow-up,Hold RF,Net3_followup_17,Recovery failure
+Net3,Follow-up,Nominal task,Net3_followup_17,Abstained
+Net3,Follow-up,Robust task,Net3_followup_17,Abstained
+Net3,Follow-up,Residual task,Net3_followup_17,Abstained
+Net3,Follow-up,Hold RF,Net3_followup_18,Recovery failure
+Net3,Follow-up,Nominal task,Net3_followup_18,Abstained
+Net3,Follow-up,Robust task,Net3_followup_18,Abstained
+Net3,Follow-up,Residual task,Net3_followup_18,Abstained
+Net3,Follow-up,Hold RF,Net3_followup_19,Recovery failure
+Net3,Follow-up,Nominal task,Net3_followup_19,Acceptable
+Net3,Follow-up,Robust task,Net3_followup_19,Acceptable
+Net3,Follow-up,Residual task,Net3_followup_19,Acceptable
+Net3,Follow-up,Hold RF,Net3_followup_20,Acceptable
+Net3,Follow-up,Nominal task,Net3_followup_20,Acceptable
+Net3,Follow-up,Robust task,Net3_followup_20,Acceptable
+Net3,Follow-up,Residual task,Net3_followup_20,Acceptable
+Net3,Follow-up,Hold RF,Net3_followup_21,Acceptable
+Net3,Follow-up,Nominal task,Net3_followup_21,Abstained
+Net3,Follow-up,Robust task,Net3_followup_21,Abstained
+Net3,Follow-up,Residual task,Net3_followup_21,Abstained
+Net3,Follow-up,Hold RF,Net3_followup_22,Recovery failure
+Net3,Follow-up,Nominal task,Net3_followup_22,Acceptable
+Net3,Follow-up,Robust task,Net3_followup_22,Acceptable
+Net3,Follow-up,Residual task,Net3_followup_22,Acceptable
+Net3,Follow-up,Hold RF,Net3_followup_23,Recovery failure
+Net3,Follow-up,Nominal task,Net3_followup_23,Abstained
+Net3,Follow-up,Robust task,Net3_followup_23,Abstained
+Net3,Follow-up,Residual task,Net3_followup_23,Abstained

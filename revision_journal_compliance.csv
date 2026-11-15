@@ -1,0 +1,13 @@
+Item,Status,Evidence
+Length and article type,Verified,"10 pages including references, tables and figures; regular-article format retained. A ten-page length alone does not establish Short Communication eligibility."
+Guide authority,Partially verified,All twenty pages of the supplied official guide dated 23 October 2026 were available and examined. Live ScienceDirect and Elsevier guide requests returned HTTP 403; current portal currency remains unverified.
+Main text,Verified,"Concise introduction, related work, methods, results, discussion/conclusion and declarations. Methods retain exact endpoints, numerical tolerances and locked comparisons."
+Figures and tables,Verified,"Two exact-data figures, separate EPS/PDF artwork and source CSVs; two editable tables. Figure data and every table cell checked against outputs. The main Word document was rendered and inspected page by page."
+References,Verified within scope,22 selected DOI titles/authors/year/volume/issue/pages checked; two official documentation URLs resolve; a dataset citation points to the retained immutable evidence commit. Bibliographic identity does not certify every source’s methodology.
+All-Q1 preference,Not met/certified,"The closest overlapping work and necessary method/data/software sources remain cited. Quartile metric, category and year qualifications are retained. The supplied journal guide does not require an all-Q1 bibliography."
+Data deposit and access,Author action pending,Versioned private GitHub deposit and dataset citation prepared. Source archive link supplied for S2. Arrange reviewer access or upload S2; confirm that the publisher accepts this deposit or approve a suitable public archive.
+Highlights,Prepared,"Four editable highlights, each no longer than 85 characters."
+Funding and interests,Prepared,No-funding and no-competing-interest statements retained from author instructions. The required Elsevier declarations-tool workflow still needs author completion.
+Author and AI disclosure,Prepared,Corresponding details and previously supplied affiliation retained; CRediT and substantive AI assistance disclosed. Author approval of this new revision remains necessary.
+Graphical abstract,No mandate verified,No mandate identified in the supplied guide; any live-portal-specific requirement remains unverified.
+Full-text/retraction/similarity clearance,Limited,No comprehensive commercial similarity test or full-text/retraction-database clearance is claimed. Crossref metadata exposed no withdrawal/retraction notice for selected journal records; the NIST record’s update points to its superseded earlier edition.

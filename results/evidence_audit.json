@@ -1,6 +1,6 @@
 {
-  "passed": 45,
-  "total": 45,
+  "passed": 35,
+  "total": 35,
   "checks": [
     {
       "check": "Frozen generation implementation unchanged",
@@ -174,56 +174,6 @@
     },
     {
       "check": "29 references retained with no duplicate DOI",
-      "passed": true,
-      "evidence": ""
-    },
-    {
-      "check": "Citations in first-use order without missing entries",
-      "passed": true,
-      "evidence": ""
-    },
-    {
-      "check": "Exactly two figures and two editable main tables",
-      "passed": true,
-      "evidence": ""
-    },
-    {
-      "check": "Five editable display equations",
-      "passed": true,
-      "evidence": ""
-    },
-    {
-      "check": "Abstract within 250 words",
-      "passed": true,
-      "evidence": "198"
-    },
-    {
-      "check": "Six keywords",
-      "passed": true,
-      "evidence": ""
-    },
-    {
-      "check": "Main paragraphs double spaced",
-      "passed": true,
-      "evidence": ""
-    },
-    {
-      "check": "Scientific failure and secondary status disclosures retained",
-      "passed": true,
-      "evidence": ""
-    },
-    {
-      "check": "No all Q1 or submission ready claim invented",
-      "passed": true,
-      "evidence": ""
-    },
-    {
-      "check": "Both figures and tables cited in prose",
-      "passed": true,
-      "evidence": ""
-    },
-    {
-      "check": "Every Table 2 value matched to audited candidate counts",
       "passed": true,
       "evidence": ""
     }

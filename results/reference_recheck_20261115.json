@@ -1,0 +1,3826 @@
+[
+  {
+    "key": "nist",
+    "doi": "10.6028/nist.sp.800-82r3",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.6028%2Fnist.sp.800-82r3",
+    "metadata": {
+      "DOI": "10.6028/nist.sp.800-82r3",
+      "title": [
+        "Guide to Operational Technology (OT) security"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-1220-5487",
+          "authenticated-orcid": false,
+          "given": "Keith",
+          "family": "Stouffer",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6489-2621",
+          "authenticated-orcid": false,
+          "given": "Michael",
+          "family": "Pease",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5488-8645",
+          "authenticated-orcid": false,
+          "given": "CheeYee",
+          "family": "Tang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8451-0515",
+          "authenticated-orcid": false,
+          "given": "Timothy",
+          "family": "Zimmerman",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7446-7506",
+          "authenticated-orcid": false,
+          "given": "Victoria",
+          "family": "Pillitteri",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5007-3887",
+          "authenticated-orcid": false,
+          "given": "Suzanne",
+          "family": "Lightman",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Adam",
+          "family": "Hahn",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Stephanie",
+          "family": "Saravia",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2003-3817",
+          "authenticated-orcid": false,
+          "given": "Aslam",
+          "family": "Sherule",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michael",
+          "family": "Thompson",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            9,
+            28
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            9,
+            28
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            9,
+            28
+          ]
+        ]
+      },
+      "type": "report",
+      "publisher": "National Institute of Standards and Technology (U.S.)",
+      "relation": {
+        "replaces": [
+          {
+            "id-type": "doi",
+            "id": "10.6028/NIST.SP.800-82r2",
+            "asserted-by": "subject"
+          }
+        ]
+      },
+      "update-to": [
+        {
+          "DOI": "10.6028/nist.sp.800-82r2",
+          "type": "new_version",
+          "label": "New version",
+          "source": "publisher",
+          "updated": {
+            "date-parts": [
+              [
+                2023,
+                9,
+                28
+              ]
+            ],
+            "date-time": "2023-09-28T00:00:00Z",
+            "timestamp": 1695859200000
+          }
+        }
+      ],
+      "assertion": [
+        {
+          "value": "https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications",
+          "URL": "https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications",
+          "order": 0,
+          "name": "licensing",
+          "label": "Licensing Information",
+          "group": {
+            "name": "copyright_licensing",
+            "label": "Copyright, Fair Use, and Licensing"
+          }
+        },
+        {
+          "value": "https://doi.org/10.6028/NIST.SP.800-82r2",
+          "URL": "https://doi.org/10.6028/NIST.SP.800-82r2",
+          "order": 0,
+          "name": "publication_history",
+          "label": "Supersedes",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "order": 0,
+          "name": "publication_history",
+          "label": "Approved by the NIST Editorial Review Board on 2023-09-20",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ],
+      "URL": "https://doi.org/10.6028/nist.sp.800-82r3"
+    }
+  },
+  {
+    "key": "saltzer",
+    "doi": "10.1109/proc.1975.9939",
+    "status": "verified",
+    "included": false,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1109%2Fproc.1975.9939",
+    "metadata": {
+      "DOI": "10.1109/proc.1975.9939",
+      "title": [
+        "The protection of information in computer systems"
+      ],
+      "author": [
+        {
+          "given": "J.H.",
+          "family": "Saltzer",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.D.",
+          "family": "Schroeder",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the IEEE"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1975
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            1975
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            1975
+          ]
+        ]
+      },
+      "volume": "63",
+      "issue": "9",
+      "page": "1278-1308",
+      "type": "journal-article",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "relation": {},
+      "URL": "https://doi.org/10.1109/proc.1975.9939"
+    }
+  },
+  {
+    "key": "humayed",
+    "doi": "10.1109/jiot.2017.2703172",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1109%2Fjiot.2017.2703172",
+    "metadata": {
+      "DOI": "10.1109/jiot.2017.2703172",
+      "title": [
+        "Cyber-Physical Systems Security—A Survey"
+      ],
+      "author": [
+        {
+          "given": "Abdulmalik",
+          "family": "Humayed",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jingqiang",
+          "family": "Lin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Fengjun",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8196-2436",
+          "authenticated-orcid": false,
+          "given": "Bo",
+          "family": "Luo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Internet of Things Journal"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            12
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            12
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2017,
+            12
+          ]
+        ]
+      },
+      "volume": "4",
+      "issue": "6",
+      "page": "1802-1831",
+      "type": "journal-article",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "relation": {},
+      "URL": "https://doi.org/10.1109/jiot.2017.2703172"
+    }
+  },
+  {
+    "key": "leveson",
+    "doi": "10.1016/s0925-7535(03)00047-x",
+    "status": "verified",
+    "included": false,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1016%2Fs0925-7535%2803%2900047-x",
+    "metadata": {
+      "DOI": "10.1016/s0925-7535(03)00047-x",
+      "title": [
+        "A new accident model for engineering safer systems"
+      ],
+      "author": [
+        {
+          "given": "Nancy",
+          "family": "Leveson",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Safety Science"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2004,
+            4
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2004,
+            4
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2004,
+            4
+          ]
+        ]
+      },
+      "volume": "42",
+      "issue": "4",
+      "page": "237-270",
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "relation": {},
+      "URL": "https://doi.org/10.1016/s0925-7535(03)00047-x"
+    }
+  },
+  {
+    "key": "tuptuk",
+    "doi": "10.3390/w13010081",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.3390%2Fw13010081",
+    "metadata": {
+      "DOI": "10.3390/w13010081",
+      "title": [
+        "A Systematic Review of the State of Cyber-Security in Water Systems"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-4057-2292",
+          "authenticated-orcid": false,
+          "given": "Nilufer",
+          "family": "Tuptuk",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Computer Science, University College London, London WC1E 6EA, UK"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Peter",
+          "family": "Hazell",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Technology, Enterprise, Change and Data Science—Information  Cyber-Physical Security, Yorkshire Water, Bradford BD6 2SZ, UK"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jeremy",
+          "family": "Watson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Science, Technology, Engineering and Public Policy, University College London, London WC1E 6BT, UK"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Stephen",
+          "family": "Hailes",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Computer Science, University College London, London WC1E 6EA, UK"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Water"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            1
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            1
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            1
+          ]
+        ]
+      },
+      "volume": "13",
+      "issue": "1",
+      "page": "81",
+      "type": "journal-article",
+      "publisher": "MDPI AG",
+      "relation": {},
+      "URL": "https://doi.org/10.3390/w13010081"
+    }
+  },
+  {
+    "key": "waterreview",
+    "doi": "10.3390/w18040519",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.3390%2Fw18040519",
+    "metadata": {
+      "DOI": "10.3390/w18040519",
+      "title": [
+        "Cybersecurity in Water Distribution Networks: A Systematic Review of AI-Based Detection Algorithms"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0003-0649-0493",
+          "authenticated-orcid": false,
+          "given": "Md Arman",
+          "family": "Habib",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "UCD Dooge Centre for Water Resources Research, UCD School of Civil Engineering, UCD Earth Institute, University College Dublin, 4 Dublin, Ireland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2705-1823",
+          "authenticated-orcid": false,
+          "given": "Anca Delia",
+          "family": "Jurcut",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "UCD School of Computer Science, University College Dublin, 4 Dublin, Ireland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8952-4190",
+          "authenticated-orcid": false,
+          "given": "Hafiz",
+          "family": "Ahmed",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Electrical & Electronic Engineering, University of Sheffield, Sheffield S1 3JD, UK"
+            },
+            {
+              "name": "Autonex Systems Limited, London WC2H 9JQ, UK"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0006-7331-5232",
+          "authenticated-orcid": false,
+          "given": "Wenhui",
+          "family": "Wei",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "UCD Dooge Centre for Water Resources Research, UCD School of Civil Engineering, UCD Earth Institute, University College Dublin, 4 Dublin, Ireland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5021-9236",
+          "authenticated-orcid": false,
+          "given": "Md",
+          "family": "Salauddin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "UCD Dooge Centre for Water Resources Research, UCD School of Civil Engineering, UCD Earth Institute, University College Dublin, 4 Dublin, Ireland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Water"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            22
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            22
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            22
+          ]
+        ]
+      },
+      "volume": "18",
+      "issue": "4",
+      "page": "519",
+      "type": "journal-article",
+      "publisher": "MDPI AG",
+      "relation": {},
+      "URL": "https://doi.org/10.3390/w18040519"
+    }
+  },
+  {
+    "key": "watersurvey",
+    "doi": "10.1109/access.2021.3095713",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1109%2Faccess.2021.3095713",
+    "metadata": {
+      "DOI": "10.1109/access.2021.3095713",
+      "title": [
+        "A Survey of Cyber-Physical Attacks and Detection Methods in Smart Water Distribution Systems"
+      ],
+      "author": [
+        {
+          "given": "Hajar Hameed",
+          "family": "Addeen",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8549-6794",
+          "authenticated-orcid": false,
+          "given": "Yang",
+          "family": "Xiao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jiacheng",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8972-8094",
+          "authenticated-orcid": false,
+          "given": "Mohsen",
+          "family": "Guizani",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Access"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      },
+      "volume": "9",
+      "page": "99905-99921",
+      "type": "journal-article",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "relation": {},
+      "URL": "https://doi.org/10.1109/access.2021.3095713"
+    }
+  },
+  {
+    "key": "scada1",
+    "doi": "10.1109/tcst.2012.2211873",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1109%2Ftcst.2012.2211873",
+    "metadata": {
+      "DOI": "10.1109/tcst.2012.2211873",
+      "title": [
+        "Cyber Security of Water SCADA Systems—Part I: Analysis and Experimentation of Stealthy Deception Attacks"
+      ],
+      "author": [
+        {
+          "given": "Saurabh",
+          "family": "Amin",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xavier",
+          "family": "Litrico",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shankar",
+          "family": "Sastry",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alexandre M.",
+          "family": "Bayen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Control Systems Technology"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2013,
+            9
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            9
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            9
+          ]
+        ]
+      },
+      "volume": "21",
+      "issue": "5",
+      "page": "1963-1970",
+      "type": "journal-article",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "relation": {},
+      "URL": "https://doi.org/10.1109/tcst.2012.2211873"
+    }
+  },
+  {
+    "key": "scada2",
+    "doi": "10.1109/tcst.2012.2211874",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1109%2Ftcst.2012.2211874",
+    "metadata": {
+      "DOI": "10.1109/tcst.2012.2211874",
+      "title": [
+        "Cyber Security of Water SCADA Systems—Part II: Attack Detection Using Enhanced Hydrodynamic Models"
+      ],
+      "author": [
+        {
+          "given": "Saurabh",
+          "family": "Amin",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xavier",
+          "family": "Litrico",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S. Shankar",
+          "family": "Sastry",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alexandre M.",
+          "family": "Bayen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Control Systems Technology"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2013,
+            9
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            9
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            9
+          ]
+        ]
+      },
+      "volume": "21",
+      "issue": "5",
+      "page": "1679-1693",
+      "type": "journal-article",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "relation": {},
+      "URL": "https://doi.org/10.1109/tcst.2012.2211874"
+    }
+  },
+  {
+    "key": "rdfr",
+    "doi": "10.3390/info17111068",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.3390%2Finfo17111068",
+    "metadata": {
+      "DOI": "10.3390/info17111068",
+      "title": [
+        "RDFR-CI: Risk-Driven Deployment and Forensic Readiness for Governing AI Authority in Critical Infrastructure Protection"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0007-2169-6851",
+          "authenticated-orcid": false,
+          "given": "Olga",
+          "family": "Torstensson",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Information Technology, Halmstad University, 301 18 Halmstad, Sweden"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            },
+            {
+              "role": "conceptualization",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "methodology",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "software",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "validation",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "formal-analysis",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "investigation",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "resources",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "data-curation",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "writing-original-draft",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "writing-review-editing",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "visualization",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "supervision",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "project-administration",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "funding-acquisition",
+              "vocabulary": "credit"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6590-3898",
+          "authenticated-orcid": false,
+          "given": "Dmytro",
+          "family": "Prokopovych-Tkachenko",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Cybersecurity and Information Technologies, University of Customs and Finance, 49000 Dnipro, Ukraine"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            },
+            {
+              "role": "conceptualization",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "methodology",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "software",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "validation",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "formal-analysis",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "investigation",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "resources",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "data-curation",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "writing-original-draft",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "writing-review-editing",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "visualization",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "supervision",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "funding-acquisition",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "project-administration",
+              "vocabulary": "credit"
+            }
+          ]
+        },
+        {
+          "given": "Muhammad Ahsan",
+          "family": "Rasool",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Information Technology, Halmstad University, 301 18 Halmstad, Sweden"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            },
+            {
+              "role": "investigation",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "validation",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "writing-review-editing",
+              "vocabulary": "credit"
+            }
+          ]
+        },
+        {
+          "given": "Kostiantyn",
+          "family": "Babenko",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Computer Science and Information Technologies, Faculty of Physics, Electronics and Computer Systems, Oles Honchar Dnipro National University, 49000 Dnipro, Ukraine"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            },
+            {
+              "role": "conceptualization",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "data-curation",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "writing-review-editing",
+              "vocabulary": "credit"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Information"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            26
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            26
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            26
+          ]
+        ]
+      },
+      "volume": "17",
+      "issue": "11",
+      "page": "1068",
+      "type": "journal-article",
+      "publisher": "MDPI AG",
+      "relation": {},
+      "URL": "https://doi.org/10.3390/info17111068"
+    }
+  },
+  {
+    "key": "batadal",
+    "doi": "10.1061/(asce)wr.1943-5452.0000969",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1061%2F%28asce%29wr.1943-5452.0000969",
+    "metadata": {
+      "DOI": "10.1061/(asce)wr.1943-5452.0000969",
+      "title": [
+        "Battle of the Attack Detection Algorithms: Disclosing Cyber Attacks on Water Distribution Networks"
+      ],
+      "author": [
+        {
+          "given": "Riccardo",
+          "family": "Taormina",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Postdoctoral Research Fellow, iTrust Centre for Research in Cyber Security, Singapore Univ. of Technology and Design, 8 Somapah Rd., Singapore 487372, Singapore."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Stefano",
+          "family": "Galelli",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Assistant Professor, Pillar of Engineering Systems and Design, Singapore Univ. of Technology and Design, 8 Somapah Rd., Singapore 487372, Singapore (corresponding author)."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Nils Ole",
+          "family": "Tippenhauer",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Assistant Professor, Pillar of Information Systems Technology and Design, Singapore Univ. of Technology and Design, 8 Somapah Rd., Singapore 487372, Singapore."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Elad",
+          "family": "Salomons",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Independent Water Resources Consultant, OptiWater, 6 Amikam Israel St., Haifa 3438561, Israel."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Avi",
+          "family": "Ostfeld",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Professor, Faculty of Civil and Environmental Engineering, Technion–Israel Institute of Technology, Haifa 32000, Israel."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Demetrios G.",
+          "family": "Eliades",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Research Associate, KIOS Research and Innovation Center of Excellence, Univ. of Cyprus, 75 Kallipoleos Ave., CY-1678, Nicosia, Cyprus."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mohsen",
+          "family": "Aghashahi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Ph.D. Student, Zachry Dept. of Civil Engineering, Texas A&amp;M Univ., College Station, TX 77840."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Raanju",
+          "family": "Sundararajan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Ph.D. Student, Dept. of Statistics, Texas A&amp;M Univ., College Station, TX 77843."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mohsen",
+          "family": "Pourahmadi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Professor, Dept. of Statistics, Texas A&amp;M Univ., College Station, TX 77843."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M. Katherine",
+          "family": "Banks",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Professor, Zachry Dept. of Civil Engineering, Texas A&amp;M Univ., College Station, TX 77840."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "B. M.",
+          "family": "Brentan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Ph.D. Student, Centre de Recherche en Automatique de Nancy, Universitet de Lorraine, BP 70239, 54506 Nancy, France."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Enrique",
+          "family": "Campbell",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Engineer, Fluing-Instituto de Matemática Multidisciplinar, Universitat Politècnica de València, 46022 Valencia, Spain; Berliner Wasserbetriebe, Berlin, Germany."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "G.",
+          "family": "Lima",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Research Assistant, Computational Hydraulic Laboratory, Universidade Estadual de Campinas, CEP 13083-889, Campinas, Brazil."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "D.",
+          "family": "Manzi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Research Assistant, Computational Hydraulic Laboratory, Universidade Estadual de Campinas, CEP 13083-889, Campinas, Brazil."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "D.",
+          "family": "Ayala-Cabrera",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Research Fellow, Dept. of Water, Irstea, BP 5095, 34196 Cestas, France."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Herrera",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Research Associate, Dept. of Architecture and Civil Engineering, Univ. of Bath, Bath BA2 7AY, UK."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "I.",
+          "family": "Montalvo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Research Engineer, Ingeniousware GmbH, 76137 Karlsruhe, Germany."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.",
+          "family": "Izquierdo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Professor, Fluing-Instituto de Matemática Multidisciplinar, Universitat Politècnica de València, 46022 Valencia, Spain."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "suffix": "Jr.",
+          "given": "E.",
+          "family": "Luvizotto",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Associate Professor, Computational Hydraulic Laboratory, Universidade Estadual de Campinas, CEP 46022, Campinas, Brazil."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sarin E.",
+          "family": "Chandy",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Data Scientist, Sensus, Inc., 8601 Six Forks Rd., Suite 700, Raleigh, NC 27615."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Amin",
+          "family": "Rasekh",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Lead R&amp;D Engineer, Sensus, Inc., 8601 Six Forks Rd., Suite 700, Raleigh, NC 27615."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zachary A.",
+          "family": "Barker",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Water Resources Engineer, Sensus, Inc., 8601 Six Forks Rd., Suite 700, Raleigh, NC 27615."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Bruce",
+          "family": "Campbell",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Chief Data Scientist, Sensus, Inc., 8601 Six Forks Rd., Suite 700, Raleigh, NC 27615."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M. Ehsan",
+          "family": "Shafiee",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Lead R&amp;D Engineer, Sensus, Inc., 8601 Six Forks Rd., Suite 700, Raleigh, NC 27615."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marcio",
+          "family": "Giacomoni",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Assistant Professor, Dept. of Civil and Environmental Engineering, Univ. of Texas at San Antonio, San Antonio, TX 78249."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Nikolaos",
+          "family": "Gatsis",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Assistant Professor, Dept. of Electrical and Computer Engineering, Univ. of Texas at San Antonio, San Antonio, TX 78249."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ahmad",
+          "family": "Taha",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Assistant Professor, Dept. of Electrical and Computer Engineering, Univ. of Texas at San Antonio, San Antonio, TX 78249."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ahmed A.",
+          "family": "Abokifa",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Ph.D. Student, Dept. of Energy, Environmental, and Chemical Engineering, Washington Univ., St. Louis, MO 63130-4899."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kelsey",
+          "family": "Haddad",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Ph.D. Student, Dept. of Energy, Environmental, and Chemical Engineering, Washington Univ., St. Louis, MO 63130-4899."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Cynthia S.",
+          "family": "Lo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Assistant Professor, Dept. of Energy, Environmental, and Chemical Engineering, Washington Univ., St. Louis, MO 63130-4899."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Pratim",
+          "family": "Biswas",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Professor, Dept. of Energy, Environmental, and Chemical Engineering, Washington Univ., St. Louis, MO 63130-4899."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M. Fayzul K.",
+          "family": "Pasha",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Associate Professor, Dept. of Civil and Geomatics Engineering, California State Univ., Fresno, CA 93740."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Bijay",
+          "family": "Kc",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Research Assistant, Dept. of Civil and Geomatics Engineering, California State Univ., Fresno, CA 93740."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Saravanakumar Lakshmanan",
+          "family": "Somasundaram",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Research Assistant, Dept. of Civil and Geomatics Engineering, California State Univ., Fresno, CA 93740."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mashor",
+          "family": "Housh",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Assistant Professor, Faculty of Management, Dept. of Natural Resources and Environmental Management, Univ. of Haifa, Haifa 3498838, Israel."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ziv",
+          "family": "Ohar",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Research Assistant, Faculty of Management, Dept. of Natural Resources and Environmental Management, Univ. of Haifa, Haifa 3498838, Israel."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Journal of Water Resources Planning and Management"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            8
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            8
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            8
+          ]
+        ]
+      },
+      "volume": "144",
+      "issue": "8",
+      "article-number": "04018048",
+      "type": "journal-article",
+      "publisher": "American Society of Civil Engineers (ASCE)",
+      "relation": {},
+      "assertion": [
+        {
+          "value": "2017-11-05",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2018-02-28",
+          "order": 1,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2018-06-09",
+          "order": 2,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ],
+      "URL": "https://doi.org/10.1061/(asce)wr.1943-5452.0000969"
+    }
+  },
+  {
+    "key": "wntrpaper",
+    "doi": "10.1016/j.envsoft.2017.06.022",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1016%2Fj.envsoft.2017.06.022",
+    "metadata": {
+      "DOI": "10.1016/j.envsoft.2017.06.022",
+      "title": [
+        "A software framework for assessing the resilience of drinking water systems to disasters with an example earthquake case study"
+      ],
+      "author": [
+        {
+          "given": "Katherine A.",
+          "family": "Klise",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1765-3377",
+          "authenticated-orcid": false,
+          "given": "Michael",
+          "family": "Bynum",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dylan",
+          "family": "Moriarty",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Regan",
+          "family": "Murray",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Environmental Modelling &amp; Software"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            9
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            9
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2017,
+            9
+          ]
+        ]
+      },
+      "volume": "95",
+      "page": "420-431",
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "relation": {},
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "A software framework for assessing the resilience of drinking water systems to disasters with an example earthquake case study",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Environmental Modelling & Software",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.envsoft.2017.06.022",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2017 Published by Elsevier Ltd.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "URL": "https://doi.org/10.1016/j.envsoft.2017.06.022"
+    }
+  },
+  {
+    "key": "breiman",
+    "doi": "10.1023/a:1010933404324",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1023%2Fa%3A1010933404324",
+    "metadata": {
+      "DOI": "10.1023/a:1010933404324",
+      "title": [
+        "Random Forests"
+      ],
+      "author": [
+        {
+          "given": "Leo",
+          "family": "Breiman",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Machine Learning"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2001,
+            10
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2001,
+            10
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2001,
+            10
+          ]
+        ]
+      },
+      "volume": "45",
+      "issue": "1",
+      "page": "5-32",
+      "type": "journal-article",
+      "publisher": "Springer Science and Business Media LLC",
+      "relation": {},
+      "assertion": [
+        {
+          "value": "This content has been made available to all.",
+          "name": "free",
+          "label": "Free to read"
+        }
+      ],
+      "URL": "https://doi.org/10.1023/a:1010933404324"
+    }
+  },
+  {
+    "key": "rfcal",
+    "doi": "10.1016/j.knosys.2025.114143",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1016%2Fj.knosys.2025.114143",
+    "metadata": {
+      "DOI": "10.1016/j.knosys.2025.114143",
+      "title": [
+        "Random forest calibration"
+      ],
+      "author": [
+        {
+          "given": "Mohammad Hossein",
+          "family": "Shaker",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Eyke",
+          "family": "Hüllermeier",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Knowledge-Based Systems"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            10
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            10
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            10
+          ]
+        ]
+      },
+      "volume": "328",
+      "page": "114143",
+      "article-number": "114143",
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "relation": {},
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Random forest calibration",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Knowledge-Based Systems",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.knosys.2025.114143",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2025 The Authors. Published by Elsevier B.V.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "URL": "https://doi.org/10.1016/j.knosys.2025.114143"
+    }
+  },
+  {
+    "key": "abdar",
+    "doi": "10.1016/j.inffus.2021.05.008",
+    "status": "verified",
+    "included": false,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1016%2Fj.inffus.2021.05.008",
+    "metadata": {
+      "DOI": "10.1016/j.inffus.2021.05.008",
+      "title": [
+        "A review of uncertainty quantification in deep learning: Techniques, applications and challenges"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-3059-6357",
+          "authenticated-orcid": false,
+          "given": "Moloud",
+          "family": "Abdar",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7122-9975",
+          "authenticated-orcid": false,
+          "given": "Farhad",
+          "family": "Pourpanah",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9840-4796",
+          "authenticated-orcid": false,
+          "given": "Sadiq",
+          "family": "Hussain",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dana",
+          "family": "Rezazadegan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Li",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mohammad",
+          "family": "Ghavamzadeh",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7260-2260",
+          "authenticated-orcid": false,
+          "given": "Paul",
+          "family": "Fieguth",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7141-708X",
+          "authenticated-orcid": false,
+          "given": "Xiaochun",
+          "family": "Cao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Abbas",
+          "family": "Khosravi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "U. Rajendra",
+          "family": "Acharya",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3753-5925",
+          "authenticated-orcid": false,
+          "given": "Vladimir",
+          "family": "Makarenkov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Saeid",
+          "family": "Nahavandi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Information Fusion"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            12
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            12
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            12
+          ]
+        ]
+      },
+      "volume": "76",
+      "page": "243-297",
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "relation": {},
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "A review of uncertainty quantification in deep learning: Techniques, applications and challenges",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Information Fusion",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.inffus.2021.05.008",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2021 The Authors. Published by Elsevier B.V.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "URL": "https://doi.org/10.1016/j.inffus.2021.05.008"
+    }
+  },
+  {
+    "key": "psf",
+    "doi": "10.1016/j.automatica.2021.109597",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1016%2Fj.automatica.2021.109597",
+    "metadata": {
+      "DOI": "10.1016/j.automatica.2021.109597",
+      "title": [
+        "A predictive safety filter for learning-based control of constrained nonlinear dynamical systems"
+      ],
+      "author": [
+        {
+          "given": "Kim Peter",
+          "family": "Wabersich",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Melanie N.",
+          "family": "Zeilinger",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Automatica"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            7
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            7
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            7
+          ]
+        ]
+      },
+      "volume": "129",
+      "page": "109597",
+      "article-number": "109597",
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "relation": {},
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "A predictive safety filter for learning-based control of constrained nonlinear dynamical systems",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Automatica",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.automatica.2021.109597",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2021 Elsevier Ltd. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "URL": "https://doi.org/10.1016/j.automatica.2021.109597"
+    }
+  },
+  {
+    "key": "pcb",
+    "doi": "10.1109/tac.2022.3175628",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1109%2Ftac.2022.3175628",
+    "metadata": {
+      "DOI": "10.1109/tac.2022.3175628",
+      "title": [
+        "Predictive Control Barrier Functions: Enhanced Safety Mechanisms for Learning-Based Control"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-8554-1484",
+          "authenticated-orcid": false,
+          "given": "Kim P.",
+          "family": "Wabersich",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institute for Dynamic Systems and Control, ETH Z&#x00FC;rich, Z&#x00FC;rich, Switzerland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4570-7571",
+          "authenticated-orcid": false,
+          "given": "Melanie N.",
+          "family": "Zeilinger",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Dynamic Systems and Control, ETH Z&#x00FC;rich, Z&#x00FC;rich, Switzerland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Automatic Control"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            5
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            5
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            5
+          ]
+        ]
+      },
+      "volume": "68",
+      "issue": "5",
+      "page": "2638-2651",
+      "type": "journal-article",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "relation": {},
+      "URL": "https://doi.org/10.1109/tac.2022.3175628"
+    }
+  },
+  {
+    "key": "fisac",
+    "doi": "10.1109/tac.2018.2876389",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1109%2Ftac.2018.2876389",
+    "metadata": {
+      "DOI": "10.1109/tac.2018.2876389",
+      "title": [
+        "A General Safety Framework for Learning-Based Control in Uncertain Robotic Systems"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-2676-5090",
+          "authenticated-orcid": false,
+          "given": "Jaime F.",
+          "family": "Fisac",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8565-0739",
+          "authenticated-orcid": false,
+          "given": "Anayo K.",
+          "family": "Akametalu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4570-7571",
+          "authenticated-orcid": false,
+          "given": "Melanie N.",
+          "family": "Zeilinger",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8553-1542",
+          "authenticated-orcid": false,
+          "given": "Shahab",
+          "family": "Kaynama",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1800-8222",
+          "authenticated-orcid": false,
+          "given": "Jeremy",
+          "family": "Gillula",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3192-3185",
+          "authenticated-orcid": false,
+          "given": "Claire J.",
+          "family": "Tomlin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Automatic Control"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            7
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            7
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            7
+          ]
+        ]
+      },
+      "volume": "64",
+      "issue": "7",
+      "page": "2737-2752",
+      "type": "journal-article",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "relation": {},
+      "URL": "https://doi.org/10.1109/tac.2018.2876389"
+    }
+  },
+  {
+    "key": "deeph2o",
+    "doi": "10.1016/j.jwpe.2023.103568",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1016%2Fj.jwpe.2023.103568",
+    "metadata": {
+      "DOI": "10.1016/j.jwpe.2023.103568",
+      "title": [
+        "Deep H2O: Cyber attacks detection in water distribution systems using deep learning"
+      ],
+      "author": [
+        {
+          "given": "Md Nazmul Kabir",
+          "family": "Sikder",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Minh B.T.",
+          "family": "Nguyen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "E. Donald",
+          "family": "Elliott",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Feras A.",
+          "family": "Batarseh",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Journal of Water Process Engineering"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            4
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            4
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            4
+          ]
+        ]
+      },
+      "volume": "52",
+      "page": "103568",
+      "article-number": "103568",
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "relation": {},
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Deep H2O: Cyber attacks detection in water distribution systems using deep learning",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Journal of Water Process Engineering",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jwpe.2023.103568",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2023 Elsevier Ltd. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "URL": "https://doi.org/10.1016/j.jwpe.2023.103568"
+    }
+  },
+  {
+    "key": "breaking",
+    "doi": "10.1016/j.watres.2025.123719",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1016%2Fj.watres.2025.123719",
+    "metadata": {
+      "DOI": "10.1016/j.watres.2025.123719",
+      "title": [
+        "Breaking the flow and the bank: Stealthy cyberattacks on water network hydraulics"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0006-8136-451X",
+          "authenticated-orcid": false,
+          "given": "Abdallah Alalem",
+          "family": "Albustami",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ahmad F.",
+          "family": "Taha",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Water Research"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            9
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            9
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            9
+          ]
+        ]
+      },
+      "volume": "283",
+      "page": "123719",
+      "article-number": "123719",
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "relation": {},
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Breaking the flow and the bank: Stealthy cyberattacks on water network hydraulics",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Water Research",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.watres.2025.123719",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2025 The Authors. Published by Elsevier Ltd.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "URL": "https://doi.org/10.1016/j.watres.2025.123719"
+    }
+  },
+  {
+    "key": "optimising",
+    "doi": "10.1016/j.ress.2026.112667",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1016%2Fj.ress.2026.112667",
+    "metadata": {
+      "DOI": "10.1016/j.ress.2026.112667",
+      "title": [
+        "Optimising trade-offs between cyber reliability and cyber-physical risk for water distribution systems"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-3257-2612",
+          "authenticated-orcid": false,
+          "given": "Cael",
+          "family": "Keenan",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0277-6887",
+          "authenticated-orcid": false,
+          "given": "Holger R.",
+          "family": "Maier",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6976-4832",
+          "authenticated-orcid": false,
+          "given": "Hedwig",
+          "family": "van Delden",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Aaron C.",
+          "family": "Zecchin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Reliability Engineering &amp; System Safety"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      },
+      "volume": "272",
+      "page": "112667",
+      "article-number": "112667",
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "relation": {},
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Optimising trade-offs between cyber reliability and cyber-physical risk for water distribution systems",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Reliability Engineering & System Safety",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.ress.2026.112667",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2026 The Author(s). Published by Elsevier Ltd.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "URL": "https://doi.org/10.1016/j.ress.2026.112667"
+    }
+  },
+  {
+    "key": "rejectviz",
+    "doi": "10.1016/j.patcog.2019.106984",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1016%2Fj.patcog.2019.106984",
+    "metadata": {
+      "DOI": "10.1016/j.patcog.2019.106984",
+      "title": [
+        "Performance visualization spaces for classification with rejection option"
+      ],
+      "author": [
+        {
+          "given": "Blaise",
+          "family": "Hanczar",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Pattern Recognition"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            12
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            12
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            12
+          ]
+        ]
+      },
+      "volume": "96",
+      "page": "106984",
+      "article-number": "106984",
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "relation": {},
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Performance visualization spaces for classification with rejection option",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Pattern Recognition",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.patcog.2019.106984",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2019 Elsevier Ltd. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "URL": "https://doi.org/10.1016/j.patcog.2019.106984"
+    }
+  },
+  {
+    "key": "airmf",
+    "doi": "10.6028/nist.ai.100-1",
+    "status": "verified",
+    "included": false,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.6028%2Fnist.ai.100-1",
+    "metadata": {
+      "DOI": "10.6028/nist.ai.100-1",
+      "title": [
+        "Artificial Intelligence Risk Management Framework (AI RMF 1.0)"
+      ],
+      "author": [
+        {
+          "given": "Elham",
+          "family": "Tabassi",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            26
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            26
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            26
+          ]
+        ]
+      },
+      "type": "report",
+      "publisher": "National Institute of Standards and Technology (U.S.)",
+      "relation": {},
+      "assertion": [
+        {
+          "value": "https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications",
+          "URL": "https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications",
+          "order": 0,
+          "name": "licensing",
+          "label": "Licensing Information",
+          "group": {
+            "name": "copyright_licensing",
+            "label": "Copyright, Fair Use, and Licensing"
+          }
+        },
+        {
+          "order": 0,
+          "name": "publication_history",
+          "label": "Approved by the NIST Editorial Review Board on 2023-01-20",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ],
+      "URL": "https://doi.org/10.6028/nist.ai.100-1"
+    }
+  },
+  {
+    "key": "wntrsoftware",
+    "status": "official URL",
+    "url": "https://usepa.github.io/WNTR/",
+    "included": true
+  },
+  {
+    "key": "epanet",
+    "status": "official URL",
+    "url": "https://www.epa.gov/water-research/epanet",
+    "included": true
+  },
+  {
+    "key": "agentdojo",
+    "doi": "10.52202/079017-2636",
+    "status": "verified",
+    "included": false,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.52202%2F079017-2636",
+    "metadata": {
+      "DOI": "10.52202/079017-2636",
+      "title": [
+        "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents"
+      ],
+      "author": [
+        {
+          "given": "Edoardo",
+          "family": "Debenedetti",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jie",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mislav",
+          "family": "Balunovic",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Luca",
+          "family": "Beurer-Kellner",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marc",
+          "family": "Fischer",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Florian",
+          "family": "Tramèr",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Advances in Neural Information Processing Systems 37"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2024
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2024
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2024
+          ]
+        ]
+      },
+      "page": "82895-82920",
+      "type": "proceedings-article",
+      "publisher": "Neural Information Processing Systems Foundation, Inc. (NeurIPS)",
+      "relation": {},
+      "URL": "https://doi.org/10.52202/079017-2636"
+    }
+  },
+  {
+    "key": "temporal",
+    "doi": "10.3390/make8090293",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.3390%2Fmake8090293",
+    "metadata": {
+      "DOI": "10.3390/make8090293",
+      "title": [
+        "Hierarchical Temporal Runtime Assurance for Controlled Agentic AI Systems: Safety Shielding, Auditable Action Repair, and Bounded Recovery"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-5962-5334",
+          "authenticated-orcid": false,
+          "given": "Tymoteusz",
+          "family": "Miller",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institute of Marine and Environmental Sciences, University of Szczecin, 70-364 Szczecin, Poland"
+            },
+            {
+              "name": "Faculty of Data Science and Information, INTI International University, Nilai 71800, Negeri Sembilan, Malaysia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Machine Learning and Knowledge Extraction"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            21
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            21
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            21
+          ]
+        ]
+      },
+      "volume": "8",
+      "issue": "9",
+      "page": "293",
+      "type": "journal-article",
+      "publisher": "MDPI AG",
+      "relation": {},
+      "URL": "https://doi.org/10.3390/make8090293"
+    }
+  },
+  {
+    "key": "conformal",
+    "doi": "10.1561/2200000101",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1561%2F2200000101",
+    "metadata": {
+      "DOI": "10.1561/2200000101",
+      "title": [
+        "Conformal Prediction: A Gentle Introduction"
+      ],
+      "author": [
+        {
+          "given": "Anastasios N.",
+          "family": "Angelopoulos",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of California , ,",
+              "place": [
+                "Berkeley, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Stephen",
+          "family": "Bates",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California , ,",
+              "place": [
+                "Berkeley, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Foundations and Trends® in Machine Learning"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            3,
+            27
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            3,
+            27
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            3,
+            27
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            3,
+            27
+          ]
+        ]
+      },
+      "volume": "16",
+      "issue": "4",
+      "page": "494-591",
+      "type": "journal-article",
+      "publisher": "Emerald",
+      "relation": {},
+      "URL": "https://doi.org/10.1561/2200000101"
+    }
+  },
+  {
+    "key": "twinai",
+    "doi": "10.1016/j.iot.2026.101911",
+    "status": "verified",
+    "included": true,
+    "title_match": true,
+    "url": "https://api.crossref.org/works/10.1016%2Fj.iot.2026.101911",
+    "metadata": {
+      "DOI": "10.1016/j.iot.2026.101911",
+      "title": [
+        "TwinAI: A digital twin and graph reinforcement learning framework for real-time management of water distribution networks"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-7084-7923",
+          "authenticated-orcid": false,
+          "given": "Pierluigi",
+          "family": "Locatelli",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6128-2246",
+          "authenticated-orcid": false,
+          "given": "Tiziana",
+          "family": "Cattai",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5920-680X",
+          "authenticated-orcid": false,
+          "given": "Pietro",
+          "family": "Spadaccino",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0004-8902-5825",
+          "authenticated-orcid": false,
+          "given": "Marco",
+          "family": "Casalbore",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9122-7993",
+          "authenticated-orcid": false,
+          "given": "Francesca",
+          "family": "Cuomo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Internet of Things"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            5
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            5
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            5
+          ]
+        ]
+      },
+      "volume": "37",
+      "page": "101911",
+      "article-number": "101911",
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "relation": {},
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "TwinAI: A digital twin and graph reinforcement learning framework for real-time management of water distribution networks",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Internet of Things",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.iot.2026.101911",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2026 The Author(s). Published by Elsevier B.V.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "URL": "https://doi.org/10.1016/j.iot.2026.101911"
+    }
+  }
+]

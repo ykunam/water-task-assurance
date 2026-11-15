@@ -1,98 +1,78 @@
-# Water task assurance
+# Recovery-aware water command screening
 
-Reproducible simulation research on screening water-network commands over an
-isolation hold and recovery phase. The study compares learned prediction,
-connectivity/storage rules, nominal hydraulic prediction and finite-demand-scenario
-verification. It separates authorization, numerical assessability, command
-realization, proxy harm and acceptable task completion.
+This repository supports the ten-page manuscript **Recovery-aware command screening
+in water networks under demand shift**. It is a computational study of screening
+limits, not a validated autonomous utility controller or a controlled LLM study.
 
-This is a computational benchmark, not utility validation or independent human
-engineering certification. The main controllers are software planning agents.
-No new controlled multi-model LLM result is claimed.
+The primary study contains 144 tasks, 530 candidate interventions and 1,440
+counterfactual software-controller episodes. Its fresh-execution check has 288
+attempted rollouts, comprising 170 action executions and 118 abstentions. The
+separately locked follow-up adds 48 later tasks, 186 candidates and 1,440 policy
+episodes under new baseline scales and time-varying hidden demand. Both solvers
+share equations; these are not independent physical observations.
 
-## Executed evidence
+## Main evidence
 
-The completed extension contains 144 tasks (72 per network), 530 candidate
-interventions and 2,650 primary action-solver evaluations. There are 24 test tasks
-per network. Fifteen screens and two matched-budget software controllers produce
-1,440 policy episodes over those shared test tasks, not 1,440 independent cases.
-An additional 288 attempted fresh rollouts include 170 hydraulic action
-executions and 118 abstentions; all categorical outcomes match cached receipts.
+Primary Net3 scenario screening increases acceptable catalogue completions from
+8/24 under Hold RF to 13/24. In the follow-up it yields 7/24 and admits two
+proxy-harmful tasks. The residual screen also admits those two Net3 cases and
+withholds every C-Town task. Follow-up residual containment is 19/19 assessable
+C-Town tasks and 20/24 Net3 tasks. The two Net3 failures exceed the declared
+added tank-envelope-duration proxy, with zero added service shortage; no utility
+damage is demonstrated. Negative findings are preserved.
 
-For catalogue-order selection, three-scenario task screening completes 13/24
-Net3 tasks acceptably, compared with 8/24 under Hold RF. Nominal task screening
-completes 14/24 acceptably with one recovery failure. The secondary residual
-screen completes 12/24 Net3 tasks and withholds every C-Town task. Its taskwise
-residual containment is 19/20 in assessable C-Town test tasks and only 13/21 in
-Net3. These results do not support an unqualified 90% test-coverage guarantee or
-universal improvement. The methodological contribution is incremental.
+The paper retains two figures, two editable main tables and five editable
+equations. It cites 24 external sources plus the versioned dataset. Twenty-two
+DOI entries match current Crossref records and two official documentation URLs
+resolve. All-Q1, universal safety, nominal 90% test coverage, high novelty scores
+and journal acceptance are not certified. The author review retains major
+revision concerns for a competitive Knowledge-Based Systems submission.
 
-All 530 paired whole-task binary harm labels agree across the two solvers;
-acceptable-completion labels differ in six C-Town cases. A fixed 24-case EPANET
-60-second sensitivity sample changes neither harm nor acceptable labels. Both
-solvers share model equations, so agreement is not physical validation.
+## Protocol and data versions
 
-The manuscript has two main figures, two editable main tables and 29 references.
-The journal/reference checks are in `journal_compliance.csv` and
-`reference_verification.csv`. All-Q1 certification is **not** claimed. The author
-audit recommends **major revisions** for a competitive Knowledge-Based Systems
-submission: independent uncertainty validation, a stronger originality case,
-reviewer/data access, current portal checks and author declarations remain open.
-This repository remains private; a public data DOI has not been minted.
+The original protocol precedes outcomes at commit
+153a985501389da24be5a7c73c43abaa57c19238 in the earlier repository
+`ykunam/data-quality-budgeted-deferral`; that other study was not changed.
+Read `protocol.md`, `amendments.md`, `residual_policy.md` and
+`analysis_amendments.md` for the primary design and disclosed corrections.
 
-## Prospective revision and disclosed corrections
+The follow-up script, all 48 states and `followup_protocol.md` were committed
+before new outcomes at 84ebcb31eba0afda32133a7099a33bd2c7883348. No training,
+calibration, threshold, margin or endpoint was adapted to follow-up outcomes.
+The immutable data release cited in the manuscript is
+[49f0d2a6516885ec281a4a83e93ed63787b6c869](https://github.com/ykunam/water-task-assurance/tree/49f0d2a6516885ec281a4a83e93ed63787b6c869).
+`DATASET.md` explains its provenance. The repository remains private; author
+reviewer-access/public-release decisions and journal declarations remain pending.
+No public data DOI is asserted and no unsupported confidentiality reason is used.
 
-Read `protocol.md` and `amendments.md` before interpreting results. The original
-prospective protocol was committed before new intervention outcomes at
-`ykunam/data-quality-budgeted-deferral`, commit
-`153a985501389da24be5a7c73c43abaa57c19238`. The user then requested this dedicated
-repository. That earlier branch contains only the protocol and input/dependency
-records for this extension; the earlier deferral study is unchanged.
+## Audit and rebuild from saved evidence
 
-The revised experiment uses 144 tasks across C-Town and Net3, with chronological
-training/calibration/test partitions and reserved assets. Demand forecasts see
-factors 0.85, 1 and 1.15. Evaluation uses a hidden future factor and a different
-hydraulic solver. Half the new test tasks lie outside the finite forecast grid.
-The discrete grid is not a guarantee over all intermediate demands or disturbances.
-
-`residual_policy.md` records the separately timestamped secondary margin and
-zero-margin policy additions. `analysis_amendments.md` records a feature-column
-correction made after initial aggregate inspection, and preserves the initial
-analysis. No test trajectory, endpoint or demand factor was changed to improve
-performance. The initial source accuracy was tightened after a training-only
-mechanics check; numerical validity thresholds were not relaxed.
-
-## Audit saved evidence
-
-Python 3.12, CPU only. Install the pinned environment:
+Python 3.12, CPU only:
 
 ```bash
 python -m pip install -r requirements.txt
-python -m unittest -v test_assurance
+python -m unittest -v test_assurance test_followup
 python audit_evidence.py
+python build_compact.py --out manuscript.docx
+python audit_revision.py --manuscript manuscript.docx
 ```
 
-Saved compressed receipts and matched no-action metrics allow arithmetic
-verification without rerunning the full hydraulic campaign. The numerical audit
-checks 35 evidence/provenance conditions. Supplying the revised DOCX with
-`--manuscript PATH` adds ten citation, equation, table and reporting checks; the
-delivered manuscript passes 45/45. Ten code-invariant tests also pass. These are
-implementation checks, not a research accuracy or novelty percentage.
+There are thirteen code invariants. The original arithmetic audit checks 35
+conditions. The revision audit checks 30 conditions including compact-manuscript
+citations, equations, table values and exact-data figures. Counts are accounting
+and implementation checks, not a research-accuracy or originality percentage.
+The delivered document was rendered and visually checked at ten pages. Check
+pagination again in the target Word environment; this repository does not bundle
+an office renderer. `build_paper.py` is retained as the earlier manuscript builder
+and provides common document helpers; use `build_compact.py` for the new revision.
 
-To refit the locked analysis and regenerate figures and manuscript content:
+For the author audit and extended S1, use `build_revision_review.py` with the
+preserved primary S1 as `--supplement-source`, output DOCX paths, `--pages 10`,
+and an optional `--source-archive` pointing to the final reviewed commit archive.
+The review package preserves that source S1. `revision_reference_verification.csv`,
+`revision_journal_compliance.csv` and `revision_highlights.txt` accompany the paper.
 
-```bash
-python analyze.py
-python build_paper.py --out manuscript.docx
-python audit_evidence.py --manuscript manuscript.docx
-python build_review.py --report author_audit.docx --supplement S1.docx --pages 14
-```
-
-The final command's page count describes the delivered render; check pagination
-again in the target Word/LibreOffice environment. Rendering DOCX requires a local
-office/PDF renderer; this repository does not claim to supply that application.
-
-## Rerun the hydraulic campaign
+## Full hydraulic regeneration
 
 ```bash
 python assurance.py --workers 6
@@ -100,56 +80,28 @@ python analyze.py
 python fine_step.py
 python fresh_rollouts.py
 python save_references.py
-python build_paper.py --out manuscript.docx
-python audit_evidence.py --manuscript manuscript.docx
+python followup_validation.py --write-states --generate --analyze --workers 6
+python build_compact.py --out manuscript.docx
+python audit_revision.py --manuscript manuscript.docx
 ```
 
-The first generation run downloads C-Town's public input from BATADAL and copies
-Net3 from the installed WNTR 1.4.0 distribution. Input hashes are checked against
-`inputs.json`. Respect the original model sources and their terms; this repository
-does not relicense or redistribute the original model input bytes. Supply an
-existing exact input directory with `--input-dir PATH` for offline execution.
+The first preparation downloads the public BATADAL C-Town input and obtains
+Net3 from WNTR 1.4.0, checking exact input hashes in `inputs.json`. Input bytes,
+trusted local checkpoint pickles, smoke outputs and renderer pages are excluded.
+Respect the original sources and terms; this project does not relicense those
+models. Native full-state continuation avoids reconstructing hold/recovery from
+telemetry endpoints. Solver validity and sampled actuator realization remain
+explicit. A full campaign can take substantial time on different hardware.
 
-Generation caches the entire native WNTR model state before task start, including
-control and solver state, then continues each task without a hold/recovery
-restart. Checkpoint objects are trusted local intermediates and are not committed.
-Do not load pickle or joblib files obtained from untrusted sources. EPANET runs
-the full native prefix independently. Results remain solver-based proxies.
+`results/receipts.json.gz` and `references.json.gz` preserve primary action and
+matched reference summaries. `followup_receipts.json.gz` includes both for every
+new task. CSV/JSON files preserve candidates, fit manifests, controller episodes,
+calibration/containment, fresh execution and sensitivity diagnostics. Original
+`artwork/` remains unchanged; `revision_artwork/` supplies the new exact-data CSVs
+and vector EPS/PDF figures. `release_sha256.json` describes the current reviewed
+source/evidence bytes, excluding itself. Git history retains previous versions.
 
-`--smoke` runs only the first training state per network. It checks mechanics and
-does not reproduce or replace the primary results. `analyze.py --smoke` summarizes
-that engineering check. Failure records and all denominators remain visible.
-
-`analyze.py` fits only on assessable training rows, calibrates only on assessable
-calibration rows, and evaluates each test candidate and two matched-budget
-controllers under every gate. The post-inspection implementation correction is
-disclosed separately. No test scenarios or endpoint cutoffs were tuned on test
-performance. Cached prediction work is counted as equivalent simulator
-queries; cached replay time is not online verification latency.
-
-The full campaign uses CPU parallelism and can take substantial time. Original
-model inputs, trusted checkpoint pickles, smoke outputs and renderer images are
-excluded from version control. `resume_generation.py` documents continuation of
-the interrupted original run; a clean reproduction normally uses `assurance.py`.
-`historical_diagnostics.py` is an optional diagnostic for the earlier study and
-requires its separately retained archive through `--legacy-dir`; no primary
-experiment depends on that archive.
-
-`results/receipts.json.gz` holds primary action summaries;
-`results/references.json.gz` holds matched no-action summaries. Other result files
-retain fits, continuous outcomes, every gate decision, controller traces, fresh
-execution checks and sensitivity diagnostics. `artwork/` contains exact-data
-CSVs and separate vector EPS/PDF figures. `release_sha256.json` records the stored
-source/evidence byte hashes; commit history provides the immutable versions.
-
-## Scientific scope
-
-Research thresholds are illustrative, not regulatory limits. Both solvers share
-hydraulic equations; different algorithms do not create independent physical
-ground truth. Demand scenarios do not model treatment chemistry, water quality,
-pipe damage, all actuator faults or human behavior. Future datasets, broader
-uncertainty and independent utility/engineering review are needed for deployment.
-
-Only executed results may enter the manuscript. Novelty and submission status are
-assessed separately from passing tests. No journal acceptance guarantee or
-fabricated novelty/accuracy percentage is provided.
+The candidate-restriction calculation in S1 is explicitly exploratory and was
+not introduced as a new follow-up gate. It diagnoses sparse calibration and how
+already-ineligible actions can dominate a global margin. The stored diagnostics
+are independently reproduced by `audit_revision.py`.

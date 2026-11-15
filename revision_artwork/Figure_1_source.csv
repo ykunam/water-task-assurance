@@ -1,0 +1,145 @@
+network,task_id,cohort,category,assessable,residual
+C-Town,C-Town_calibration_00,Primary,Calibration,False,
+C-Town,C-Town_calibration_01,Primary,Calibration,True,0.0
+C-Town,C-Town_calibration_02,Primary,Calibration,True,0.0
+C-Town,C-Town_calibration_03,Primary,Calibration,True,3.1618362066800894e-17
+C-Town,C-Town_calibration_04,Primary,Calibration,True,0.0
+C-Town,C-Town_calibration_05,Primary,Calibration,True,3.819433071412421
+C-Town,C-Town_calibration_06,Primary,Calibration,True,5.3290705182007514e-14
+C-Town,C-Town_calibration_07,Primary,Calibration,True,0.0
+C-Town,C-Town_calibration_08,Primary,Calibration,True,0.0
+C-Town,C-Town_calibration_09,Primary,Calibration,True,0.0
+C-Town,C-Town_calibration_10,Primary,Calibration,True,3.705156175180486
+C-Town,C-Town_calibration_11,Primary,Calibration,True,0.0075419847212288005
+C-Town,C-Town_calibration_12,Primary,Calibration,True,0.0
+C-Town,C-Town_calibration_13,Primary,Calibration,True,0.06935628255208348
+C-Town,C-Town_calibration_14,Primary,Calibration,True,0.15728313776680114
+C-Town,C-Town_calibration_15,Primary,Calibration,True,0.0
+C-Town,C-Town_calibration_16,Primary,Calibration,True,0.0
+C-Town,C-Town_calibration_17,Primary,Calibration,False,
+C-Town,C-Town_calibration_18,Primary,Calibration,True,0.0
+C-Town,C-Town_calibration_19,Primary,Calibration,True,3.8424436888193846e-17
+C-Town,C-Town_calibration_20,Primary,Calibration,True,0.061726102739104505
+C-Town,C-Town_calibration_21,Primary,Calibration,True,3.5394250641816664e-16
+C-Town,C-Town_calibration_22,Primary,Calibration,False,
+C-Town,C-Town_calibration_23,Primary,Calibration,True,0.42173253758934326
+C-Town,C-Town_test_00,Primary,Primary test,True,0.0
+C-Town,C-Town_test_01,Primary,Primary test,True,0.6021055646612661
+C-Town,C-Town_test_02,Primary,Primary test,True,5.773159728050814e-14
+C-Town,C-Town_test_03,Primary,Primary test,True,0.0
+C-Town,C-Town_test_04,Primary,Primary test,True,0.0
+C-Town,C-Town_test_05,Primary,Primary test,True,5.6621374255882984e-14
+C-Town,C-Town_test_06,Primary,Primary test,True,3.944227766002961
+C-Town,C-Town_test_07,Primary,Primary test,True,0.0
+C-Town,C-Town_test_08,Primary,Primary test,True,0.5833333333333339
+C-Town,C-Town_test_09,Primary,Primary test,True,0.0
+C-Town,C-Town_test_10,Primary,Primary test,True,0.5227379711888558
+C-Town,C-Town_test_11,Primary,Primary test,True,0.0
+C-Town,C-Town_test_12,Primary,Primary test,True,0.17621907143008597
+C-Town,C-Town_test_13,Primary,Primary test,False,
+C-Town,C-Town_test_14,Primary,Primary test,False,
+C-Town,C-Town_test_15,Primary,Primary test,True,0.0
+C-Town,C-Town_test_16,Primary,Primary test,True,1.0720594637396252
+C-Town,C-Town_test_17,Primary,Primary test,False,
+C-Town,C-Town_test_18,Primary,Primary test,True,0.19817771329244893
+C-Town,C-Town_test_19,Primary,Primary test,True,0.04608970967771908
+C-Town,C-Town_test_20,Primary,Primary test,False,
+C-Town,C-Town_test_21,Primary,Primary test,True,0.0
+C-Town,C-Town_test_22,Primary,Primary test,True,0.25
+C-Town,C-Town_test_23,Primary,Primary test,True,1.5863369959721063
+Net3,Net3_calibration_00,Primary,Calibration,True,0.0
+Net3,Net3_calibration_01,Primary,Calibration,True,0.0
+Net3,Net3_calibration_02,Primary,Calibration,True,0.7909715175628671
+Net3,Net3_calibration_03,Primary,Calibration,True,0.0
+Net3,Net3_calibration_04,Primary,Calibration,True,0.0
+Net3,Net3_calibration_05,Primary,Calibration,True,0.0
+Net3,Net3_calibration_06,Primary,Calibration,True,0.0
+Net3,Net3_calibration_07,Primary,Calibration,True,0.0
+Net3,Net3_calibration_08,Primary,Calibration,True,0.0
+Net3,Net3_calibration_09,Primary,Calibration,True,0.0
+Net3,Net3_calibration_10,Primary,Calibration,True,0.019137047014365915
+Net3,Net3_calibration_11,Primary,Calibration,True,0.03619946749734981
+Net3,Net3_calibration_12,Primary,Calibration,True,0.0
+Net3,Net3_calibration_13,Primary,Calibration,True,0.0
+Net3,Net3_calibration_14,Primary,Calibration,True,0.0
+Net3,Net3_calibration_15,Primary,Calibration,True,0.0
+Net3,Net3_calibration_16,Primary,Calibration,True,0.0027349581689850577
+Net3,Net3_calibration_17,Primary,Calibration,True,0.0
+Net3,Net3_calibration_18,Primary,Calibration,True,0.0
+Net3,Net3_calibration_19,Primary,Calibration,True,0.0
+Net3,Net3_calibration_20,Primary,Calibration,True,0.0
+Net3,Net3_calibration_21,Primary,Calibration,True,0.0
+Net3,Net3_calibration_22,Primary,Calibration,True,0.30429962256597864
+Net3,Net3_calibration_23,Primary,Calibration,True,0.17286356290181448
+Net3,Net3_test_00,Primary,Primary test,True,0.011219203895573848
+Net3,Net3_test_01,Primary,Primary test,True,0.0
+Net3,Net3_test_02,Primary,Primary test,True,0.05410605627129339
+Net3,Net3_test_03,Primary,Primary test,True,0.0
+Net3,Net3_test_04,Primary,Primary test,True,0.033845728985089085
+Net3,Net3_test_05,Primary,Primary test,False,
+Net3,Net3_test_06,Primary,Primary test,True,0.0
+Net3,Net3_test_07,Primary,Primary test,True,0.0
+Net3,Net3_test_08,Primary,Primary test,True,0.0
+Net3,Net3_test_09,Primary,Primary test,True,0.0
+Net3,Net3_test_10,Primary,Primary test,True,0.6804475747805605
+Net3,Net3_test_11,Primary,Primary test,False,
+Net3,Net3_test_12,Primary,Primary test,True,0.4702314319315093
+Net3,Net3_test_13,Primary,Primary test,True,0.0
+Net3,Net3_test_14,Primary,Primary test,True,0.26834925227561035
+Net3,Net3_test_15,Primary,Primary test,True,0.5629403216084778
+Net3,Net3_test_16,Primary,Primary test,True,0.0
+Net3,Net3_test_17,Primary,Primary test,True,6.4411286513010655
+Net3,Net3_test_18,Primary,Primary test,True,0.542005336245257
+Net3,Net3_test_19,Primary,Primary test,True,0.47834299689384796
+Net3,Net3_test_20,Primary,Primary test,True,0.02072713790442604
+Net3,Net3_test_21,Primary,Primary test,True,0.43579582598770994
+Net3,Net3_test_22,Primary,Primary test,True,0.5023013693988454
+Net3,Net3_test_23,Primary,Primary test,False,
+C-Town,C-Town_followup_00,Follow-up,Follow-up,True,0.48662973005491494
+C-Town,C-Town_followup_01,Follow-up,Follow-up,True,0.0
+C-Town,C-Town_followup_02,Follow-up,Follow-up,True,6.438005585131257e-17
+C-Town,C-Town_followup_03,Follow-up,Follow-up,True,0.0
+C-Town,C-Town_followup_04,Follow-up,Follow-up,True,3.499999999999999
+C-Town,C-Town_followup_05,Follow-up,Follow-up,True,4.884981308350689e-14
+C-Town,C-Town_followup_06,Follow-up,Follow-up,True,0.18986224962382225
+C-Town,C-Town_followup_07,Follow-up,Follow-up,False,
+C-Town,C-Town_followup_08,Follow-up,Follow-up,True,0.0
+C-Town,C-Town_followup_09,Follow-up,Follow-up,False,
+C-Town,C-Town_followup_10,Follow-up,Follow-up,True,3.284512737566017e-16
+C-Town,C-Town_followup_11,Follow-up,Follow-up,False,
+C-Town,C-Town_followup_12,Follow-up,Follow-up,True,0.12772548979853404
+C-Town,C-Town_followup_13,Follow-up,Follow-up,True,0.08941007037824811
+C-Town,C-Town_followup_14,Follow-up,Follow-up,True,0.0
+C-Town,C-Town_followup_15,Follow-up,Follow-up,False,
+C-Town,C-Town_followup_16,Follow-up,Follow-up,True,0.4966281481461007
+C-Town,C-Town_followup_17,Follow-up,Follow-up,True,0.0
+C-Town,C-Town_followup_18,Follow-up,Follow-up,True,0.0
+C-Town,C-Town_followup_19,Follow-up,Follow-up,True,0.0
+C-Town,C-Town_followup_20,Follow-up,Follow-up,True,0.0
+C-Town,C-Town_followup_21,Follow-up,Follow-up,True,0.5620108233354126
+C-Town,C-Town_followup_22,Follow-up,Follow-up,False,
+C-Town,C-Town_followup_23,Follow-up,Follow-up,True,0.0
+Net3,Net3_followup_00,Follow-up,Follow-up,True,0.0
+Net3,Net3_followup_01,Follow-up,Follow-up,True,0.0
+Net3,Net3_followup_02,Follow-up,Follow-up,True,0.0
+Net3,Net3_followup_03,Follow-up,Follow-up,True,0.7608166275234027
+Net3,Net3_followup_04,Follow-up,Follow-up,True,0.5452641896136452
+Net3,Net3_followup_05,Follow-up,Follow-up,True,0.0
+Net3,Net3_followup_06,Follow-up,Follow-up,True,0.21840882373636905
+Net3,Net3_followup_07,Follow-up,Follow-up,True,0.0
+Net3,Net3_followup_08,Follow-up,Follow-up,True,0.0
+Net3,Net3_followup_09,Follow-up,Follow-up,True,0.0
+Net3,Net3_followup_10,Follow-up,Follow-up,True,1.0
+Net3,Net3_followup_11,Follow-up,Follow-up,True,0.0
+Net3,Net3_followup_12,Follow-up,Follow-up,True,0.9199167887369792
+Net3,Net3_followup_13,Follow-up,Follow-up,True,0.0
+Net3,Net3_followup_14,Follow-up,Follow-up,True,0.0
+Net3,Net3_followup_15,Follow-up,Follow-up,True,0.0
+Net3,Net3_followup_16,Follow-up,Follow-up,True,0.0
+Net3,Net3_followup_17,Follow-up,Follow-up,True,0.020487616922928886
+Net3,Net3_followup_18,Follow-up,Follow-up,True,0.14008261610546802
+Net3,Net3_followup_19,Follow-up,Follow-up,True,0.0
+Net3,Net3_followup_20,Follow-up,Follow-up,True,0.05432024678774017
+Net3,Net3_followup_21,Follow-up,Follow-up,True,0.0
+Net3,Net3_followup_22,Follow-up,Follow-up,True,0.2320205599657399
+Net3,Net3_followup_23,Follow-up,Follow-up,True,0.0

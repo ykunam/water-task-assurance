@@ -1,0 +1,159 @@
+{
+  "passed": 30,
+  "total": 30,
+  "candidates": 186,
+  "cross_solver_harm_disagreements": 0,
+  "cross_solver_acceptable_disagreements": 4,
+  "checks": [
+    {
+      "check": "All 48 planned new task records retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "New profiles identical to committed task plan",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Follow-up script unchanged since generation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Follow-up protocol unchanged since generation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Primary generator unchanged",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Original fitting/calibration manifest unchanged",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exploratory candidate restriction diagnostic reproduced",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Follow-up is later than all original test times",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Follow-up arithmetic independently recomputed",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Follow-up numerical status and endpoint labels recomputed",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "All recorded candidates retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "1440 new paired policy episodes retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "New controller attempt budgets respected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "All new selected outcomes match raw evaluator receipts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Figure 1 retains 144 calibration and test task records",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Every Figure 1 residual independently matched",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Figure 2 stages retain every scheduled task",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "24 external sources and one versioned dataset retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "22 selected DOI titles verified against primary metadata",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Two official technical URLs resolve",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Compact citations complete in first-use order",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Exactly two main figures and two editable main tables",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Five editable display equations retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Abstract within 250 words",
+      "passed": true,
+      "detail": "136"
+    },
+    {
+      "check": "Six keywords retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Readable twelve-point double-spaced body",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Uncertainty and physical-safety limits remain visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Full article type not silently changed to Short Communication",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Every compact Table 2 value matched to executed outputs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Every compact Table 1 count matched to raw receipts",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

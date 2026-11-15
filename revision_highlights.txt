@@ -1,0 +1,4 @@
+- Recovery-aware screening changes which water-network tasks count as useful work.
+- Forty-eight locked follow-up tasks test unseen time-varying hidden demand.
+- Two Net3 proxy-harmful tasks pass both scenario and residual screens.
+- Global calibration can eliminate availability while missing shifted outcomes.
