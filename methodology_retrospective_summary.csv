@@ -1,0 +1,8 @@
+cohort,network,gate,scheduled_tasks,acceptable_catalogue,acceptable_learned,harmful_catalogue,harmful_learned
+Primary,Net3,Hold RF,24,8,3,1,2
+Primary,Net3,Scenario task,24,13,13,0,0
+Primary,Net3,Original residual,24,12,12,0,0
+Follow-up,C-Town,Scenario task,24,6,6,0,0
+Follow-up,C-Town,Original residual,24,0,0,0,0
+Follow-up,Net3,Scenario task,24,7,6,2,2
+Follow-up,Net3,Original residual,24,6,6,2,2

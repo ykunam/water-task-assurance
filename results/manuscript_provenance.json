@@ -1,0 +1,83 @@
+{
+  "checked_on": "2026-11-15",
+  "repository": "https://github.com/ykunam/water-task-assurance",
+  "repository_private": false,
+  "freeze_commit": {
+    "sha": "8d6c41cd81e97dcd110f191522eced3c17ccff65",
+    "url": "https://github.com/ykunam/water-task-assurance/commit/8d6c41cd81e97dcd110f191522eced3c17ccff65",
+    "git_author_timestamp": "2026-11-15T18:38:06Z",
+    "git_committer_timestamp": "2026-11-15T18:38:06Z",
+    "signature_verified": false,
+    "signature_reason": "unsigned"
+  },
+  "freeze_workflow": {
+    "run_id": 43747870826,
+    "url": "https://github.com/ykunam/water-task-assurance/actions/runs/43747870826",
+    "head_sha": "8d6c41cd81e97dcd110f191522eced3c17ccff65",
+    "created_at": "2026-11-15T18:38:15Z",
+    "started_at": "2026-11-15T18:38:15Z",
+    "completed_at": "2026-11-15T18:39:02Z",
+    "conclusion": "success"
+  },
+  "results_commit": {
+    "sha": "fb9b53e2523346d50347d749f3e41fbc91397384",
+    "url": "https://github.com/ykunam/water-task-assurance/commit/fb9b53e2523346d50347d749f3e41fbc91397384",
+    "git_committer_timestamp": "2026-11-15T19:15:00Z",
+    "parent_sha": "8d6c41cd81e97dcd110f191522eced3c17ccff65"
+  },
+  "freeze_archive_url": "https://github.com/ykunam/water-task-assurance/archive/8d6c41cd81e97dcd110f191522eced3c17ccff65.zip",
+  "freeze_tree_sha": "0081ddb46e8f3c5e85b56c7a85aa98b2c30f3049",
+  "outcome_receipts_present_at_freeze": false,
+  "qualification": "Unsigned Git timestamps are recorded metadata. The GitHub workflow record independently links the freeze hash to a platform-recorded run time. The records establish freeze-before-results-deposition, not independent certification of every local simulation start time or external preregistration.",
+  "anonymous_access_check": "The public web retrieval service did not permit GitHub requests; public visibility was verified through repository API metadata.",
+  "frozen_files": [
+    {
+      "path": "ssrn_validation.py",
+      "bytes": 2809,
+      "sha256": "81c269f951005d0f863b5559596ada0c2eaf09ccc490b1e905e60411dc8f6eed",
+      "git_blob_sha": "4081d44d08028c71bec802108906a473331cbe55"
+    },
+    {
+      "path": "admissibility_audit.py",
+      "bytes": 2548,
+      "sha256": "ea57725e12b2f9d8b6395b9e7d8ec46ec500ade530b0de92f92725f68f1a7900",
+      "git_blob_sha": "680711062eeae51ff351c26e7a6675000b333466"
+    },
+    {
+      "path": "ssrn_validation_protocol.md",
+      "bytes": 3393,
+      "sha256": "cb86c38cc540b842f8dff4fece12debfb3349ca02862dcb90cd5a32c7e95760f",
+      "git_blob_sha": "c77f07f08fda3425666739609bd97bf29e0a5c4c"
+    },
+    {
+      "path": "followup_validation.py",
+      "bytes": 9193,
+      "sha256": "5236811de66dd46cb3510e3594a3ca44abd172db6fabce42c9e1c068d8c79e96",
+      "git_blob_sha": "f59a5843cfbc1bb0308e83e51914b20acde82f28"
+    },
+    {
+      "path": "assurance.py",
+      "bytes": 18772,
+      "sha256": "48de30bd03fd783974fc222f32249b26aaa30dd35fe2d477a8495fe2798bb6e2",
+      "git_blob_sha": "f003b3f00b9efe9a3169f2b1cc57347280bd26ca"
+    },
+    {
+      "path": "results/fit_manifest.json",
+      "bytes": 3085,
+      "sha256": "51cc77be15446050d48ebc902b90f6e9998646498c7f036eaafd11fec8243c43",
+      "git_blob_sha": "cdf34a7e025ebafcf7624dc7af3672e53e66a16e"
+    },
+    {
+      "path": "results/ssrn_calibration.json",
+      "bytes": 12049,
+      "sha256": "2d3bbaa8446e5cdda030358ff41951926684c420335d42cefd29cce0a71704eb",
+      "git_blob_sha": "a72a061a5fcdbc4738fa9b58244ea29a2b346813"
+    },
+    {
+      "path": "results/ssrn_states.json",
+      "bytes": 15843,
+      "sha256": "3e515dca3f96d1f91e36d19da125f45a4f3c9ae6a375306bf4c1a64d44de3653",
+      "git_blob_sha": "2dc926aaa1c91b04d36cb68b2c3ea5591cea3de4"
+    }
+  ]
+}
